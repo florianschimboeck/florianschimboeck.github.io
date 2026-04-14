@@ -76,8 +76,10 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="Noch geheim – aber die Zahnräder drehen sich – Florian Schimböck">
 <meta property="og:description" content="Hier entsteht gerade etwas Neues. Da die Technik und ich uns an ein paar Stellen noch uneinig sind, bitte ich noch um etwas Geduld. Details folgen, sobald Kaffee, technische Umsetzung und eigene Vorstellungen in Einklang gebracht wurden.">
-<meta property="og:image" content="coming-soon.png">
+<meta property="og:image" content="https://florianschimboeck.com/resources/Coming soon/coming-soon.png">
 <meta property="og:site_name" content="Florian Schimböck">
+<meta property="og:image:height" content="292">
+<meta property="og:image:width" content="514">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -295,7 +297,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/florianschimboeck\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
