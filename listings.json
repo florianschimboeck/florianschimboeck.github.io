@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/speaking.html",
+    "items": []
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/Coming soon/index.html",
+      "/research/WDAD-Subanalyse DACH 2023/index.html"
+    ]
+  },
+  {
+    "listing": "/resources.html",
+    "items": [
+      "/resources/Coming soon/index.html",
+      "/resources/Virtueller Room of Horrors/index.html"
+    ]
+  }
+]
