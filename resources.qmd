@@ -1,0 +1,17 @@
+---
+title: "Ressourcen"
+listing:
+  contents: "resources"
+  type: grid
+  max-description-length: 200
+  filter-ui: true
+  categories: true
+  sort-ui: [date]
+  sort: "date desc"
+  fields: [title, author, date, image, categories, description, reading-time]
+---
+
+Hier finden sich digitale Lehr- und Lernmaterialien, die ich im Rahmen meiner pädagogischen Arbeit entwickelt habe. Der Schwerpunkt liegt auf interaktiven H5P-Inhalten, virtuellen Simulationsumgebungen und E-Learning-Modulen für die Pflegeausbildung.
+
+:::{#listing-resources}
+:::

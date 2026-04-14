@@ -1,0 +1,64 @@
+---
+title: "Forschung"
+listing:
+  contents: "research"
+  type: default
+  image-height: 300px
+  max-description-length: 250
+  filter-ui: true
+  categories: true
+  sort-ui: [date]
+  sort:
+    - "date desc"
+  fields: [title, date, image, categories, description, reading-time]
+---
+
+Auf dieser Seite gebe ich einen Überblick über meine aktuellen und abgeschlossenen Forschungsprojekte und damit verbundenen Publikationen. Meine Arbeit bewegt sich an der Schnittstelle von Pflegewissenschaft und digitaler Innovation mit den Schwerpunkten Delir, Demenz, virtuelle Simulation, E-Learning und Künstliche Intelligenz in der Pflege. Detaillierte Informationen zu einzelnen Projekten und Publikationen finden sich auf der jeweiligen Projektseite.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(bslib)
+library(bsicons)
+
+layout_columns(
+  col_widths = c(3, 3, 3, 3),
+  value_box(
+    title = "h-Index",
+    value = 4,
+    showcase = bsicons::bs_icon("graph-up", size = "2rem"),
+    showcase_layout = "left center", 
+    theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
+    max_height = "150px"
+  ),
+  value_box(
+    title = "Artikel",
+    value = 22,
+    showcase = bsicons::bs_icon("journal-text", size = "2rem"),
+    showcase_layout = "left center", 
+    theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
+    max_height = "150px"
+  ),
+  value_box(
+    title = "Bücher",
+    value = 2,
+    showcase = bsicons::bs_icon("book", size = "2rem"),
+    showcase_layout = "left center", 
+    theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
+    max_height = "150px"
+  ),
+  value_box(
+    title = "Buchbeiträge",
+    value = 3,
+    showcase = bsicons::bs_icon("book-half", size = "2rem"),
+    showcase_layout = "left center", 
+    theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
+    max_height = "150px"
+  )
+)
+```
+
+:::{#listing-research}
+:::

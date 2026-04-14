@@ -1,0 +1,61 @@
+---
+title: "Vorträge"
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+listing:
+  - id: kommend
+    contents: "speaking/speaking.yml"
+    type: grid
+    grid-columns: 1
+    max-description-length: 250
+    filter-ui: false
+    categories: false
+    sort: "date asc"
+    max-items: 5
+    include:
+      categories: "Kommend"
+ 
+  - id: vergangen
+    contents: "speaking/speaking.yml"
+    type: table
+    max-description-length: 250
+    filter-ui: true
+    categories: false
+    sort-ui: [date]
+    sort: "date desc"
+    fields: [date, title, description]
+    include:
+      categories: "Vergangen"
+---
+
+Wissen zu teilen ist für mich ein zentraler Teil meiner Arbeit — ob auf Kongressen, Tagungen, Symposien, an Hochschulen, in Pflegeschulen oder direkt in Einrichtungen vor Ort. Als Referent verbinde ich wissenschaftliche Erkenntnisse mit praktischer Erfahrung und gestalte meine Veranstaltungen interaktiv und praxisnah. Meine Schwerpunktthemen spiegeln dabei meine Forschungsthemen wider. Auf dieser Seite findet sich ein Überblick über nächsten Veranstaltungen an denen ich mit einem Beitrag vertreten bin und natürlich eine Liste an vergangenen Events.
+
+### {{< fa forward >}} Kommend
+
+:::{#kommend}
+:::
+
+```{=html}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const listing = document.getElementById('kommend');
+    if (listing) {
+      const items = listing.querySelectorAll('.quarto-grid-item');
+      if (items.length === 0) {
+        const hinweis = document.createElement('p');
+        hinweis.style.color = '#6b6b66';
+        hinweis.style.fontStyle = 'italic';
+        hinweis.style.padding = '8px 0';
+        hinweis.textContent = 'Derzeit keine Vorträge geplant.';
+        listing.appendChild(hinweis);
+      }
+    }
+  });
+</script>
+```
+
+### {{< fa backward >}} Vergangen
+
+:::{#vergangen}
+:::

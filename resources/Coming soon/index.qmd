@@ -1,0 +1,17 @@
+---
+title: "Noch geheim – aber die Zahnräder drehen sich"
+author: "Florian Schimböck"
+date: 2026-04-01
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "coming-soon.png"
+description: "Hier entsteht gerade etwas Neues. Da die Technik und ich uns an ein paar Stellen noch uneinig sind, bitte ich noch um etwas Geduld. Details folgen, sobald Kaffee, technische Umsetzung und eigene Vorstellungen in Einklang gebracht wurden."
+categories: [Demnächst, H5P]
+---
+
+:::{.callout-note title=Hinweis}
+Das Projekt befindet sich in der technischen Umsetzung. Leider klappt noch nicht alles so wie ich es mir vorstelle. Aus diesem Grund wird es noch etwas dauern. Vielleicht beim nächsten Mal.
+:::
+

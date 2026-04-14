@@ -1,0 +1,81 @@
+---
+title: "Delir-Prävalenz und -Management in der DACH-Region"
+author: "Florian Schimböck"
+date: 2025-02-10
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "wdad-2023.png"
+description: "Eine Sekundäranalyse einer weltweiten Punktprävalenzstudie (WDAD 2023) zu Delirprävalenz, Assessmentpraxis, Management sowie Barrieren in Allgemeinstationen, Notaufnahmen, Rehabilitationszentren und Pflegeheimen der DACH-Länder."
+categories: [2025, Quantitativ, Delir]
+---
+
+### Hintergrund
+
+Delir ist ein akutes, fluktuierendes neuropsychiatrisches Syndrom, das durch Aufmerksamkeitsdefizite, kognitive Beeinträchtigungen sowie abnorme Wahrnehmungsstörungen gekennzeichnet ist. Es kann durch akute Auslöser wie Infektionen, Dehydratation, operative Eingriffe oder prolongierte Immobilität entstehen und geht mit schwerwiegenden Folgen einher: erhöhte Sterblichkeit, verlängerte Krankenhausaufenthalte, funktioneller Abbau, Stürze sowie langfristige kognitive Verschlechterung. Trotz dieser erheblichen Krankheitslast wird ein Delir häufig nicht erkannt und bleibt unterdiagnostiziert.
+
+> „Jedes Delir sollte vermieden werden – es hat schwerwiegende Konsequenzen für Betroffene, An- und Zugehörige sowie Gesundheitsfachpersonen."
+
+Während international Punktprävalenzstudien zum Delir zunehmend vorliegen, fehlten bislang systematische Daten zur Delirprävalenz und zum Delirmanagement in Deutschland, Österreich und der Schweiz (DACH-Länder) außerhalb von Intensivstationen.
+
+### Ziel
+
+Die primäre Zielsetzung dieser Sekundäranalyse war die Erfassung der Delirprävalenz in Allgemeinstationen, Notaufnahmen, Rehabilitationszentren und Pflegeheimen der DACH-Länder. Sekundär wurden die eingesetzten Delirassessments, vorhandene Delirbewusstseinsstrukturen, das Vorliegen von Delirprotokollen, Barrieren des Delirmanagements sowie pharmakologische und nicht-pharmakologische Interventionen erfasst.
+
+### Methodik
+
+Das Projekt ist eine Sekundäranalyse des weltweiten WDAD 2023 Delirium Survey (World Delirium Awareness Day, 15. März 2023). Mittels eines validierten 39-Fragen-Online-Surveys wurden an einem einzigen Stichtag aggregierte Patient:innen- und Einrichtungsdaten erhoben, jeweils um 8:00 Uhr morgens und 20:00 Uhr abends (± 4 Stunden). 
+Insgesamt beteiligten sich insgesamt 172 Stationen aus Deutschland (52,9 %), Österreich (22,1 %) und der Schweiz (25,0 %). Der überwiegende Teil der eingeschlossenen Einrichtungen waren Allgemeinstationen (91,3 %), ergänzt durch Notaufnahmen, Rehabilitationszentren und Pflegeheime. Ausgeschlossen wurden Intensiv-, Intermediate-Care- und High-Acuity-Einheiten.
+
+### Ergebnisse
+
+**Delirprävalenz**
+Die Gesamtprävalenz lag bei 7,1 % am Morgen und 7,2 % am Abend – und damit deutlich unter vergleichbaren internationalen Studien, beispielsweise aus Italien (22,9 %) oder US-amerikanischen Rehabilitationseinrichtungen (bis zu 26 %). Auffällig war der Unterschied zwischen den Ländern: In Deutschland wurden mit 4,9 % morgens nur etwa halb so viele Delirien festgestellt wie in Österreich (10,4 %) und der Schweiz (10,3 %).
+
+> „Wer viel sucht, findet viel" – ein Befund der Studie unterstreicht diese Redensart: Stationen, die das Delir-Assessment dreimal täglich durchführten, wiesen eine statistisch signifikant niedrigere Delir-Prävalenz auf als Stationen mit anderen Erhebungsfrequenzen.
+
+**Assessmentpraxis**
+Die am häufigsten eingesetzten validierten Instrumente waren die Nursing Delirium Screening Scale (Nu-DESC), die Confusion Assessment Method (CAM) und die Delirium Observation Screening Scale (DOSS). Die Wahl des Instruments variierte dabei deutlich zwischen den Ländern: In Deutschland und Österreich dominierte die Nu-DESC, in der Schweiz die CAM – ein Spiegelbild länderspezifischer Übersetzungs- und Implementierungsgeschichten. In allen drei Ländern waren Pflegefachpersonen mit rund 80 % die primär verantwortliche Berufsgruppe für das Delir-Assessment.
+
+:::{.callout-warning title=Wichtig}
+58,1 % der teilnehmenden Stationen verwendeten ein validiertes Delir-Assessment. Internationale Leitlinien empfehlen hingegen mindestens eine tägliche Erhebung mit einem validierten Instrument.
+:::
+
+**Versorgungsstrukturen und Barrieren**
+Mehr als drei Viertel der Stationen (76,7 %) verfügten über ein Delirmanagement-Protokoll, ein positives Signal für das vorhandene Bewusstsein gegenüber publizierten Leitlinien. Die am häufigsten genannten Barrieren für eine leitliniengerechte Delirversorgung waren:
+
+- Personalmangel (45,3 %)
+- Schwer beurteilbare Patient:innen (32,6 %)
+- Kommunikationslücken zwischen Berufsgruppen (29,1 %)
+
+**Prävention und Maßnahmen**
+Bei den (pflege-)therapeutischen Maßnahmen zeigte sich ein erfreuliches Bild: Mobilisation (92,4 %), Schmerzmanagement (87,8 %) und ausreichende Flüssigkeitszufuhr (83,7 %) wurden auf nahezu allen Stationen als regelmäßige Interventionen berichtet, in Übereinstimmung mit nationalen und internationalen Empfehlungen.
+
+Pharmakologisch kamen vor allem Quetiapin (47,1 %) und Risperidon (36,6 %) zum Einsatz – trotz bestehender Leitlinienempfehlungen zur Minimierung von Antipsychotika.
+
+### Diskussion
+
+Die ermittelte Delirprävalenz in den DACH-Ländern liegt unterhalb der internationalen Vergleichswerte aus Italien (22,9 %), den USA (10–12 %) oder Notaufnahmen verschiedener Länder (bis zu 36,0 %). Dies könnte auf einen Selektionsbias zurückzuführen sein, da überwiegend Einrichtungen mit bereits bestehendem Delirinteresse teilnahmen. Gleichzeitig deuten die Ergebnisse darauf hin, dass eine höhere Assessmentfrequenz mit niedrigeren Prävalenzraten assoziiert ist – ein Befund, der auf eine sicherere Anwendung der Assessments und weniger Fehlklassifikationen hinweisen könnte.
+
+:::{.callout-tip title=Tipp}
+Stationen mit etablierten Strukturen zur Bewusstseinsbildung hatten eine 13-fach höhere Chance, valide Delirassessments einzusetzen (OR 13,31; 95 % KI 3,79–46,76). Strukturelle Investitionen und Maßnahmen zur Bewusstseinsbildung in Delirprogramme zahlen sich also aus.
+:::
+
+Der hohe Anteil an Quetiapin- und Risperidon-Einsatz trotz gegenteiliger Leitlinienempfehlungen verweist auf eine Lücke zwischen Evidenz und klinischer Praxis, die durch gezielte Implementierungsprojekte adressiert werden sollte.
+
+### Schlussfolgerung
+
+Delir stellt weiterhin eine bedeutsame Herausforderung für die Gesundheitsversorgung in den DACH-Ländern dar. Die Studie zeigt, dass ein Großteil der Stationen über Managementprotokolle verfügt und damit eine grundlegende Sensibilisierung vorhanden ist. Verbesserungspotenzial besteht insbesondere bei der interprofessionellen Zusammenarbeit, der flächendeckenden Nutzung valider Assessments, der Personalausstattung sowie der leitlinienkonformen pharmakologischen Therapie. Diese Sekundäranalyse kann als Ausgangspunkt dienen, um gezielte Qualitätsverbesserungsprojekte anzustoßen und das Delirmanagement in den DACH-Ländern und darüber hinaus nachhaltig zu stärken.
+
+### Publikation
+
+**Schimböck**, F., Krüger, L., Hoffmann, M., Jeitziner, M., Lindroth, H., Liu, K., Nydahl, P., Von Haken, R., Exl, M. T. & Fischbacher, S. (2025). Delirium prevalence and management in general wards, emergency departments, rehabilitation centres and nursing homes in Germany, Austria and Switzerland (DACH countries): A secondary analysis of a worldwide point prevalence study. International Journal Of Nursing Studies Advances, 8, 100309. <https://doi.org/10.1016/j.ijnsa.2025.100309>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.1016/j.ijnsa.2025.100309"
+      data-style="large_rectangle">
+</span>
+```

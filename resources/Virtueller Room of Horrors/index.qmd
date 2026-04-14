@@ -1,0 +1,170 @@
+---
+title: "Virtueller Room of Horrors"
+author: "Florian Schimböck"
+date: 2026-04-01
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "roomofhorror.jpg"
+description: "Der virtuelle Room of Horrors überträgt das bekannte Patientensicherheitskonzept in den digitalen Raum. Mithilfe des H5P-Tools Virtual Tour (360°) kann man durch ein virtuelles Zimmer navigieren und interaktiv eingebaute Fehler und Risiken identifizieren. Der Ansatz ist ortsunabhängig, beliebig wiederholbar und ohne spezielle Hardware im Browser nutzbar."
+categories: [2025, Virtuelle Simulation, H5P]
+---
+
+### Was ist der Room of Horrors
+
+Der Room of Horrors ist eine etablierte Methode für Aus-, Fort- und Weiterbildung in den Gesundheitsberufen, die auf dem Prinzip des entdeckenden Lernens basiert. Lernende betreten dabei einen präparierten Raum, meist ein nachgestelltes Patient:innenzimmer, und haben die Aufgabe, möglichst viele Fehler, Gefahrenquellen und Risiken für die Versorgungssicherheit zu identifizieren. Ob beispielsweise Katheterbeutel über Blasenniveau, unbeschriftete Medikamente, Stolperfallen, nicht erreichbare Rufglocken oder Getränke. Die bewusst platzierten Fehler fordern die Beobachtungsgabe, das Fachwissen und das kritische Denken der Teilnehmenden heraus. Diese Methode ist nicht nur motivierend, sondern fördert nachhaltig die Fehlersensibilität, eine wichtige Kompetenz im Kontext der Gesundheitsversorgung.
+
+Das Problem in der Praxis: Ein physischer Room of Horrors ist aufwendig vorzubereiten, benötigt Raum, Material, Zeit und kann immer nur einer intra- oder interprofessionellen Gruppe gleichzeitig zur Verfügung stehen. Genau hier bietet die Digitalisierung eine elegante Lösung.
+
+### Der virtuelle Room of Horrors
+
+Mit einer 360°-Kamera lässt sich ein präpariertes Zimmer oder ein Arbeitsbereich vollständig und realistisch abbilden und anschließend in eine interaktive Lernumgebung verwandeln. Der Raum kann ortsunabhängig, zu jeder Zeit und so oft man möchte erkundet werden, ganz ohne physischen Aufbau. Die H5P-Aktivität Virtual Tour (360°) bietet dafür eine didaktisch durchdachte und technisch niedrigschwellige Umsetzungsmöglichkeit, die sich nahtlos in Lernmanagementsysteme (z. B. Moodle, Blackboard) oder Webseiten (z. B. Intranet) integrieren lässt.
+
+### Schritt 1: Vorbereitung
+
+Bevor die 360°-Kamera in die Hand genommen wird, steht die didaktische Planung. Überlegen Sie zunächst, welche Fehler, Gefahren oder Risiken im Raum versteckt werden sollen. Orientieren Sie sich dabei am besten an dem Versorgungssetting und den Lernzielen, die sie erreichen wollen: Geht es um Hygiene, Sturzprophylaxe, Medikamentensicherheit, Lagerung oder eine Kombination davon? Dokumentieren Sie alle platzierten Fehler schriftlich, das erleichtert später das Erstellen der Hotspots erheblich. Bereiten Sie den Raum oder Arbeitsbereich entsprechend vor, als würden Sie einen physischen Room of Horrors umsetzen.
+
+Ein besonders wichtiger Planungsschritt ist zudem die Überlegung, von wie vielen Positionen aus Sie den Raum fotografieren möchten. Ein einzelnes 360°-Bild zeigt zwar den gesamten Raum, doch je nach Raumgröße und Fehlerverteilung kann es sinnvoll – und didaktisch reizvoll – sein, mehrere Standpunkte zu wählen. Stellen Sie sich dabei vor, wo Sie im echten Raum „stehen" würden, um bestimmte Bereiche besonders gut einsehen zu können: einmal in der Mitte des Zimmers mit Blick auf alles, einmal näher am Nachttisch, einmal beim Pflegewagen. In H5P lassen sich diese einzelnen Aufnahmen später miteinander verknüpfen, sodass man sich per Point-and-Click durch den Raum bewegen und ganz unterschiedliche Positionen und Blickwinkel einnehmen kann, ähnlich wie bei einer klassischen virtuellen Besichtigungstour. Das erhöht nicht nur den Realismus, sondern zwingt einen auch dazu, den Raum wirklich aktiv zu erkunden, anstatt alles auf einen Blick zu erfassen.
+
+Für die Aufnahmen selbst benötigen Sie:
+
+- Eine **360°-Kamera** (z. B. Ricoh Theta, Insta360 ONE X2 oder vergleichbare Geräte). Diese Kameras erzeugen mit einem einzigen Auslöser eine vollständige Rundumsicht und sind auch ohne fotografische Vorkenntnisse bedienbar.
+- Ein **Stativ**, das die Kamera auf Augenhöhe positioniert, idealerweise auf etwa 1,50 m Höhe, um eine realistische Perspektive im Stehen zu erzeugen.
+- Eine gute, gleichmäßige **Beleuchtung** im Raum. Natürliches Licht oder ausreichend helle Raumbeleuchtung verbessern die Bildqualität erheblich.
+- Ein **Smartphone** oder eine kleine **Digitalkamera**, um ergänzende Detailaufnahmen einzelner Fehlerstellen zu fotografieren. Wo das 360°-Bild an seine Grenzen stößt – etwa bei kleinen Beschriftungen, unübersichtlich abgelegten Medikamenten oder feinen Hygienemängeln – liefert ein normales Foto die nötige Schärfe und Nähe. Diese Detailbilder lassen sich in H5P direkt in die Hotspots einbinden und sind beim Klicken auf eine Fehlerstelle abrufbar.
+
+Stellen Sie das Stativ für jede Aufnahmeposition möglichst so auf, dass möglichst viele der platzierten Fehler gut sichtbar sind. Verlassen Sie den Raum oder Arbeitsbereich und lösen Sie die Aufnahme per Fernauslöser oder Timer aus, damit Sie selbst nicht im Bild erscheinen. Planen Sie Ihre Positionen am besten vorab anhand einer kleinen Skizze des Raumes.
+
+:::{.callout-tip title=Tipp}
+Achten Sie darauf, dass alle platzierten Fehler gut sichtbar im Bild sind und nicht durch Möbel oder Winkel verdeckt werden. Machen Sie vorab eine Probeaufnahme und prüfen Sie das Ergebnis auf dem Smartphone oder Laptop, bevor Sie die finale Aufnahme aufnehmen. Fehler, die von einer Position aus nicht gut zu sehen sind, lassen sich gezielt von einer zweiten Kameraposition aus abdecken.
+:::
+
+Nach der Aufnahme übertragen Sie die 360°-Bilder auf Ihren Computer. Viele 360°-Kameras liefern die Bilder direkt in einem passenden Format, sodass keine weitere Bearbeitung der Bilder notwendig ist.
+
+### Schritt 2: H5P Virtual Tour
+
+H5P ist ein Open-Source-Framework zur Erstellung interaktiver Lerninhalte, das direkt im Browser funktioniert und keine Programmierkenntnisse erfordert. Die Aktivität Virtual Tour (360°) ermöglicht es, 360°-Bilder hochzuladen und mit verschiedenen Arten von Hotspots zu versehen.
+Rufen Sie in Ihrer Plattform (z. B. Moodle) den H5P-Editor auf und wählen Sie den Inhaltstyp „Virtual Tour (360°)". Laden Sie Ihr 360°-Bild als Hintergrund der Szene hoch. Ab diesem Moment können Sie den Raum bereits im Editor drehen und erkunden.
+
+### Schritt 3: Hotspots
+
+Das Herzstück der Virtual Tour sind die Hotspots – kleine, anklickbare Markierungen, die direkt im 360°-Bild platziert werden. Navigieren Sie im Editor zu einer Fehlerstelle und setzen Sie dort einen Hotspot. H5P bietet dabei verschiedene Interaktionstypen an.
+
+**Informationshotspot:** Zeigt beim Klick einen Text, ein Bild oder ein Video an. Ideal, um das Szenario mit Details zu unterfüttern. Zum Beispiel lässt sich so Dokumentation zum sichten bereitstellen.
+
+**Interaktionspanel mit Quiz:** Für einen klassischen Room of Horrors ist es eher untypisch, aber es ist im Fall auch möglich Quiz-Fragen zu integrieren. Diese können als klassisches Quiz oder als Anregung zur vertieften Auseinandersetzung genutzt werden.
+
+**Szenensprung:** Wenn Sie mehrere 360°-Bilder angelegt haben, können Sie Hotspots als Übergänge nutzen, um von einer Szene in die nächste zu wechseln. So kann man sich durch den virtuellen Raum bewegen und sogar unterschiedliche Räume erkunden.
+
+:::{.callout-tip title=Tipp}
+Nutzen Sie nicht zu viele Hotspots pro Szene. Eine gute Faustregel sind 3-5 bewusst platzierte Fehler pro Szene – genug, um eine echte Herausforderung zu schaffen, aber nicht so viele, dass die Szene überladen wirkt. Denken Sie auch daran, absichtlich einige Stellen unauffällig zu gestalten oder nicht relevante Details zu präsentieren, damit wirklich genau hingeschaut und reflektiert werden muss.
+:::
+
+### Schritt 4: Ausprobieren
+
+Ist die Virtual Tour fertiggestellt, sollten Sie diese ausgiebig testen. Bewegen Sie sich selbst durch den Raum und probieren Sie alle Szenensprünge und Hotspots aus, um möglich Fehler zu finden. Bitten Sie eventuell Kolleg:innen darum den Raum zu erproben und Feedback zu geben, bevor Sie diesen in Aus-, Fort- und Weiterbildung einsetzen. Nachfolgend finden Sie ein Beispiel zum Ausprobieren.
+
+```{=html}
+<div class="iframe-placeholder" id="lumi-placeholder">
+  <div class="iframe-overlay">
+    <p class="iframe-info">
+      <i class="bi bi-info-circle"></i>
+      Dieser Inhalt wird von <strong>Lumi Education</strong> bereitgestellt.
+      Beim Laden wird eine Verbindung zu externen Servern hergestellt
+      und Ihre IP-Adresse übertragen.
+    </p>
+    <button class="btn btn-outline-primary btn-sm" onclick="loadLumi()">
+      <i class="bi bi-play-circle"></i> Inhalt laden
+    </button>
+    <p class="iframe-hint">
+      Weitere Informationen in unserer
+      <a href="datenschutz.html" target="_blank">Datenschutzerklärung</a>.
+    </p>
+  </div>
+</div>
+
+<div id="lumi-iframe" style="display:none;">
+  <iframe 
+    id="lumi-frame"
+    src=""
+    width="100%" 
+    height="500" 
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen="allowfullscreen"
+    allow="geolocation *; microphone *; camera *; midi *; encrypted-media *">
+  </iframe>
+</div>
+
+<script>
+function loadLumi() {
+  // Erst src setzen, dann anzeigen
+  var iframe = document.getElementById('lumi-frame');
+  iframe.src = 'https://app.lumi.education/api/v1/run/6gcyX6/embed';
+  
+  document.getElementById('lumi-placeholder').style.display = 'none';
+  document.getElementById('lumi-iframe').style.display = 'block';
+
+  // Resizer nach kurzem Delay laden damit iframe Zeit hat zu initialisieren
+  setTimeout(function() {
+    var script = document.createElement('script');
+    script.src = 'https://app.lumi.education/api/v1/h5p/core/js/h5p-resizer.js';
+    script.charset = 'UTF-8';
+    document.body.appendChild(script);
+  }, 500);
+}
+</script>
+```
+
+### Schritt 5: Einsatz
+
+Die virtuelle Tour kann nach Fertigstellung beliebig über eine LMS-Plattform oder Webseite eingebunden werden. Der virtuelle Room of Horrors kann beliebig auf dem Laptop mit Maus, auf einem Tablet mit Touchscreen erkundet werden. Manche VR-Brillen unterstützen auch H5P-Tools, um ein noch immersiveres Erlebnis zu bieten.
+
+Didaktisch lässt sich der virtuelle Room of Horrors flexibel einsetzen: als vorbereitende Aufgabe vor einer Präsenzveranstaltung, als Einstieg in eine Unterrichtseinheit zum Thema Patient:innensicherheit, als Selbstlernaufgabe mit automatisiertem Feedback oder als Grundlage für eine anschließende Gruppendiskussion im Plenum.
+
+:::{.callout-tip title=Tipp}
+Kombinieren Sie die Virtual Tour mit einem ergänzenden Beobachtungsauftrag und lassen Sie die gefundenen Fehler in einem Arbeitsblatt oder einem digitalen Formular mit dokumentieren. So entsteht ein echter Entdeckungsprozess und man hat eine gute Diskussionsgrundlage für die Nachbesprechung.
+:::
+
+### Schritt 6: Nachbesprechung
+
+Keine Simulation ist vollständig ohne eine strukturierte Nachbesprechung (Debriefing). Das gilt auch für den virtuellen Room of Horrors. Das Debriefing ist nicht bloß ein optionaler Abschluss, sondern der didaktisch entscheidende Moment, in dem das Erlebte reflektiert, vertieft und mit der beruflichen Realität verknüpft wird. Erst in diesem Schritt wird aus dem Entdecken von Fehlern echtes, transferfähiges Lernen.
+
+> „Das Debriefing ist häufig der eigentliche Lernmoment. Die (virtuelle) Simulation schafft das Erlebnis – die Nachbesprechung schafft das Verstehen."
+
+Je nach Kurskontext und verfügbarer Zeit bieten sich unterschiedliche Formate an, die sich auch miteinander kombinieren lassen:
+
+Beim **Selbst-Debriefing** wird individuelle reflektiert, etwa mithilfe von Leitfragen in einem digitalen oder analogen Arbeitsblatt. Fragen wie „Welche Fehler habe ich entdeckt?", „Was hat mich überrascht?" oder „Was hätte ich in einer realen Situation als Erstes getan?" regen zur persönlichen Auseinandersetzung an, bevor der Austausch mit anderen beginnt. Dieses Format eignet sich besonders gut, wenn die Virtual Tour als asynchrone Selbstlernaufgabe eingesetzt wird.
+
+Beim **Gruppen-Debriefing**, ob in Präsenz oder in einem digitalen Videoformat, kann man sich aktiv zu den Beobachtungen austauschen und diskutieren. Gerade hier zeigt sich häufig, dass Fehler unterschiedlich identifiziert und priorisiert werden, was eine wertvolle Grundlage für ein vertieftes Gespräch über Risikowahrnehmung und professionelles Urteilsvermögen ist.
+
+Die **Kombination aus beidem** ist besonders wirkungsvoll, vor allem wenn zwischen Selbstlernaufgabe und Gruppen-Debriefing ein zeitlicher Abstand von ein paar Tagen liegt. Die Aufgabe wird im Selbst-Debriefing eigenständig reflektiert und dokumentiert. Die Ergebnisse werden zum Gruppen-Debriefing mitgebracht und können um die Einschätzungen und Gedanken der Gruppe ergänzt werden. Dadurch entwickelt sich ein gemeinsames und vollständiges Bild.
+
+Unabhängig vom gewählten Format sollte das Debriefing inhaltlich drei zentrale Fragen in den Mittelpunkt stellen:
+
+- **Was wurde entdeckt?** – Welche Risiken und Fehler wurden identifiziert, welche möglicherweise übersehen?
+- **Was tut man in der Praxis?** – Wie würde man in einer realen Situation konkret handeln, wenn man diese Gefahr entdeckt? Wer wird informiert, was wird dokumentiert, was wird sofort behoben?
+- **Wie lässt sich das in Zukunft vermeiden?** – Welche strukturellen, organisatorischen oder persönlichen Maßnahmen tragen dazu bei, dass solche Fehler im Versorgungsalltag gar nicht erst entstehen?
+
+Planen Sie für das Debriefing ausreichend Zeit ein. Gerade in Kontexten von Ausbildung und Studium bietet die gemeinsame Reflexion von Fehlern und Risiken die Chance, eine offene Fehlerkultur zu etablieren – eine Haltung, die im späteren Berufsalltag Leben retten kann.
+
+:::{.callout-tip title=Tipp}
+Halten Sie die Ergebnisse des Gruppen-Debriefings sichtbar fest, zum Beispiel auf einem digitalen Whiteboard (z. B. Miro, Padlet). So entsteht eine gemeinsam erarbeitete Übersicht aller identifizierten Risiken, die im Nachgang nochmals aufgerufen und eventuell auch für die Prüfungsvorbereitung genutzt werden kann.
+:::
+
+### Fazit
+
+Der virtuelle Room of Horrors verbindet eine bewährte, handlungsorientierte Lernmethode mit den Möglichkeiten der digitalen Bildung und zeigt, dass beides keine Gegensätze sein müssen. Mit einer 360°-Kamera, einem Stativ, einem Smartphone und dem kostenlosen H5P-Tool entsteht ein Lernmaterial, das fachliches Wissen aktiviert, Bewusstsein schafft und die Fehlersensibilität schult, die im Versorgungsalltag so entscheidend ist.
+
+Der initiale Aufwand für Planung, Aufnahme und Umsetzung in H5P ist überschaubar und zahlt sich schnell aus. Die fertige Tour lässt sich beliebig oft einsetzen, jederzeit aktualisieren und ohne großen technischen Aufwand an neue Perosnengruppen oder veränderte Lernziele anpassen. Was früher einen physischen Raum, aufwendige Vorbereitung und feste Zeitfenster erforderte, steht nun rund um die Uhr zur Verfügung.
+
+Dabei ist eines ausdrücklich festzuhalten: Der virtuelle Room of Horrors ist kein Ersatz für sein physisches Pendant. Der klassische, gemeinsam begangene Raum hat Qualitäten, die digital kaum zu replizieren sind, die unmittelbare Begegnung mit dem Fehler, das gemeinsame Entdecken in der Gruppe, der aktive intra- oder interprofessionelle Austausch zwischen den Gesundheitsberufen sowie der lebendige Diskurs direkt vor Ort. Diese Form des erfahrungsbasierten Lernens bleibt wertvoll und sollte in der Aus-, Fort- und Weiterbildung ihren festen Platz behalten.
+
+Die Stärke des virtuellen Formats liegt vielmehr in seiner Rolle als Ergänzung, insbesondere dort, wo ein physischer Aufbau an seine Grenzen stößt. Viele pflegerische und medizinische Settings lassen sich mit einem realen Room of Horrors schwer erschließen: Eine Intensivstation oder Intermediate Care Unit, ein Operationssaal, eine Notaufnahme, eine Ambulanz, eine Apotheke oder eine niedergelassene Praxis können nicht einfach für Übungszwecke tageweise "blockiert" werden. Genau hier kann der virtuelle Room of Horrors seine Stärken voll entfalten, er macht settingspezifische Patient:innensicherheit lernbar, die sonst nur schwer umsetzbar ist und trägt so zu einem umfassenderen Bewusstsein für Risiken über das klassische Patient:innenzimmer hinaus bei.
+
+Entscheidend bleibt in jedem Fall, den digitalen Erkundungsraum nicht als reines Selbstlernformat zu verstehen, sondern ihn konsequent mit einem strukturierten Debriefing zu verbinden. Denn erst in der Reflexion, ob individuell oder in der Gruppe, wird aus dem Entdecken von Fehlern ein nachhaltiger Lernprozess, der auf die komplexen und vielfältigen Anforderungen der Versorgungspraxis vorbereitet.
+
+:::{.callout-tip title=Tipp}
+Scheuen Sie sich nicht davor, die Zielgruppe selbst in die Erstellung einzubeziehen. Wer selbst einen Room of Horrors plant, Fehler bewusst inszeniert und fotografisch festhält, durchläuft dabei einen besonders tiefen Lernprozess und produziert nebenbei wertvolles Material für nachfolgende Kurse.
+:::

@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "Florian Schimböck"
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**Achtung:** Diese Seite befindet sich noch im Aufbau. Wiederkommen lohnt sich!"
+    type: primary
+    position: below-navbar
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  navbar:
+    title: "Florian Schimböck"
+    logo: logo-dunkel.png
+    search: true
+    right:
+      - href: research.qmd
+        icon: journal-text
+      - href: speaking.qmd
+        icon: file-earmark-easel
+      - href: resources.qmd
+        icon: file-zip
+      - href: cv.qmd
+        icon: file-person
+  back-to-top-navigation: true
+  page-footer: 
+    left: 
+      - text: "© 2026 Florian Schimböck"
+    center:
+      - text: "Made with ❤️ and Quarto"
+    right:
+      - text: "Impressum"
+        href: impressum.qmd
+      - text: "Datenschutzerklärung"
+        href: datenschutz.qmd
+format:
+  html:
+    lang: de
+    theme: [cosmo, styles.scss]
+    include-before-body: progress.html
+    include-after-body: dimensions.html

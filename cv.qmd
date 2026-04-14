@@ -1,0 +1,155 @@
+---
+title: "Lebenslauf"
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+---
+
+Mein Weg führte mich von der klinischen Pflege in die Pflegewissenschaft und Pflegepädagogik. Jetzt arbeite ich vorrangig im hochschulischen Kontext und vereine Forschung, Lehre und Praxis — ich bringe die Perspektive der Praxis in die Wissenschaft und die Erkenntnisse der Wissenschaft in die Praxis.
+
+### {{< fa briefcase >}} Berufserfahrung
+
+::: {.callout-note icon="false" collapse="false"}
+## Wissenschaftlicher Mitarbeiter · Apr. 2023 – heute
+
+*Christian-Albrechts-Universität, Kiel, Deutschland* <br><br> 
+Institut für Allgemeinmedizin: <br> 
+- Arbeitsgruppe Didaktik der Pflege und Gesundheitsberufe <br> 
+- Projekt: Sprachsensible Pflegebildung (SCENE) <br> 
+- Projekt: Interaktive Simulation für Berufe des Gesundheitswesens (INSIDE) <br> 
+- Projekt: Nurse Education Network
+- Aufgaben: Forschung, Projektkoordination <br> 
+:::
+
+::: {.callout-note icon="false" collapse="false"}
+## Freiberufliche Tätigkeit · Jän. 2023 – heute
+
+*als Pflegewissenschaftler und Pflegepädagoge, Cottbus, Deutschland* <br><br> 
+Autoren- und Vortragstätigkeiten: <br> 
+- Delir und Demenz <br>
+-	E-Learning-Tools und Künstliche Intelligenz <br>
+-	Simulationsbasierte Lehre <br>
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Akademischer Mitarbeiter · Mär. 2015 – Mär. 2023
+
+*Brandenburgische Technische Universität, Cottbus-Senftenberg, Deutschland* <br><br> 
+Institut für Gesundheit: <br> 
+- Fachgebiet Pflegewissenschaft und klinische Pflege <br>
+-	Senior Lecturer für Pflegewissenschaft und klinische Pflege <br>
+-	Lehrumfang von 18 Semesterwochenstunden (SWS) <br>
+-	Aufgaben: Lehre, Studienfachberatung <br>
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Studiengangsleitung · Mär. 2019 – Sep. 2021
+
+*Brandenburgische Technische Universität, Cottbus-Senftenberg, Deutschland* <br><br> 
+Institut für Gesundheit: <br> 
+- Bachelorstudiengang Pflegewissenschaft <br> 
+-	Führen der Mitarbeitenden und Lehrpersonen <br> 
+-	Jahres- und Semesterplanung <br> 
+-	Finanzplanung und Budgetkontrolle <br> 
+-	Curriculumentwicklung zur hochschulischen Pflegeausbildung <br> 
+-	Verfassen einer neuen Studien- und Prüfungsordnung <br> 
+-	Vorbereitung und Begleitung aller Gremienwege <br> 
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Lehrer für Gesundheits- und Krankenpflege · Sep. 2014 – Feb. 2015
+
+*Schule für Gesundheits- und Krankenpflege, Graz, Österreich* <br><br> 
+Allgemeine Gesundheits- und Krankenpflege: <br> 
+- Lehrfächer: Gesundheits- und Krankenpflege, Chirurgische Pflege, Erste Hilfe, Pflegewissenschaft, Pflegetheorien <br>
+-	Aufgaben: Lehre, Praxisbegleitung <br>
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Diplomierter Gesundheits- und Krankenpfleger · Aug. 2010 – Aug. 2014
+
+*Steiermärkische Krankenanstaltengesellschaft, Graz, Österreich* <br><br> 
+Landeskrankenhaus Graz West: <br> 
+- Fachbereiche: Innere Medizin, Kardiologie <br>
+-	Aufgaben: Gesundheits- und Krankenpflege, Praxisanleitung <br>
+:::
+
+### {{< fa building-columns >}} Bildungsweg
+
+::: {.callout-note icon="false" collapse="false"}
+## Promotion · Apr. 2023 – laufend
+
+*Christian-Albrechts-Universität, Kiel, Deutschland* <br><br> 
+Institut für Allgemeinmedizin: <br> 
+- Akademischer Grad: Doctor rerum medicarum (Dr. rer. medic.) <br> 
+-	Erstbetreuung: Prof. Dr. Wolfgang von Gahlen-Hoops <br> 
+-	Zweitbetreuung: PD Dr. Peter Nydahl <br> 
+-	Thema: Interprofessionelles Delirmanagement <br> 
+-	Bewertung der Promotion: noch nicht abgeschlossen <br> 
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Master Gesundheits- und Pflegewissenschaft · Okt. 2012 – Jun. 2015
+
+*Medizinische Universität Graz, Graz, Österreich* <br><br> 
+Institut für Pflegewissenschaft: <br> 
+- Akademischer Grad: Master of Science (M.Sc.) <br>
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Master Berufspädagogik für Gesundheitsberufe · Sep. 2010 – Jul. 2012
+
+*Fachhochschule Kärntnen, Feldkirchen, Österreich* <br><br> 
+Fakultät Gesundheit und Soziales: <br> 
+- Akademischer Grad: Master of Education (M.Ed.) <br>
+- Berufsbezeichnung: Lehrer für Gesundheits- und Krankenpflege
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Diplom für Gesundeheits- und Krankenpflege · Sep. 2008 – Jun. 2010
+
+*Schule für Gesundheits- und Krankenpflege, Graz, Österreich* <br><br> 
+Allgemeine Gesundheits- und Krankenpflege: <br> 
+- Diplom: Abschluss mit Auszeichnung <br>
+- Berufsbezeichnung: Diplomierter Gesundheits- und Krankenpfleger
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Bachelor Gesundheits- und Pflegewissenschaft · Mär. 2006 – Aug. 2009
+
+*Medizinische Universität Graz, Graz, Österreich* <br><br> 
+Institut für Pflegewissenschaft: <br> 
+- Akademischer Grad: Bachelor of Science (B.Sc.) <br>
+:::
+
+### {{< fa certificate >}} Zertifikatskurse
+
+::: {.callout-note icon="false" collapse="true"}
+## Grundlagen der Statistik mit R · Dez. 2025
+
+*Grundkurs zu R und RStudio, Köln, Deutschland*
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## CRM-Simulationsinstruktor · Dez. 2020
+
+*Instructor und Facilitation Trainingskurs (InFacT), Reutlingen, Deutschland*
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## IVA-Teamer · Apr. 2019
+
+*Aufbaukurs Integrative Validation nach Richard, Tübingen, Deutschland*
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## IVA-Praktiker · Sep. 2017
+
+*Grundkurs Integrative Validation nach Richard, Berlin, Deutschland*
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Praxisanleitung · Dez. 2013
+
+*Steiermärkische Krankenanstaltengesellschaft, Graz, Österreich*
+:::
