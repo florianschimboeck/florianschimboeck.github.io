@@ -1,12 +1,15 @@
 project:
   type: website
+  resources:
+    - CNAME
 
 website:
+  site-url: "https://florianschimboeck.com"
   title: "Florian Schimböck"
   announcement:
     icon: info-circle
-    dismissable: true
-    content: "**Achtung:** Diese Seite befindet sich noch im Aufbau. Wiederkommen lohnt sich!"
+    dismissable: false
+    content: "**Hinweis:** Diese Seite befindet sich noch im Aufbau. Wiederkommen lohnt sich!"
     type: primary
     position: below-navbar
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph

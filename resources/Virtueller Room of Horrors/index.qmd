@@ -79,7 +79,7 @@ Ist die Virtual Tour fertiggestellt, sollten Sie diese ausgiebig testen. Bewegen
     </button>
     <p class="iframe-hint">
       Weitere Informationen in unserer
-      <a href="datenschutz.html" target="_blank">Datenschutzerklärung</a>.
+      <a href="../../datenschutz.html" target="_blank">Datenschutzerklärung</a>.
     </p>
   </div>
 </div>

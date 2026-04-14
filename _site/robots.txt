@@ -1,1 +1,1 @@
-Sitemap: https://florianschimboeck.github.io/sitemap.xml
+Sitemap: https://florianschimboeck.com/sitemap.xml
