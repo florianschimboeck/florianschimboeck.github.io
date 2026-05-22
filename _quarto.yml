@@ -9,7 +9,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: false
-    content: "**Hinweis:** Diese Seite befindet sich noch im Aufbau. Wiederkommen lohnt sich!"
+    content: "**Publikationshinweis:** Ein neues Buchkapitel zur Evaluation interprofessioneller Edukation ist erschienen."
     type: primary
     position: below-navbar
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
@@ -18,11 +18,11 @@ website:
     logo: logo-dunkel.png
     search: true
     right:
-      - href: research.qmd
+      - href: forschung.qmd
         icon: journal-text
-      - href: speaking.qmd
+      - href: vorträge.qmd
         icon: file-earmark-easel
-      - href: resources.qmd
+      - href: ressourcen.qmd
         icon: file-zip
       - href: cv.qmd
         icon: file-person

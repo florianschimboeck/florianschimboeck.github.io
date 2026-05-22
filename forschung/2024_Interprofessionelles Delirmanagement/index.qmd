@@ -1,0 +1,81 @@
+---
+title: "Interprofessionelle Delirschulung als Motor für Qualitätsverbesserung"
+date: 2024-02-18
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2024-ipe-delirium.png"
+description: "Ein Qualitätsverbesserungsprojekt, das untersucht, ob ein zweitägiger interprofessioneller Delir-Kurs (DIVI-zertifiziert) Kliniker:innen dazu befähigt, eigenständige Qualitätsprojekte in ihrem Krankenhaus umzusetzen – mit Ergebnissen nach acht Wochen."
+categories: [2024, QI-Projekt, Delir, Interprofessionalität]
+---
+
+### Hintergrund
+
+Die Implementierung eines leitliniengerechten Delirmanagements im Krankenhaus ist ein komplexer, interprofessioneller Prozess. Häufige Hürden sind mangelndes Bewusstsein für Delir, fehlende Dokumentationsmöglichkeiten, Personalengpässe, unzureichende interprofessionelle Kommunikation sowie das Fehlen von Managementprotokollen. Diese Barrieren sind in der Literatur gut belegt und spiegeln sich auch im klinischen Alltag vieler Einrichtungen wider.
+
+Interprofessionelle Edukation (IPE) – definiert als das gemeinsame Lernen von Angehörigen verschiedener Gesundheitsberufe miteinander, voneinander und übereinander – bietet einen vielversprechenden Ansatz, um genau diese Lücken zu schließen. Die Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin (DIVI) hat hierfür ein eigenes Curriculum für interprofessionelles Delirmanagement entwickelt, das sowohl Wissen als auch Handlungskompetenz im Sinne eines Plan-Do-Check-Act-Zyklus (PDCA) fördert.
+
+> „Vom Wissen zum Handeln: Interprofessionelle Bildung allein reicht nicht – entscheidend ist, ob Kliniker:innen das Gelernte in konkrete Verbesserungsprojekte übersetzen können."
+
+### Ziel
+
+Ziel dieses Qualitätsverbesserungsprojekts war es zu untersuchen, ob ein DIVI-zertifizierter IPE-Kurs zum Delirmanagement Kliniker:innen dazu befähigt, eigenständige Qualitätsverbesserungsprojekte interprofessionell und interdisziplinär in ihrem Krankenhaus durchzuführen.
+
+### Methodik
+
+Das Projekt wurde in einem universitätsaffilierten Krankenhaus in Deutschland (Sana Kliniken Niederlausitz, 543 Betten) durchgeführt und folgt dem SQUIRE-2.0-Rahmenwerk für Qualitätsverbesserungsberichte. Vor Projektbeginn bestanden weder Delirmanagementprotokolle noch relevante Servicebewertungen in der Einrichtung.
+
+Der DIVI-Kurs umfasste 20 Lehreinheiten à 45 Minuten über zwei volle Arbeitstage sowie ein vierstündiges Evaluierungstreffen acht Wochen später. Inhalte waren Delirwissen, Managementstrategien und die Entwicklung eigener Qualitätsprojekte nach dem PDCA-Prinzip. Didaktische Methoden umfassten fallbasiertes Lernen, Rollenspiele, Reflexionsgespräche und problembasiertes Arbeiten in Kleingruppen. Primäres Outcome war die Anzahl erfolgreich umgesetzter Projekte beim Acht-Wochen-Evaluierungstreffen.
+
+### Ergebnisse
+
+Am Kurs nahmen 16 Kliniker:innen (8 Pflegefachpersonen, 6 Therapeut:innen, 2 Ärzt:innen) aus sechs verschiedenen Stationen teil – darunter Notaufnahme, Intensivstation, geriatrische Akutstation, Neurologie, Stroke Unit sowie Physiotherapie und Ergotherapie. Die Teilnehmenden organisierten sich in fünf interprofessionelle Projektgruppen.
+
+**Identifizierte Barrieren**
+Die Gruppen reflektierten zunächst systematisch ihre lokalen Herausforderungen: organisatorische Barrieren (Personalmangel, fehlende Dokumentation, Priorisierung der Routineversorgung), lokale Barrieren (Zeitdruck, fehlende Delirprotokolle, kein Delir in Visiten) sowie kliniker:innenbezogene Barrieren (fehlendes Wissen, Scheu vor Assessment, passive Haltung).
+
+**Projektergebnisse nach acht Wochen**
+Vier von fünf Gruppen präsentierten beim Evaluierungstreffen erfolgreich umgesetzte oder laufende Projekte:
+
+- Aufbau eines interprofessionellen **Delir-Expertenpanels** mit Jahresplanung, eigener Webpräsenz und Informationsmaterialien
+- Gestaltung eines **Angehörigenflyers** mit delirspezifischen Informationen für Angehörige auf der Intensivstation
+- Entwicklung eines **One-Pager** für alle Kliniker:innen im Haus als niedrigschwellige Informationsquelle
+- Entwicklung eines **Schulungskonzepts für Therapeut:innen** zu Delir, 4AT-Assessment und Interventionen
+
+:::{.callout-warning title="Wichtig"}
+Lediglich die Implementierung des 4AT-Assessments in das elektronische Patientendokumentationssystem konnte innerhalb von acht Wochen nicht abgeschlossen werden – ein Hinweis darauf, dass IT-seitige Prozesse deutlich länger dauern als inhaltlich-konzeptionelle Projekte.
+:::
+
+**Rückmeldungen der Teilnehmenden**
+Die Teilnehmenden berichteten eine verbesserte Handlungssicherheit im Umgang mit deliranten Patient:innen und äußerten sich insgesamt sehr zufrieden mit Struktur, Inhalten und Methodik des Kurses. Als zusätzliche Wünsche wurden Simulationstraining mit Schauspieler:innen sowie Übungen in einem Simulationszentrum genannt.
+
+:::{.callout-tip title="Tipp"}
+Teilnehmende agierten nach dem Kurs als Multiplikatoren in ihren Teams: Kolleg:innen befragten sie aktiv nach ihren Erfahrungen – ein organischer Bewusstseinswandel, der über die eigentliche Schulung hinauswirkte.
+:::
+
+### Diskussion
+
+Das Projekt zeigt, dass ein strukturierter IPE-Kurs nicht nur Wissen vermittelt, sondern Kliniker:innen auch dazu befähigt, den Schritt von der Kompetenzentwicklung zur konkreten Umsetzung zu gehen. Die Kombination aus interprofessionellem Austausch, PDCA-Methodik und einem klaren Zeitrahmen erwies sich als wirksam – vier von fünf Gruppen konnten innerhalb von acht Wochen Ergebnisse vorweisen.
+
+Besonders wertvoll war die berufsgruppen-übergreifende Perspektive: Pflegende, Ärzt:innen und Therapeut:innen brachten unterschiedliche Sichtweisen ein und entwickelten bedarfsgerechte Lösungen für ihre jeweiligen Kontexte. Gleichzeitig verweist das Projekt auf bekannte Herausforderungen: IT-Strukturen bremsen Implementierungsprozesse, interprofessionelle Kommunikation muss aktiv gefördert werden, und die langfristige Nachhaltigkeit der Projekte ist noch nicht belegt.
+
+:::{.callout-note title="Hinweis"}
+Folgeaudits zur Nachhaltigkeit der umgesetzten Projekte standen zum Zeitpunkt der Veröffentlichung noch aus. Die Langzeitwirkung auf Patient:innen-Outcomes, Mitarbeitendenzufriedenheit und Versorgungsqualität bleibt ein offenes Forschungsfeld.
+:::
+
+### Schlussfolgerung
+
+Der DIVI-zertifizierte interprofessionelle Delirkurs kann Kliniker:innen motivieren und befähigen, eigenständige Qualitätsprojekte zu entwickeln und umzusetzen. Das Projekt liefert ein ermutigendes Beispiel dafür, wie strukturierte Bildungsmaßnahmen den Weg von der Delir-Awareness zur institutionellen Veränderung ebnen können. Weitere Forschung ist erforderlich, um die Nachhaltigkeit solcher Projekte zu evaluieren und kontextuelle Einflussfaktoren systematisch zu erfassen.
+
+### Publikation
+
+**Schimböck**, F., Hanisch, V., Günther, U., Hansen, H.-C., von Haken, R., Hermes, C., Hoyer, C., Kaltwasser, A., Pelz, S. & Nydahl, P. (2024). Interprofessional education for delirium management: a quality improvement project. *Delirium Communications*. <https://doi.org/10.56392/001c.92850>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.56392/001c.92850"
+      data-style="large_rectangle">
+</span>
+```

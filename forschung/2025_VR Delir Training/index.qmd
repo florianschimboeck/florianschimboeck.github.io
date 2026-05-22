@@ -1,0 +1,77 @@
+---
+title: "Virtual Reality im Delirtraining: Empathie und Wissen bei Pflegefachpersonen fördern"
+date: 2025-12-15
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2025-vr-delirium.png"
+description: "Eine quasi-experimentelle Crossover-Studie zum Vergleich einer immersiven VR-Delir-Anwendung mit traditionellem Präsentationstraining hinsichtlich Empathie und Delir-Fachwissen bei Pflegefachpersonen."
+categories: [2025, Quantitativ, Delir]
+---
+
+### Hintergrund
+
+Delir ist eine häufige Komplikation im Krankenhaus, die von Pflegefachpersonen oft nicht erkannt wird – besonders bei älteren Patient:innen mit vorbestehender Demenz. Neben Fachwissen spielt Empathie eine zentrale Rolle für eine gute Delirversorgung. Sie ermöglicht es Pflegenden, die emotionale und psychologische Dimension des Erlebens von Betroffenen zu verstehen und ihr Handeln entsprechend auszurichten. Empathie zu erlernen und zu verbessern bleibt jedoch eine didaktische Herausforderung.
+
+Virtual Reality (VR) wird zunehmend in der beruflichen Aus- und Weiterbildung eingesetzt, insbesondere zur Förderung sozialer Kompetenzen. VR-Anwendungen ermöglichen eine immersive Perspektivenübernahme, die über klassische Lehrformate hinausgeht. Ob eine VR-basierte Delir-Schulung im Vergleich zu traditionellem Präsentationstraining einen Mehrwert hinsichtlich Empathie und Delir-spezifischem Wissen bietet, war bislang ungeklärt.
+
+> „VR versetzt Pflegende direkt in die Lage deliranter Patient:innen – ein immersiver Perspektivwechsel, der emotionale Resonanz erzeugt und Empathie auf eine Weise fördert, die klassische Lehrformate kaum erreichen."
+
+### Ziel
+
+Ziel der Studie war es zu untersuchen, ob ein VR-basiertes Delir-Training (VR-A) im Vergleich zu einem traditionellen Vortrag mit Präsentation (TPT) zu einer Steigerung von Empathie und Delir-spezifischem Wissen bei klinisch tätigen Pflegefachpersonen führt.
+
+### Methodik
+
+Die Studie wurde als prospektive, monozentrische, quasi-experimentelle Crossover-Studie an einem Universitätsklinikum in Kiel, Deutschland, durchgeführt. Die Studie ist im Deutschen Register Klinischer Studien registriert (DRKS 00035065) und folgt den CONSORT-2025-Richtlinien.
+
+Eingeschlossen wurden klinisch tätige, examinierte Pflegefachpersonen mit abgeschlossener dreijähriger Berufsausbildung. Jede Schulungseinheit dauerte 45 Minuten und wurde in wechselnder Reihenfolge absolviert: entweder zuerst die VR-Anwendung oder zuerst den traditionellen vortrag mit Präsentation.
+
+Die VR-A (DelTrain™ VR Adult Delirium Training, HD Medical) simuliert eine reale Delirepisode auf einer ICU aus der Patient:innenperspektive. Pflegende erleben, wie Handlungen des Teams Delir auslösen oder verstärken können, und trainieren anschließend die CAM-ICU-Beurteilung aus der Pflegeperspektive. Das TPT umfasste eine 15-Folien-Präsentation zu Delir, Falldiskussion, CAM-ICU und Nu-DESC.
+
+Empathie wurde mit dem validierten Saarbrücker Persönlichkeitsfragebogen (SPF, Kurzform) erfasst, Delir-Wissen mit einer deutschsprachigen, validierten Version des Delirium Knowledge Questionnaire (41 Items). Beide Outcomes wurden zu drei Zeitpunkten erhoben: vor (T0), nach der ersten (T1) und nach der zweiten Schulungseinheit (T2). Die Auswertung erfolgte mittels gepaarter t-Tests und Zeitreihenanalysen.
+
+### Ergebnisse
+
+Von ursprünglich 31 angemeldeten Personen nahmen 18 Pflegefachpersonen teil (94,4 % weiblich; Durchschnittsalter 48,8 Jahre; Ø 25 Jahre Berufserfahrung). Zwölf absolvierten zuerst die VR-A, sechs zuerst das TPT.
+
+**Empathie**
+Über beide Trainingseinheiten hinweg zeigte sich ein signifikanter Anstieg der Empathiescores von T0 zu T2 (MD: +4,94; SD: 2,85; r = 0,617; p < 0,001). Die VR-A führte – unabhängig von der Reihenfolge – zu einem signifikanten Empathieanstieg (p = 0,003), während beim TPT kein entsprechender Effekt nach der ersten Einheit beobachtet wurde. Nach Abschluss beider Trainingseinheiten glichen sich die Empathiewerte zwischen den Gruppen an.
+
+:::{.callout-tip title="Tipp"}
+Wird die VR-Anwendung zuerst absolviert, ist der Empathieanstieg signifikant stärker als beim Einstieg über das traditionelle Präsentationstraining – ein Argument für den gezielten Einsatz von VR als Einstieg in Delirschulungen.
+:::
+
+**Delir-Wissen**
+Auch das Delir-spezifische Wissen stieg von T0 zu T2 signifikant an (MD: +3,78; SD: 4,81; r = 0,555; p = 0,004). Ein signifikanter Unterschied zwischen VR-A und TPT bei der Wissensvermittlung ließ sich jedoch nicht nachweisen – beide Methoden waren in der Wissensübertragung vergleichbar effektiv.
+
+:::{.callout-warning title="Wichtig"}
+61,1 % der Teilnehmenden gaben an, auf ihrer Station kein validiertes Delir-Assessmentinstrument zu verwenden – ein deutlicher Hinweis auf Implementierungslücken in der klinischen Praxis, unabhängig vom Schulungsformat.
+:::
+
+### Diskussion
+
+Die Ergebnisse deuten darauf hin, dass VR-basiertes Training insbesondere für die Förderung von Empathie einen Mehrwert gegenüber traditionellen Lehrformaten bietet, während beide Methoden für die Wissensvermittlung vergleichbar wirksam sind. Die immersive Perspektivenübernahme – das virtuelle Erleben einer Delirepisode aus der Patient:innenperspektive – erzeugt emotionale Resonanz, die konventionelle Präsentationen kaum erreichen.
+
+Offen bleibt, ob der Empathieeffekt nachhaltig ist oder primär auf die Neuheit des Mediums zurückzuführen ist. Wiederholte Exposition könnte zu emotionaler Abstumpfung führen; eine Kombination aus VR und reflexiven Methoden erscheint daher vielversprechend. Für die Wissensvermittlung gilt: Strukturierte Lehrformate bieten kognitive Klarheit, die immersive VR-Erlebnisse aufgrund ihrer emotionalen Intensität möglicherweise eher hemmen als fördern.
+
+:::{.callout-note title="Hinweis"}
+Die geringe Teilnahmequote erklärt sich durch den zeitlichen Rahmen: Die Schulungssessions fanden vor und nach regulären 8-Stunden-Schichten statt und verlängerten damit die Arbeitszeit. Künftige Studien sollten flexiblere Zeitfenster anbieten, um die Zugänglichkeit für Pflegefachpersonen zu verbessern.
+:::
+
+### Schlussfolgerung
+
+Eine VR-Anwendung zum Delirmanagement kann bei Pflegefachpersonen Empathie und Fachwissen wirksamer steigern als klassischer Input mit Präsentation – zumindest kurzfristig. Der erfolgreiche Einsatz von VR in der Pflegebildung setzt jedoch eine didaktisch durchdachte Integration voraus, die sowohl technische als auch emotionale Unterstützung umfasst. Langzeiteffekte auf Empathie und Wissen sowie optimale Kombinationen beider Lernformate sollten in zukünftigen, größer angelegten Studien untersucht werden.
+
+### Publikation
+
+Günther, T., **Schimböck**, F., Grosch, M. & Nydahl, P. (2025). Virtual reality for delirium: immersive training courses promote empathy and expertise in delirium management among registered nurses. *Intensive & Critical Care Nursing*, 91, 104167. <https://doi.org/10.1016/j.iccn.2025.104167>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.1016/j.iccn.2025.104167"
+      data-style="large_rectangle">
+</span>
+```

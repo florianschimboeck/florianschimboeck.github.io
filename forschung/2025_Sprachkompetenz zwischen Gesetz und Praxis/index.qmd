@@ -1,0 +1,67 @@
+---
+title: "Sprachkompetenz zwischen Gesetz und Praxis in der Pflege"
+date: 2025-11-26
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2025-sprache-gesetz.png"
+description: "Eine Dokumentenanalyse im Rahmen des BIBB-Forschungsprojekts SCENE: Wie sind Sprachvoraussetzungen in der Pflege in Deutschland gesetzlich geregelt – und was fordern Fachverbände darüber hinaus? Ein Vergleich zwischen vagen Rechtsnormen und präzisen Praxisempfehlungen."
+categories: [2025, Dokumentenanalyse, Sprachsensible Pflege]
+---
+
+### Hintergrund
+
+Die zunehmende Globalisierung und Diversität der Gesellschaft spiegelt sich in der Pflege unmittelbar wider. Angesichts des Mangels an Pflegefachpersonen in zahlreichen Ländern spielen internationale Pflegeauszubildende und angeworbene Fachkräfte eine wichtige Rolle bei der Aufrechterhaltung des Gesundheitssystems. Damit rückt die Frage nach den erforderlichen Sprachvoraussetzungen verstärkt in den Fokus.
+
+Eine klare, präzise und angemessene Kommunikation ist nicht nur für die direkte Gesundheitsversorgung essenziell, sondern auch für die interprofessionelle Zusammenarbeit und die Dokumentation pflegerischer Leistungen. Standards für Sprachkompetenzen sind damit Voraussetzung für Patientensicherheit, faire Zugangsbedingungen und Ausbildungserfolg – und dennoch in Deutschland bis heute uneinheitlich geregelt.
+
+> „Sprachkompetenz ist eine Schlüsselqualifikation in der Pflege, deren Bedeutung mit zunehmender Internationalisierung weiterwachsen wird – die gesetzlichen Rahmenbedingungen halten damit noch nicht Schritt."
+
+### Ziel
+
+Der Beitrag stellt die gesetzlichen Bestimmungen zu Sprachkenntnissen in der Pflege detailliert dar und vergleicht diese mit den Empfehlungen von Fachverbänden, Ministerien und Institutionen – sowohl für die Aufnahme einer Pflegeausbildung als auch für die Ausübung des Pflegeberufs. Die Erkenntnisse basieren auf einer umfassenden Dokumentenanalyse im Rahmen des vom BIBB beauftragten Forschungsprojekts „Sprachsensible Pflegebildung (SCENE)".
+
+### Methodik
+
+Im Rahmen einer systematischen Dokumentenanalyse wurden Gesetzestexte auf europäischer, Bundes- und Länderebene sowie Positionspapiere von Fachverbänden, Ministerien und Institutionen ausgewertet. Die Ergebnisse im Hinblick auf die Gesetzestexte wurden zur Gewährleistung der Aktualität und Vollständigkeit von den zuständigen Stellen aller Bundesländer überprüft.
+
+### Ergebnisse
+
+**Rechtliche Vorgaben: ein heterogenes Bild**
+
+Die Analyse der Gesetzestexte zeigt ein deutlich uneinheitliches Bild. Auf europäischer Ebene schreibt die Richtlinie 2005/36/EG lediglich „für den Beruf erforderliche Deutschkenntnisse" vor – eine offene Formulierung ohne Bezug auf das Niveau des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER). Für die Zulassung zur Pflegeausbildung findet sich auf dieser Ebene keine Regelung.
+
+Auf Bundes- und Länderebene variieren die Vorgaben erheblich: Bei ein- bis zweijährigen Pflegeausbildungen dominieren vage Formulierungen wie „ausreichende Kenntnisse der deutschen Sprache". Nur das Saarland (B2), Baden-Württemberg (B1) und Schleswig-Holstein (B1) benennen ein konkretes GER-Niveau. Für die Berufsausübung als Pflegefachfrau oder Pflegefachmann gilt bundesweit die offene Formulierung des PflBG – die Gesetzesbegründung orientiert sich zwar an B2, der Gesetzestext selbst legt kein Niveau fest.
+
+:::{.callout-warning title="Wichtig"}
+Der geplante Entwurf zur bundeseinheitlichen Pflegefachassistenzausbildung (Stand August 2025) wiederholt das Muster: Auch hier bleibt der Gesetzestext offen, während die Begründung auf B2 verweist. Eine verbindliche gesetzliche Festschreibung eines konkreten GER-Niveaus fehlt weiterhin.
+:::
+
+**Positionspapiere: konkretere und höhere Anforderungen**
+
+Im Gegensatz zu den Gesetzestexten sprechen sich die analysierten Positionspapiere mehrheitlich für höhere und präziser definierte Sprachniveaus aus. Für die Ausbildung wird B2 empfohlen, für die Berufsausübung ein Spektrum von B1/B2 bis C1 – in vielen Fällen ergänzt um explizite Fachsprachkenntnisse. Die zentrale Begründung ist durchgängig die Patientensicherheit.
+
+:::{.callout-tip title="Tipp"}
+Soziale Integration wird in nahezu allen Positionspapieren als entscheidender Faktor für den Spracherwerb hervorgehoben. Gefordert werden institutionsspezifische Integrationskonzepte, interkulturelle Trainings und gemeinsame Unternehmungen – Sprachbildung also als gesamtinstitutionelle Aufgabe, nicht als additiver Kurs.
+:::
+
+**Besondere Sprachbedarfe**
+
+Die Papiere identifizieren spezifische Sprachbedarfe, die über allgemeine GER-Niveaus hinausgehen: Umgang mit Umgangssprache und Dialekten, Telefontraining, frühzeitige Einführung in die Pflegefachsprache. Das BMWE empfiehlt einen verpflichtenden berufsbegleitenden Sprachkurs im ersten Ausbildungsjahr, der schichtflexibel gestaltet sein und sowohl den schulischen als auch den praktischen Teil der Ausbildung einbeziehen sollte.
+
+### Diskussion
+
+Die Diskrepanz zwischen vagen gesetzlichen Vorgaben und präzisen Praxisempfehlungen ist bemerkenswert. Sie deutet darauf hin, dass die gesetzlichen Rahmenbedingungen den tatsächlichen Bedarfen und der Komplexität pflegerischer Kommunikation noch nicht vollständig gerecht werden. Die bundesweite Uneinheitlichkeit erschwert die Vergleichbarkeit des Zugangs zur Pflegeausbildung und die Anerkennung von Qualifikationen.
+
+:::{.callout-note title="Hinweis"}
+Mehrere Positionspapiere warnen ausdrücklich davor, die Anforderungen an Sprachkompetenzen abzusenken, um Anwerbungs- und Anerkennungsprozesse zu beschleunigen. Patientensicherheit und Versorgungsqualität dürfen nicht zugunsten von Effizienzgewinnen im Recruiting geopfert werden.
+:::
+
+### Schlussfolgerung
+
+Die Analyse liefert eine fundierte Grundlage für die Weiterentwicklung von Rahmenbedingungen und praktischen Maßnahmen zur Unterstützung zugewanderter Pflegeauszubildender und Pflegefachpersonen. Für die Zukunft der Pflegebildung ergeben sich drei zentrale Implikationen: die Vereinheitlichung der gesetzlichen Vorgaben auf Basis realer Bedarfe, die Etablierung durchgängiger und sprachbildend gestalteter Ausbildungskonzepte sowie die konsequente Priorität der Qualitätssicherung gegenüber beschleunigten Anerkennungsverfahren.
+
+### Publikation
+
+Erichsen, G., **Schimböck**, F., Petersen, I. & von Gahlen-Hoops, W. (2025). Sprachkompetenz zwischen Gesetz und Praxis. *Die Schwester | Der Pfleger*, 12, 36–42.

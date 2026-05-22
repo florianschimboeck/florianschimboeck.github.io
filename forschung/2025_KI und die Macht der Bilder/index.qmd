@@ -1,0 +1,75 @@
+---
+title: "KI und die Macht der Bilder – Wie Google das Bild der Pflege reduziert"
+date: 2025-10-01
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2025-ki-bildanalyse.png"
+description: "Eine exemplarische Bildanalyse der ersten 100 deutschsprachigen und 100 englischsprachigen Google-Suchergebnisse zu 'Künstliche Intelligenz in der Pflege' – sechs Bildtypen, zwei Kulturräume und ein verzerrtes Bild, das gepflegt werden sollte."
+categories: [2025, Quantitativ, Künstliche Intelligenz]
+---
+
+### Hintergrund
+
+In einer zunehmend visuell geprägten Gesellschaft formen Bilder kulturelle Erwartungen an Berufe, Technik und Zukunft. Gerade bei komplexen und abstrakten Themen wie Künstlicher Intelligenz (KI) übernehmen visuelle Darstellungen eine orientierende Funktion – sie verdichten, was sich schwer in Worte fassen lässt, und prägen damit, was Menschen mit einem Begriff verbinden.
+
+Wenn Google zu „Künstliche Intelligenz in der Pflege" gefragt wird, liefert die Bildersuche eine scheinbar umfangreiche Antwort. Doch bei näherer Betrachtung offenbart sie eine bemerkenswert enge Ikonografie: Humanoide Roboter, die ältere Menschen trösten und ihre Hand halten, dominieren das visuelle Feld – während smarte Monitoring-Systeme, datenbasierte Entscheidungsunterstützung, Pflegeplanungssoftware oder intelligente Alarmsysteme kaum sichtbar sind.
+
+> „Die Google-Bildersuche ist kein objektiver Spiegel, sondern ein medialer Verstärker gesellschaftlicher Vorstellungen über Pflege und KI. Bilder formen Erwartungen – und Erwartungen formen Berufshaltungen."
+
+### Ziel
+
+Ziel dieser exemplarischen Analyse war es, die visuelle Repräsentation von KI in der Pflege im deutsch- und englischsprachigen Google-Suchraum zu beschreiben, zu kategorisieren und kritisch zu reflektieren – mit Blick auf ihre Wirkung auf das Berufsbild, die Technikakzeptanz und die öffentliche Wahrnehmung professioneller Pflege.
+
+### Methodik
+
+Analysiert wurden jeweils die ersten 100 Google-Bilder zu den Suchbegriffen „Künstliche Intelligenz in der Pflege" (deutsch) und „Artificial Intelligence in Nursing" (englisch). Nach Ausschluss nicht relevanter und doppelter Darstellungen wurden die Bilder sechs induktiv gebildeten Bildtypen zugeordnet, die spezifische Narrative über KI in der Pflege transportieren.
+
+### Ergebnisse
+
+**Sechs Bildtypen im deutschsprachigen Suchraum**
+
+Die deutschsprachigen Bildergebnisse ließen sich folgenden Kategorien zuordnen: Empathische Roboter (38 %), Digitalisierte Pflegepraxis (20 %), Technologische Abstraktion (17 %), Pflege im Science-Fiction-Modus (10 %), Didaktische Vereinfachung (8 %) und Reale KI-Anwendungen (7 %).
+
+:::{.callout-warning title="Wichtig"}
+Nur 7 % der deutschsprachigen Bilder zeigen reale KI-Anwendungen wie Monitoring oder Sprachassistenz. Die große Mehrheit der Darstellungen ist idealisiert, abstrahiert oder futuristisch – und damit weit entfernt von den tatsächlichen Einsatzfeldern moderner KI in der Pflegepraxis.
+:::
+
+**Kultureller Vergleich: Mehr Technik, weniger Emotion**
+
+Der Vergleich mit den englischsprachigen Ergebnissen offenbart deutliche Unterschiede. Die Kategorie „Empathische Roboter" ist im englischsprachigen Raum mit 14 % deutlich seltener vertreten. Stattdessen dominiert die „Digitalisierte Pflegepraxis" (32 %) – Pflegefachpersonen mit Tablets, Smart Glasses und digitalen Arbeitsoberflächen. Reale KI-Anwendungen sind mit 12 % ebenfalls häufiger sichtbar.
+
+:::{.callout-tip title="Befund"}
+Die englischsprachige visuelle Repräsentation von KI in der Pflege ist sachlicher, zukunftsgewandter und pflegefachlich stärker differenziert. Pflege erscheint als digital kompetente Profession – nicht primär als emotionale Interaktionsfläche für humanoide Roboter.
+:::
+
+**Zwei dominante Narrative**
+
+Die Bildsprache konstruiert zwei übergreifende Narrative: Erstens erscheint Pflege als rein geriatrisches Feld – Pädiatrie, Psychiatrie, Palliativversorgung und Intensivpflege fehlen nahezu vollständig. Zweitens wird KI auf greifbare Robotik reduziert. Unsichtbar bleiben dagegen Spracherkennung für die Pflegedokumentation, Früherkennungssysteme für Verschlechterungen des Allgemeinzustandes, intelligente Alarmsysteme, smarte Bettensensorik oder Pflegeplanungssoftware mit Entscheidungsunterstützung.
+
+:::{.callout-note title="Hinweis"}
+Auch Datenschutz, algorithmische Verantwortung und ethische Fragen der KI-Nutzung in der Pflege bleiben in den Bildergebnissen beider Sprachräume nahezu vollständig unsichtbar – obwohl diese Aspekte für eine professionelle Integration digitaler Technologien zentral sind.
+:::
+
+### Diskussion
+
+Die Google-Bildersuche fungiert als medialer Verstärker gesellschaftlicher Vorstellungen und beeinflusst damit nicht nur öffentliche Meinung, sondern auch berufliche Identität und Technikakzeptanz. Forschungsergebnisse zeigen, dass Technikakzeptanz steigt, wenn KI praktisch erlebbar, professionell gerahmt und ethisch fundiert eingebettet ist – und sinkt, wenn sie als Ersatz menschlicher Zuwendung erscheint. Die derzeitige Dominanz empathisierender Roboter-Narrative birgt daher das Risiko, Pflege als mechanisierbare Dienstleistung zu rahmen und ihr professionelles Selbstverständnis zu untergraben.
+
+Zugleich gilt: Solange realistische Bilder im digitalen Raum kaum sichtbar sind, liefern auch algorithmische Systeme – Bildersuchmaschinen wie KI-basierte Bildgeneratoren – weiterhin verzerrte Ergebnisse. Ein bewusster Gestaltungsprozess ist daher nicht optional, sondern Teil professioneller Öffentlichkeitsarbeit.
+
+### Schlussfolgerung
+
+Pflege als Profession muss aktiv an der Entwicklung und Verbreitung realistischer, vielfältiger Bilder mitwirken – in Medien, Bildungsarbeit und Öffentlichkeitskommunikation. Pflegepraxis, Pflegewissenschaft und Berufsverbände sind gefordert, gemeinsam Darstellungen zu schaffen, die die Breite pflegerischer Aufgaben und die Vielfalt der damit verbundenen KI-Anwendungen sichtbar machen. Nur so kann die Pflege ein professionelles, menschenzentriertes und realistisches Bild von KI etablieren – das digitale Technik als Unterstützung, nicht als Ersatz versteht.
+
+### Publikation
+
+Genz, K. & **Schimböck**, F. (2025). KI und die Macht der Bilder – Wie Google & Co. das Bild der Pflege reduzieren. *Pflegezeitschrift*, 78(10), 56–58. <https://doi.org/10.1007/s41906-025-2922-y>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.1007/s41906-025-2922-y"
+      data-style="large_rectangle">
+</span>
+```

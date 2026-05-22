@@ -1,0 +1,52 @@
+---
+title: "Toolbox Evaluation: Messinstrumente und Empfehlungen für interprofessionelle Edukation"
+date: 2026-05-21
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2026-ipe-edukation.png"
+description: "Ein praxisorientierter Buchbeitrag zur Evaluation interprofessioneller Edukation im Gesundheitswesen – mit konkreten Empfehlungen für Evaluationsdesign, Zielsetzung und einer kommentierten Übersicht validierter Messinstrumente für Lehrende, Praxisanleitende und Strukturverantwortliche."
+categories: [2026, Interprofessionalität]
+---
+
+### Hintergrund
+
+Interprofessionelle Edukation (IPE) blickt auf eine etwa 30-jährige Geschichte zurück und ist damit ein relativ junger Bereich sowohl in der Lehre als auch in der zugehörigen Forschung. Lehr- und Lernansätze variieren erheblich – in der Gruppenzusammensetzung, den eingesetzten Methoden und den verfolgten Zielen. Entsprechend vielfältig sind auch die verwendeten Evaluationsansätze: quantitative, qualitative und Mixed-Methods-Designs kommen zum Einsatz, um interprofessionelle Aktivitäten in Aus-, Fort- und Weiterbildung zu beurteilen.
+
+Die Weltgesundheitsorganisation (WHO) misst IPE einen hohen Stellenwert bei, da sie für die Entwicklung kollaborativer und praxisbereiter Arbeitsweisen im Gesundheitswesen essenziell ist. Systematische Literaturübersichten belegen durchweg positive Effekte: IPE wird von Lernenden gut angenommen und ist in der Lage, die interprofessionelle Zusammenarbeit sowie die Qualität der Gesundheitsversorgung zu verbessern. Dennoch wird in der Forschungsliteratur darauf hingewiesen, dass robuste Evaluationsmethoden eingesetzt werden sollten, die über reine Selbstberichte hinausgehen.
+
+> „Evaluation ist nicht das Ende einer IPE-Aktivität, sondern ihr kontinuierlicher Begleiter – sie beginnt bei der Zielsetzung und endet nie ganz."
+
+### Ziel
+
+Ziel dieses Buchbeitrags ist es, praxisnahe Empfehlungen für die Konzeption, Planung und Evaluation von IPE-Aktivitäten im Gesundheitswesen zu geben sowie validierte Messinstrumente vorzustellen, die in diesem Zusammenhang eingesetzt werden können.
+
+### Inhalt
+
+Der Beitrag folgt einer praktisch orientierten Struktur und führt Lehrende, Praxisanleitende und Strukturverantwortliche Schritt für Schritt durch den Evaluationsprozess.
+
+**Empfehlung 1 – Ziel der Evaluation definieren**
+Bereits bei der Entwicklung einer IPE-Aktivität sollte entschieden werden, ob die Evaluation auf Feedback zur Qualität und unmittelbaren Auswirkungen abzielt oder ob eine Evaluationsstudie geplant ist, die Verhaltensänderungen in der Praxis oder Patient:innen-Ergebnisse untersucht. Diejenigen, die die IPE-Aktivität verantworten, sollten von Beginn an in die Planung und Konzeption der Evaluation einbezogen sein.
+
+**Empfehlung 2 – Passendes Evaluationsdesign wählen**
+Das Evaluationsdesign orientiert sich am Kirkpatrick-Modell mit seinen vier Ebenen: Reaktion (Zufriedenheit), Lernen (Wissen, Einstellungen, Fertigkeiten), Verhalten (Transfer in die Praxis) und Ergebnisse (Auswirkungen auf die Versorgung). Je anspruchsvoller die Evaluationsebene, desto aufwändiger das erforderliche Design.
+
+:::{.callout-tip title="Tipp"}
+Das Kirkpatrick-Modell bietet eine strukturierte Orientierung, sollte jedoch kritisch reflektiert werden: Höhere Evaluationsebenen erfordern deutlich mehr Ressourcen und sind im Kontext von Fort- und Weiterbildungen oft schwer umsetzbar. Eine klare Priorisierung lohnt sich.
+:::
+
+**Empfehlung 3 – Geeignete Methoden und Instrumente auswählen**
+Der Beitrag stellt eine kommentierte Übersicht validierter Messinstrumente vor, die für die Evaluation von IPE-Aktivitäten geeignet sind – darunter Instrumente zur Messung von Einstellungen zur interprofessionellen Zusammenarbeit, zur Teamkommunikation, zu IPE-spezifischen Kompetenzen sowie zu interprofessionellen Lernbereitschaften. Dabei werden Einsatzbereich, Itemanzahl, Sprache und Gütekriterien beschrieben.
+
+:::{.callout-warning title="Wichtig"}
+Viele etablierte IPE-Messinstrumente liegen nur auf Englisch vor. Die Übertragung in andere Sprachen erfordert ein strukturiertes Übersetzungs- und Validierungsverfahren – eine direkte Übersetzung ohne Validierung ist für wissenschaftliche Evaluationen nicht ausreichend.
+:::
+
+### Schlussfolgerung
+
+Eine sorgfältig geplante Evaluation ist kein Zusatzaufwand, sondern ein wesentlicher Bestandteil qualitativ hochwertiger interprofessioneller Bildung. Sie liefert die Evidenzbasis, die IPE braucht, um sich als wirksame und nachhaltige Lehr-Lern-Form im Gesundheitswesen zu etablieren. Der Beitrag bietet Lehrenden und Strukturverantwortlichen einen praxistauglichen Einstieg in die Evaluationsplanung – von der Zielsetzung über das Design bis zur Instrumentenauswahl.
+
+### Publikation
+
+**Schimböck**, F. (2026). Toolbox Evaluation: Praxisleitfaden und Messinstrumente zur Evaluation von interprofessioneller Edukation. In T. Lehnen, J. Busch & W. von Gahlen-Hoops (Hrsg.), *Interprofessionelle Bildung in Pflege und Gesundheitsberufen. Curriculare Gestaltung und Strategien für die Anwendung* (S. 218–245). transcript Verlag. ISBN: 978-3-8376-7403-3

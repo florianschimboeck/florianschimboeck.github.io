@@ -1,0 +1,79 @@
+---
+title: "Delir-Prävalenz, Interventionen und Barrieren auf Intensivstationen in der DACH-Region"
+date: 2025-03-25
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2025-wdad-icu.png"
+description: "Eine Sekundäranalyse der weltweiten WDAD-2023-Studie zu Delirprävalenz, eingesetzten Assessmentinstrumenten, nicht-pharmakologischen Interventionen und Barrieren im Delirmanagement auf erwachsenen und pädiatrischen Intensivstationen in Deutschland, Österreich und der Schweiz."
+categories: [2025, Quantitativ, Delir]
+---
+
+### Hintergrund
+
+Delir ist ein schwerwiegendes, akutes neuropsychiatrisches Syndrom, das kritisch kranke Patient:innen auf Intensivstationen (ICU) erheblich belastet. Die Prävalenz liegt in erwachsenen ICU-Populationen zwischen 31 % und 52,5 %, mit vergleichbar hohen Raten von 34 %–46 % bei kritisch kranken pädiatrischen Patient:innen. Ein Delir während des ICU-Aufenthalts ist assoziiert mit erhöhter Sterblichkeit, verlängertem Krankenhausaufenthalt, prolongierter Beatmungsdauer, kognitiven Langzeitfolgen, eingeschränkter Lebensqualität und erhöhten Versorgungskosten.
+
+> „Ein Fünftel der beurteilten ICU-Patient:innen leidet an einem Delir – die Prävention und Behandlung bleibt eine der zentralen Herausforderungen in der Intensivpflege."
+
+Während die Evidenz nicht-pharmakologische Multikomponenten-Interventionen klar befürwortet, besteht nach wie vor eine erhebliche Variabilität in der Delirpraxis zwischen verschiedenen Ländern und Einrichtungen. Systematische Daten zu ICUs in den deutschsprachigen Ländern fehlten bislang weitgehend.
+
+### Ziel
+
+Ziel dieser Sekundäranalyse war es, (1) eingesetzte Delirassessment-Instrumente, Delirprävalenz, Interventionen und Barrieren im Delirmanagement auf erwachsenen und pädiatrischen Intensivstationen in Deutschland, Österreich und der Schweiz zu beschreiben sowie (2) Assoziationen zwischen der Delirprävalenz und berichteten Interventionen und Barrieren auf Stationsebene zu explorieren.
+
+### Methodik
+
+Das Projekt ist eine Sekundäranalyse des weltweiten WDAD 2023 Delirium Survey (World Delirium Awareness Day, 15. März 2023). Mittels eines validierten 39-Fragen-Online-Surveys wurden an einem einzigen Stichtag aggregierte Patient:innen- und Einrichtungsdaten erhoben – jeweils um 8:00 Uhr morgens und 20:00 Uhr abends (± 4 Stunden).
+
+In die Analyse eingeschlossen wurden alle 123 ICUs aus Deutschland (61,0 %), Österreich und der Schweiz, darunter 79 Erwachsenen-ICUs, 20 pädiatrische und 24 gemischte Einheiten. 86,2 % der teilnehmenden Einrichtungen waren Universitätskliniken. Die Datenerhebung erfolgte überwiegend durch Pflegefachpersonen (87,0 %). Für die Regressionsanalysen wurden ICUs mit fehlenden Prävalenzdaten ausgeschlossen (n = 29), sodass 94 ICUs in die multivariaten Modelle eingingen. Die Auswertung umfasste deskriptive Analysen sowie multiple lineare Regressionen mit Rückwärtselimination und Adjustierung der p-Werte mittels False Discovery Rate.
+
+### Ergebnisse
+
+**Delirprävalenz**
+Die mittlere Delirprävalenz über alle ICUs betrug 18,6 % am Morgen und 20,4 % am Abend. Die Prävalenz war zwischen erwachsenen und pädiatrischen ICUs vergleichbar. Österreich wies die niedrigste Prävalenz auf (8:00 Uhr: 12,3 %; 20:00 Uhr: 10,1 %), während Deutschland und die Schweiz höhere Raten zeigten.
+
+**Assessmentpraxis**
+Das am häufigsten eingesetzte Instrument war die Intensive Care Delirium Screening Checklist (ICDSC; 43,9 %), gefolgt von der Confusion Assessment Method for the ICU (CAM-ICU; 17,9 %). Die bevorzugten Instrumente variierten zwischen den Ländern: In Deutschland dominierte die ICDSC, in Österreich die CAM-ICU, in der Schweiz wurden Kombinationen eingesetzt. Die überwiegende Mehrheit der Stationen erhob das Delir-Assessment dreimal täglich (56,1 %).
+
+:::{.callout-warning title="Wichtig"}
+12,2 % der Stationen berichteten, über keine geeigneten Assessmentscores für Delir zu verfügen.
+:::
+
+**Interventionen und Barrieren**
+Die am häufigsten berichteten nicht-pharmakologischen Interventionen waren Schmerzmanagement (95,9 %), Mobilisation (94,3 %) und verbale Reorientierung (84,6 %) – in Übereinstimmung mit dem ABCDEF-Bundle und internationalen Empfehlungen. Selten eingesetzte Maßnahmen waren hingegen das Verlassen der Station (6,5 %), bodennahe Betten (4,1 %) oder tiergestützte Therapie (0,8 %).
+
+Als größte Barriere wurde Personalmangel genannt (53,7 %), gefolgt von schwer beurteilbaren Patient:innen (44,7 %) und fehlendem Bewusstsein für das Thema Delir (39,0 %).
+
+**Assoziationen zwischen Prävalenz, Interventionen und Barrieren**
+Die Vermeidung von Blasenkathetern war die einzige Intervention, die zu beiden Messzeitpunkten über alle ICUs hinweg mit einer signifikant niedrigeren Delirprävalenz assoziiert war (8:00 Uhr: FDR-p = .004; 20:00 Uhr: FDR-p = .019). Weitere Assoziationen zeigten sich für kognitive Stimulation, Ohrstöpsel bzw. Schlafbrillen sowie Mobilisation in spezifischen Subgruppen.
+
+:::{.callout-tip title="Tipp"}
+Die Verwendung von Ohrstöpseln und/oder Schlafbrillen war in ICUs für Erwachsene mit einer signifikant niedrigeren Delirprävalenz assoziiert. Diese einfach umsetzbaren Maßnahmen zur Schlafförderung sollten konsequenter in die Praxis integriert werden.
+:::
+
+### Diskussion
+
+Die berichtete Delirprävalenz von 18,6 %–20,4 % liegt unterhalb der in der Literatur beschriebenen Spannbreite von 31 %–52,5 %, ist jedoch vergleichbar mit Ergebnissen aus der weltweiten WDAD-Studie (ca. 20,6 %). Dies könnte auf einen Selektionsbias zurückzuführen sein, da vorwiegend Einrichtungen mit vorbestehendem Delirinteresse teilnahmen. Methodische Unterschiede zwischen Studien sowie die Zusammensetzung der eingeschlossenen ICU-Typen können ebenfalls zur Variabilität beitragen.
+
+Das in der ICDSC-Gruppe beobachtete höhere Prävalenzniveau im Vergleich zur CAM-ICU-Gruppe wirft die Frage auf, ob beobachtungsbasierte Instrumente zusätzliche Symptome – etwa Fatigue, Obstipation oder Diarrhö – fälschlicherweise als Delirzeichen klassifizieren. Zukünftige Studien sollten untersuchen, welche Instrumentenperspektive klinisch relevanter ist und wie subjektives Urteil und validiertes Assessment optimal kombiniert werden können.
+
+:::{.callout-note title="Hinweis"}
+Der Einsatz pädiatrischer Delirassessments war insgesamt gering. Gleichzeitig war „keine geeigneten Scores für das Delirscreening" die häufigste Barriere in pädiatrischen und gemischten ICUs – ein deutliches Signal, dass die Implementierung pädiatrischer Assessmentinstrumente dringend gefördert werden muss.
+:::
+
+### Schlussfolgerung
+
+Etwa ein Fünftel der ICU-Patient:innen in deutschsprachigen Ländern leidet an einem Delir. Die Studie zeigt, dass nicht-pharmakologische Interventionen – insbesondere die Vermeidung von Blasenkathetern, der Einsatz von Ohrstöpseln und Schlafbrillen, ausreichende Flüssigkeitszufuhr, kognitive Stimulation und Mobilisation – mit einer reduzierten Delirprävalenz assoziiert sind und gezielt gestärkt werden sollten. Personalmangel und fehlende geeignete Assessmentscores bleiben zentrale Barrieren, die durch strukturelle Maßnahmen, Schulungen und interprofessionelle Zusammenarbeit adressiert werden müssen.
+
+### Publikation
+
+Exl, M. T., Fischbacher, S., Lindroth, H., Liu, K., Hoffmann, M., Jeitziner, M., Nydahl, P., Von Haken, R., Krüger, L. & **Schimböck**, F. (2025). Delirium prevalence, interventions and barriers in intensive care units in German-speaking countries: A retrospective cross-sectional secondary analysis. *Nursing in Critical Care*, 30(3), e70041. <https://doi.org/10.1111/nicc.70041>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.1111/nicc.70041"
+      data-style="large_rectangle">
+</span>
+```

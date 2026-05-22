@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>datenschutz – Florian Schimböck</title>
+<title>Ressourcen – Florian Schimböck</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -70,13 +72,75 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Suchen"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<meta property="og:title" content="Florian Schimböck">
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-categories','listing-description','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Ressourcen – Florian Schimböck">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://florianschimboeck.com/ressourcen/Coming soon/coming-soon.png">
 <meta property="og:site_name" content="Florian Schimböck">
+<meta property="og:image:height" content="292">
+<meta property="og:image:width" content="514">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -108,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Vorträge</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ressourcen.html"> <i class="bi bi-file-zip" role="img">
+    <a class="nav-link active" href="./ressourcen.html" aria-current="page"> <i class="bi bi-file-zip" role="img">
 </i> 
 <span class="menu-text">Ressourcen</span></a>
   </li>  
@@ -131,9 +195,11 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Kategorien</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">alle <span class="quarto-category-count">(2)</span></div><div class="category" data-category="MjAyNQ==">2025 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGVtbiVDMyVBNGNoc3Q=">Demnächst <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SDVQ">H5P <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VmlydHVlbGxlJTIwU2ltdWxhdGlvbg==">Virtuelle Simulation <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
 <div id="reading-progress"></div>
 
 <script>
@@ -156,129 +222,123 @@ ul.task-list li input[type="checkbox"] {
 
 </script>
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Ressourcen</h1>
+</div>
 
 
 
-<section id="datenschutzerklärung" class="level2">
-<h2 class="anchored" data-anchor-id="datenschutzerklärung">Datenschutzerklärung</h2>
-<section id="datenschutz-auf-einen-blick" class="level3">
-<h3 class="anchored" data-anchor-id="datenschutz-auf-einen-blick">1. Datenschutz auf einen Blick</h3>
-<section id="allgemeine-hinweise" class="level4">
-<h4 class="anchored" data-anchor-id="allgemeine-hinweise">Allgemeine Hinweise</h4>
-<p>Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.</p>
-</section>
-<section id="datenerfassung-auf-dieser-website" class="level4">
-<h4 class="anchored" data-anchor-id="datenerfassung-auf-dieser-website">Datenerfassung auf dieser Website</h4>
-<p><strong>Wer ist verantwortlich für die Datenerfassung auf dieser Website?</strong> Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.</p>
-<p><strong>Wie erfassen wir Ihre Daten?</strong> Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie uns per Mail mitteilen. Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.</p>
-<p><strong>Wofür nutzen wir Ihre Daten?</strong> Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden. Sofern über die Website Verträge geschlossen oder angebahnt werden können, werden die übermittelten Daten auch für Vertragsangebote oder sonstige Auftragsanfragen verarbeitet.</p>
-<p><strong>Welche Rechte haben Sie bezüglich Ihrer Daten?</strong> Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.</p>
-</section>
-</section>
-<section id="hosting" class="level3">
-<h3 class="anchored" data-anchor-id="hosting">2. Hosting</h3>
-<p>Wir hosten die Inhalte unserer Website bei folgendem Anbieter:</p>
-<section id="externes-hosting" class="level4">
-<h4 class="anchored" data-anchor-id="externes-hosting">Externes Hosting</h4>
-<p>Diese Website wird extern gehostet. Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters / der Hoster gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.</p>
-<p>Das externe Hosting erfolgt im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO). Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TDDDG umfasst. Die Einwilligung ist jederzeit widerrufbar. Unser(e) Hoster wird bzw. werden Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.</p>
-<p>Wir setzen folgende(n) Hoster ein: <br></p>
-<p>GitHub, Inc.&nbsp;(Muttergesellschaft) <br> 88 Colin P. Kelly Jr.&nbsp;Street <br> San Francisco, CA 94107 <br> United States <br></p>
-<p>GitHub B.V. (für EU-Nutzer) <br> Vijzelstraat 68-72 <br> 1017 HL Amsterdam <br> Niederlande <br></p>
-<p>Weitere Informationen finden Sie in der <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">Datenschutzerklärung von GitHub</a>.</p>
-</section>
-</section>
-<section id="allgemeine-hinweise-und-pflichtinformationen" class="level3">
-<h3 class="anchored" data-anchor-id="allgemeine-hinweise-und-pflichtinformationen">3. Allgemeine Hinweise und Pflichtinformationen</h3>
-<section id="datenschutz" class="level4">
-<h4 class="anchored" data-anchor-id="datenschutz">Datenschutz</h4>
-<p>Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.</p>
-<p>Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</p>
-</section>
-<section id="hinweis-zur-verantwortlichen-stelle" class="level4">
-<h4 class="anchored" data-anchor-id="hinweis-zur-verantwortlichen-stelle">Hinweis zur verantwortlichen Stelle</h4>
-<p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>
-<p>Florian Schimböck <br> Sandower Str. 41 <br> 03046 Cottbus <br> Deutschland <br></p>
-<p>Telefon: +49 172 8053944 <br> E-Mail: florian.schimboeck@gmail.com</p>
-<p>Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.</p>
-</section>
-<section id="speicherdauer" class="level4">
-<h4 class="anchored" data-anchor-id="speicherdauer">Speicherdauer</h4>
-<p>Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.</p>
-</section>
-<section id="allgemeine-hinweise-zu-den-rechtsgrundlagen-der-datenverarbeitung-auf-dieser-website" class="level4">
-<h4 class="anchored" data-anchor-id="allgemeine-hinweise-zu-den-rechtsgrundlagen-der-datenverarbeitung-auf-dieser-website">Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website</h4>
-<p>Sofern Sie in die Datenverarbeitung eingewilligt haben, verarbeiten wir Ihre personenbezogenen Daten auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO, sofern besondere Datenkategorien nach Art. 9 Abs. 1 DSGVO verarbeitet werden. Im Falle einer ausdrücklichen Einwilligung in die Übertragung personenbezogener Daten in Drittstaaten erfolgt die Datenverarbeitung außerdem auf Grundlage von Art. 49 Abs. 1 lit. a DSGVO. Sofern Sie in die Speicherung von Cookies oder in den Zugriff auf Informationen in Ihr Endgerät (z. B. via Device-Fingerprinting) eingewilligt haben, erfolgt die Datenverarbeitung zusätzlich auf Grundlage von § 25 Abs. 1 TDDDG. Die Einwilligung ist jederzeit widerrufbar. Sind Ihre Daten zur Vertragserfüllung oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, verarbeiten wir Ihre Daten auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO. Des Weiteren verarbeiten wir Ihre Daten, sofern diese zur Erfüllung einer rechtlichen Verpflichtung erforderlich sind auf Grundlage von Art. 6 Abs. 1 lit. c DSGVO. Die Datenverarbeitung kann ferner auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f DSGVO erfolgen. Über die jeweils im Einzelfall einschlägigen Rechtsgrundlagen wird in den folgenden Absätzen dieser Datenschutzerklärung informiert.</p>
-</section>
-<section id="empfänger-von-personenbezogenen-daten" class="level4">
-<h4 class="anchored" data-anchor-id="empfänger-von-personenbezogenen-daten">Empfänger von personenbezogenen Daten</h4>
-<p>Im Rahmen unserer Geschäftstätigkeit arbeiten wir mit verschiedenen externen Stellen zusammen. Dabei ist teilweise auch eine Übermittlung von personenbezogenen Daten an diese externen Stellen erforderlich. Wir geben personenbezogene Daten nur dann an externe Stellen weiter, wenn dies im Rahmen einer Vertragserfüllung erforderlich ist, wenn wir gesetzlich hierzu verpflichtet sind (z. B. Weitergabe von Daten an Steuerbehörden), wenn wir ein berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO an der Weitergabe haben oder wenn eine sonstige Rechtsgrundlage die Datenweitergabe erlaubt. Beim Einsatz von Auftragsverarbeitern geben wir personenbezogene Daten unserer Auftraggeber nur auf Grundlage eines gültigen Vertrags über Auftragsverarbeitung weiter. Im Falle einer gemeinsamen Verarbeitung wird ein Vertrag über gemeinsame Verarbeitung geschlossen.</p>
-</section>
-<section id="widerruf-ihrer-einwilligung-zur-datenverarbeitung" class="level4">
-<h4 class="anchored" data-anchor-id="widerruf-ihrer-einwilligung-zur-datenverarbeitung">Widerruf Ihrer Einwilligung zur Datenverarbeitung</h4>
-<p>Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.</p>
-</section>
-<section id="widerspruchsrecht-gegen-die-datenerhebung-in-besonderen-fällen-sowie-gegen-direktwerbung-art.-21-dsgvo" class="level4">
-<h4 class="anchored" data-anchor-id="widerspruchsrecht-gegen-die-datenerhebung-in-besonderen-fällen-sowie-gegen-direktwerbung-art.-21-dsgvo">Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)</h4>
-<p>WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GRÜNDEN, DIE SICH AUS IHRER BESONDEREN SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN WIDERSPRUCH EINZULEGEN; DIES GILT AUCH FÜR EIN AUF DIESE BESTIMMUNGEN GESTÜTZTES PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT, ENTNEHMEN SIE DIESER DATENSCHUTZERKLÄRUNG. WENN SIE WIDERSPRUCH EINLEGEN, WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES SEI DENN, WIR KÖNNEN ZWINGENDE SCHUTZWÜRDIGE GRÜNDE FÜR DIE VERARBEITUNG NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN ÜBERWIEGEN ODER DIE VERARBEITUNG DIENT DER GELTENDMACHUNG, AUSÜBUNG ODER VERTEIDIGUNG VON RECHTSANSPRÜCHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO). WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG EINZULEGEN; DIES GILT AUCH FÜR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO).</p>
-</section>
-<section id="beschwerderecht-bei-der-zuständigen-aufsichtsbehörde" class="level4">
-<h4 class="anchored" data-anchor-id="beschwerderecht-bei-der-zuständigen-aufsichtsbehörde">Beschwerderecht bei der zuständigen Aufsichtsbehörde</h4>
-<p>Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.</p>
-</section>
-<section id="recht-auf-datenübertragbarkeit" class="level4">
-<h4 class="anchored" data-anchor-id="recht-auf-datenübertragbarkeit">Recht auf Datenübertragbarkeit</h4>
-<p>Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.</p>
-</section>
-<section id="auskunft-berichtigung-und-löschung" class="level4">
-<h4 class="anchored" data-anchor-id="auskunft-berichtigung-und-löschung">Auskunft, Berichtigung und Löschung</h4>
-<p>Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.</p>
-</section>
-<section id="recht-auf-einschränkung-der-verarbeitung" class="level4">
-<h4 class="anchored" data-anchor-id="recht-auf-einschränkung-der-verarbeitung">Recht auf Einschränkung der Verarbeitung</h4>
-<p>Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:</p>
-<ul>
-<li>Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.</li>
-<li>Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie statt der Löschung die Einschränkung der Datenverarbeitung verlangen. Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.</li>
-<li>Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.</li>
-<li>Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.</li>
-</ul>
-</section>
-<section id="ssl--bzw.-tls-verschlüsselung" class="level4">
-<h4 class="anchored" data-anchor-id="ssl--bzw.-tls-verschlüsselung">SSL- bzw. TLS-Verschlüsselung</h4>
-<p>Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte eine SSL- bzw. TLS Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile. Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.</p>
-</section>
-</section>
-<section id="datenerfassung-auf-dieser-website-1" class="level3">
-<h3 class="anchored" data-anchor-id="datenerfassung-auf-dieser-website-1">4. Datenerfassung auf dieser Website</h3>
-<section id="anfrage-per-e-mail-oder-telefon" class="level4">
-<h4 class="anchored" data-anchor-id="anfrage-per-e-mail-oder-telefon">Anfrage per E-Mail oder Telefon</h4>
-<p>Wenn Sie uns per E-Mail oder Telefon kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter. Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde; die Einwilligung ist jederzeit widerrufbar.</p>
-<p>Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.</p>
-</section>
-<section id="google-fonts" class="level4">
-<h4 class="anchored" data-anchor-id="google-fonts">Google Fonts</h4>
-<p>Diese Website verwendet Web Fonts des Dienstes Google Fonts (Google LLC,1600 Amphitheatre Parkway, Mountain View, CA 94043, USA). Beim Aufruf dieser Website wird eine Verbindung zu Servern von Google in den USA hergestellt, dabei wird Ihre IP-Adresse übertragen. Die Einbindung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer einheitlichen und ansprechenden Darstellung der Website). Es werden keine Cookies gesetzt und keine personenbezogenen Daten über das Nutzungsverhalten erhoben.</p>
-<p>Weitere Informationen finden Sie in der <a href="https://policies.google.com/privacy">Datenschutzerklärung von Google</a>.</p>
-</section>
-<section id="lumi-education-h5p" class="level4">
-<h4 class="anchored" data-anchor-id="lumi-education-h5p">Lumi Education (H5P)</h4>
-<p>Auf dieser Website werden interaktive Lernmodule des Dienstes Lumi Education eingebunden. Die Inhalte werden erst nach aktiver Zustimmung durch den Nutzer geladen. Bei Aktivierung wird eine Verbindung zu den Servern von Lumi Education hergestellt und dabei die IP-Adresse übertragen. Anbieter ist:</p>
-<p>Lumi Education UG <br> Bückenstraße 8 <br> 38312 Ohrum <br> Deutschland <br></p>
-<p>Weitere Informationen finden Sie in der <a href="https://lumi.education/de/datenschutzrichtlinie/">Datenschutzerklärung von Lumi Education</a>.</p>
-</section>
-<section id="dimensions-badge" class="level4">
-<h4 class="anchored" data-anchor-id="dimensions-badge">Dimensions Badge</h4>
-<p>Auf dieser Website wird der Dimensions Badge des Dienstes Digital Science &amp; Research Solutions Inc.&nbsp;eingebunden. Beim Aufruf der Seite wird ein externes Skript von badge.dimensions.ai geladen, dabei wird Ihre IP-Adresse übertragen. Anbieter ist:</p>
-<p>Digital Science &amp; Research Solutions Inc.&nbsp;<br> 53 Chandos Place <br> London WC2N 4HS <br> Vereinigtes Königreich <br></p>
-<p>Weitere Informationen finden Sie in der <a href="https://www.dimensions.ai/privacy-policy/">Datenschutzerklärung von Dimensions</a>.</p>
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-</section>
-</section>
-</section>
+</header>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a></main> <!-- /main -->
+
+<p>Hier finden sich digitale Lehr- und Lernmaterialien, die ich im Rahmen meiner pädagogischen Arbeit entwickelt habe. Der Schwerpunkt liegt auf interaktiven H5P-Inhalten, virtuellen Simulationsumgebungen und E-Learning-Modulen für die Pflegeausbildung.</p>
+<div id="listing-resources">
+
+</div>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Sortieren nach" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Sortieren nach</option>
+      <option value="index" data-direction="asc">Voreinstellung</option>
+      <option value="listing-date-sort" data-direction="asc">
+        Datum - Datum (aufsteigend)
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Datum - Neueste
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="RGVtbiVDMyVBNGNoc3QlMkNINVA=" data-listing-date-sort="1774994400000" data-listing-file-modified-sort="1776167205204" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
+<a href="./ressourcen/Coming soon/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./ressourcen/Coming soon/coming-soon.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Noch geheim – aber die Zahnräder drehen sich
+</h5>
+<div class="listing-reading-time card-text text-muted">1 min</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGVtbiVDMyVBNGNoc3Q='); return false;">Demnächst</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SDVQ'); return false;">H5P</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Hier entsteht gerade etwas Neues. Da die Technik und ich uns an ein paar Stellen noch uneinig sind, bitte ich noch um etwas Geduld. Details folgen, sobald Kaffee, technische Umsetzung und eigene…</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Florian Schimböck
+</div>
+<div class="listing-date">
+01.04.2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="MjAyNSUyQ1ZpcnR1ZWxsZSUyMFNpbXVsYXRpb24lMkNINVA=" data-listing-date-sort="1774994400000" data-listing-file-modified-sort="1776170063530" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2187">
+<a href="./ressourcen/Virtueller Room of Horrors/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./ressourcen/Virtueller Room of Horrors/roomofhorror.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Virtueller Room of Horrors
+</h5>
+<div class="listing-reading-time card-text text-muted">11 min</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('MjAyNQ=='); return false;">2025</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmlydHVlbGxlJTIwU2ltdWxhdGlvbg=='); return false;">Virtuelle Simulation</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SDVQ'); return false;">H5P</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Der virtuelle Room of Horrors überträgt das bekannte Patientensicherheitskonzept in den digitalen Raum. Mithilfe des H5P-Tools Virtual Tour (360°) kann man durch ein virtuelles Zimmer navigieren und…</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Florian Schimböck
+</div>
+<div class="listing-date">
+01.04.2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">Keine Treffer</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a></main> <!-- /main -->
 <script src="https://badge.dimensions.ai/badge.js" charset="utf-8">
 
 </script>
@@ -707,7 +767,7 @@ ul.task-list li input[type="checkbox"] {
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link active" href="./datenschutz.html" aria-current="page">
+    <a class="nav-link" href="./datenschutz.html">
 <p>Datenschutzerklärung</p>
 </a>
   </li>  

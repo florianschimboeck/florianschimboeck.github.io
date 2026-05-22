@@ -1,0 +1,69 @@
+---
+title: "Praktische Prüfungen unter Simulationsbedingungen in der Hebammenausbildung"
+date: 2022-06-23
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2022-simulation-midwifery.png"
+description: "Ein praxisorientierter Übersichtsbeitrag zu Chancen, Herausforderungen und Gestaltungsempfehlungen für praktische Prüfungen unter Simulationsbedingungen im Rahmen der akademisierten Hebammenausbildung in Deutschland – rechtlicher Rahmen, didaktische Grundlagen und konkrete Handlungsstrategien."
+categories: [2022, Übersichtsbeitrag, Simulation, Hebammenausbildung]
+---
+
+### Hintergrund
+
+Mit dem Hebammengesetz (HebG 2019) und der Studien- und Prüfungsverordnung für Hebammen (HebStPrV 2020) wurde in Deutschland ein wegweisender Rahmen für die akademisierte Hebammenausbildung geschaffen. Eine der größten Innovationen: Simulation ist seither nicht nur als Lehr- und Lernmethode, sondern auch als Format für praktische Staatsprüfungen rechtlich verankert. Das schafft neue Möglichkeiten – stellt Studiengänge, Dozierende und Studierende jedoch auch vor erhebliche Herausforderungen.
+
+Simulation bietet im Kontext der Hebammenausbildung eine sichere Umgebung, um Kompetenzen in Anamnese, Beobachtung, Kommunikation, Teamwork, Entscheidungsfindung und praktischer Versorgung zu erwerben und zu festigen. International ist ihr Einsatz in Aus-, Fort- und Weiterbildung bereits seit Jahren etabliert. Auf nationaler Ebene steckt die Nutzung von Simulation als Prüfungsformat – insbesondere als summatives Assessment – hingegen noch in den Anfängen.
+
+> „Simulation als staatliche Prüfung ist die große Innovation der akademisierten Hebammenausbildung. Sie birgt Chancen, aber auch Herausforderungen, mit denen sich die einzelnen Studiengänge in der Ausgestaltung und Organisation konfrontiert sehen."
+
+### Ziel
+
+Ziel dieses Beitrags ist es, die Ausgangslage praktischer Prüfungen unter Simulationsbedingungen in der Hebammenausbildung darzustellen, die damit verbundenen Herausforderungen zu beleuchten und auf Basis der NLN Jeffries Simulation Theory sowie internationaler Literatur konkrete Handlungsempfehlungen zu geben.
+
+### Rechtlicher Rahmen und Prüfungsstruktur
+
+Die praktische Staatsprüfung gliedert sich gemäß §28 HebStPrV in drei Prüfungsteile: Schwangerschaft, Geburt sowie Wochenbett und Stillzeit. Während der erste und dritte Prüfungsteil grundsätzlich im Krankenhaus oder an der Hochschule stattfinden – wahlweise als Realprüfung oder als Simulationsprüfung –, wird der zweite Prüfungsteil (Geburt) ausschließlich an der Hochschule mit Modellen und Simulationspersonen durchgeführt.
+
+:::{.callout-warning title="Wichtig"}
+Für eine Kohorte von 20 Studierenden bedeutet die gesetzlich vorgegebene Prüfungsstruktur einen Aufwand von 10–20 Prüfungstagen bzw. 2–4 Arbeitswochen – ein erheblicher personeller und organisatorischer Ressourcenbedarf, dem Studiengänge frühzeitig Rechnung tragen müssen.
+:::
+
+### Formatives vs. summatives Assessment
+
+Ein zentrales Unterscheidungsmerkmal ist die Zielsetzung der Simulation: Im formativen Assessment – dem Regelfall beim Simulationstraining – steht das Debriefing als Lernmöglichkeit im Vordergrund. Fehler werden als Anstoß zum Lernen verstanden, nicht als Grundlage für Benotung. Im summativen Assessment hingegen geht es um die objektive Einschätzung und Bewertung von Kompetenzen zur Feststellung der Berufsqualifikation – ein grundlegend anderer Kontext, der andere Anforderungen an Design, Prüfende und Studierende stellt.
+
+### Herausforderungen und Gestaltungsempfehlungen
+
+Auf Basis der NLN Jeffries Simulation Theory (Kontext, Hintergrund, Design, Simulationserfahrung, Instruktor:in, Teilnehmer:in, Ergebnisse) werden zentrale Herausforderungen und Strategien beschrieben:
+
+Auf **Studiumsebene** ist die frühzeitige, longitudinale Einbettung von Simulation in die Curricula entscheidend. Nur wer Simulation vom ersten Semester an als reguläres Lern- und Übungsformat kennt, kann in der Prüfungssituation die notwendige psychologische Sicherheit entwickeln, um Kompetenzen authentisch zu zeigen.
+
+Auf der Ebene der **Szenarien** braucht es praxisnahe, abwechslungsreiche und wissenschaftlich begleitete Fallbeispiele, deren Komplexitätsgrad sich schrittweise steigert. Valide und reliable Bewertungsinstrumente – Checklisten für psychomotorische Fertigkeiten, globale Bewertungsskalen für kommunikative Kompetenzen – sind unverzichtbar.
+
+Auf **Ausstattungsebene** erfordert die Prüfung unter Simulationsbedingungen ausreichend Raum, anwenderfreundliche Technik, geschultes Fach- und Technikpersonal sowie – bei Einsatz standardisierter Simulationspersonen – entsprechende Rekrutierungs-, Trainings- und Finanzierungsstrukturen.
+
+:::{.callout-tip title="Empfehlung"}
+Für eine faire und valide summative Prüfung sollten mindestens zwei der drei Variablen (Prüfling, Simulationsperson, Prüfende) standardisiert sein. Außerdem sollte ein Bewerter:innen-Training obligatorisch sein, um eine konsistente und nachvollziehbare Leistungseinschätzung sicherzustellen.
+:::
+
+### Schlussfolgerung
+
+:::{.callout-note title="Hinweis"}
+Es bestehen bislang kaum ausgearbeitete, validierte und evaluierte Fallszenarien spezifisch für die praktische Staatsprüfung in der Hebammenausbildung. Der Aufbau gemeinsamer Falldatenbanken – analog zu bereits existierenden Ansätzen in der Pflege – wäre ein wichtiger Schritt zur Qualitätssicherung und Vergleichbarkeit.
+:::
+
+Simulation als Prüfungsformat bietet der akademisierten Hebammenausbildung die Chance, Kompetenzen standardisiert, fair und kompetenzorientiert zu erfassen – unabhängig von der Verfügbarkeit realer Gebärender. Die erfolgreiche Umsetzung setzt jedoch eine konsequente curriculare Integration, ausreichende Ressourcen, geschulte Prüfende sowie den kontinuierlichen Aufbau einer wissenschaftlich begleiteten Szenarienentwicklung voraus. Alle Beteiligten stehen noch am Anfang – die gesammelten Erfahrungen aus Lehre und Prüfung werden langfristig zu einem wachsenden Erkenntnisstand und zu besseren Prüfungsbedingungen für Studierende und Lehrende führen.
+
+### Publikation
+
+**Schimböck**, F. & Rosenlöcher, F. (2022). Praktische Prüfungen unter Simulationsbedingungen. *Hebamme*, 35, 31–39. <https://doi.org/10.1055/a-1824-1419>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.1055/a-1824-1419"
+      data-style="large_rectangle">
+</span>
+```

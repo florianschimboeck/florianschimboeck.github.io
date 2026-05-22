@@ -1,0 +1,72 @@
+---
+title: "Validation bei Menschen mit Demenz – Innovation ohne Evidenz?"
+date: 2023-12-29
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2023-validation.png"
+description: "Ein systematischer Review zur Wirksamkeit der Validation bei herausforderndem Verhalten bei Menschen mit Demenz – fünf Studien, durchwachsene Evidenz und eine methodologische Grundsatzdiskussion über die Grenzen des RCT-Designs bei interaktionsbasierten Interventionen."
+categories: [2023, Systematischer Review, Demenz, Validation]
+---
+
+### Hintergrund
+
+Herausforderndes Verhalten, wie ständiges Rufen, Weglaufen oder die Verweigerung von Pflege, ist bei Menschen mit Demenz Ausdruck negativer Emotionen und belastet Pflegende erheblich. Versuche, dieses Verhalten zu unterbinden, führen häufig zu seiner Verstärkung und münden in einem verhängnisvollen Kreislauf, der den körperlichen und geistigen Abbau der Betroffenen begünstigt.
+
+Validation, entwickelt von der amerikanischen Gerontologin Naomi Feil in den 1970er-Jahren, war der erste Ansatz, diesen Kreislauf durch ein grundlegend verändertes Beziehungsverständnis zu durchbrechen: Nicht die Anpassung der Person mit Demenz an die Realität der Pflegenden, sondern das empathische Eintauchen in die subjektive Wirklichkeit der Betroffenen steht im Mittelpunkt. Validation erfreut sich bis heute großer Popularität, ist im deutschen Expertenstandard zur Beziehungsgestaltung verankert und Gegenstand kostenpflichtiger Schulungsprogramme – die Evidenz für ihre Wirksamkeit blieb dabei jedoch lückenhaft.
+
+> „Die Belege für den Erfolg der Validationstherapie bleiben weitgehend anekdotisch" – dieses Urteil aus dem Jahr 1995 war Ausgangspunkt dieses systematischen Reviews, der erstmals eine vollständige Übersicht aller vorliegenden Wirksamkeitsstudien bietet.
+
+### Ziel
+
+Die zentrale Forschungsfrage lautete: Lässt sich herausforderndes Verhalten bei Menschen mit Demenz durch Validation im Vergleich zur herkömmlichen Pflege reduzieren?
+
+### Methodik
+
+Der systematische Review wurde gemäß den PRISMA-Richtlinien durchgeführt. Die Datenbanken PubMed, CINAHL, PsycInfo und Web of Science wurden mit einem validierten Suchstring systematisch durchsucht. Eingeschlossen wurden experimentelle und quasiexperimentelle Studien mit Kontrollgruppe, die den Effekt von Validation auf herausforderndes Verhalten bei Menschen mit Demenz untersuchten. Zwei unabhängige Reviewer bewerteten die eingeschlossenen Studien anhand des revidierten Cochrane-Risk-of-Bias-Tools (RoB2).
+
+Von 1.383 Datenbanktreffern erfüllten nach Entfernung von Duplikaten, Titel-/Abstract-Screening und Volltextprüfung fünf Studien die Einschlusskriterien.
+
+### Ergebnisse
+
+**Charakteristika der eingeschlossenen Studien**
+Die fünf Studien entstanden zwischen 1982 und 2007, wurden in Pflegeheimen in den USA und Italien durchgeführt und umfassten zwischen 20 und 59 Teilnehmende (Durchschnittsalter 80–89 Jahre). Alle Studien verglichen Validationstherapie in Gruppensitzungen mit einer Standardbehandlung. Die Häufigkeit der Sitzungen variierte zwischen einmal täglich und einmal wöchentlich, die Dauer zwischen 30 Minuten und einer Stunde. Beobachtungszeiträume reichten von sechs Wochen bis zu einem Jahr.
+
+**Wirksamkeit**
+In allen fünf Studien wiesen die Messwerte auf eine Differenz zugunsten der Validationsgruppe hin – einen statistisch signifikanten Unterschied gegenüber der Kontrollgruppe konnte jedoch nur eine einzige Studie nachweisen.
+
+:::{.callout-warning title="Wichtig"}
+Alle fünf eingeschlossenen Studien wiesen ein mittleres bis hohes Verzerrungsrisiko auf. Die einzige Studie mit einem signifikanten Befund hatte gleichzeitig ein hohes Risiko für einen Assessmentbias – ihr Ergebnis ist daher mit besonderer Vorsicht zu interpretieren.
+:::
+
+**Risiko der Verzerrung**
+Besonders kritisch zeigte sich das Verzerrungsrisiko bei der Durchführung der Intervention: In allen Studien fehlten Angaben zur Gabe von Sedativa oder Antidementiva, die das Ergebnis hätten beeinflussen können. Auch die Outcome-Messung war in mehreren Studien problematisch – die einschätzenden Pflegenden wussten in den meisten Fällen, wer zur Validations- oder Kontrollgruppe gehörte.
+
+### Diskussion
+
+Der systematische Review liefert keine Belege dafür, dass Validation als isolierte Therapiesitzung herausforderndes Verhalten bei Menschen mit Demenz wirksam reduziert. Dennoch plädieren die Autoren ausdrücklich gegen einen simplen Falsifikationismus – aus mehreren Gründen:
+
+Erstens untersuchen alle Studien Validation als zeitlich begrenzte Therapiesitzung, nicht als integrierten Bestandteil des Pflegealltags. Feil selbst beschreibt Validation als kontinuierliche Haltung im Umgang mit Menschen mit Demenz – dieser Ansatz wurde in keiner der vorliegenden Studien geprüft.
+
+Zweitens ist das Fehlen von Verblindung bei interaktionsbasierten Interventionen kein angemessenes Qualitätskriterium: Anders als bei pharmakologischen Studien, bei denen Verblindung den Wirkstoffeffekt vom Placeboeffekt trennt, ist die subjektive Wahrnehmung der Beteiligten bei Validation konstitutiver Teil der Intervention – nicht ein zu kontrollierender Störfaktor.
+
+:::{.callout-note title="Hinweis"}
+Dass seit 2007 keine weitere RCT zur Wirksamkeit der Validation durchgeführt wurde, wirft grundsätzliche Fragen auf: Hat die Wissenschaft die Hypothese als falsifiziert betrachtet – oder scheitert die Evidenzgenerierung schlicht an den methodischen Anforderungen des RCT-Designs bei einer Intervention, die strukturell auf Alltagsintegration angewiesen ist?
+:::
+
+### Schlussfolgerung
+
+Es gibt keinen Nachweis dafür, dass Validation als separate Therapie herausforderndes Verhalten bei Menschen mit Demenz reduziert. Ein positiver Effekt einer in den Pflegealltag integrierten Validation kann auf Basis der vorliegenden Evidenz jedoch nicht ausgeschlossen werden. Für zukünftige Studien sollten Prüfkriterien dem Charakter pflegerischer Interventionen angemessen sein – Verblindung ist kein geeignetes Gütekriterium für Interventionen, deren Effekt ausschließlich aus zwischenmenschlicher Interaktion entsteht.
+
+### Publikation
+
+Boggatz, T. & **Schimböck**, F. (2023). Validation bei Menschen mit Demenz: Innovation ohne Evidenz? Systematischer Review. *Zeitschrift für Gerontologie und Geriatrie*. <https://doi.org/10.1007/s00391-023-02263-3>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.1007/s00391-023-02263-3"
+      data-style="large_rectangle">
+</span>
+```

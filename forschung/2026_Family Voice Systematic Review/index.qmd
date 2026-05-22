@@ -1,0 +1,82 @@
+---
+title: "Familienstimmen gegen Delir auf der Intensivstation"
+date: 2026-04-14
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2026-family-voice.png"
+description: "Ein systematisches Review mit Meta-Analyse zur Wirkung von Familienstimmen – live oder aufgezeichnet – auf die Inzidenz und Dauer von Delir bei erwachsenen Intensivpatient:innen auf Basis von sieben randomisierten kontrollierten Studien mit 582 Patient:innen."
+categories: [2026, Systematischer Review, Meta-Analyse, Delir, Virtual Reality]
+---
+
+### Hintergrund
+
+Delir ist ein häufiges und schwerwiegendes neuropsychiatrisches Syndrom bei kritisch kranken Patient:innen, das bei mechanisch beatmeten Personen in bis zu 50–80 % der Fälle auftritt. Es entsteht aus dem komplexen Zusammenspiel prädisponierender Faktoren – wie hohes Alter, kognitive Vorbeeinträchtigung und Frailty – mit akuten Auslösern wie Sepsis, Hypoxie, Operationen oder Sedativa. Delir ist mit verlängertem Aufenthalt, erhöhter Sterblichkeit, kognitiven Langzeitfolgen und Institutionalisierung assoziiert.
+
+Während pharmakologische Ansätze in der Delirprävention und -therapie nur begrenzte Evidenz aufweisen, betonen aktuelle Leitlinien multikomponente, nicht-pharmakologische Strategien: Sedierungsminimierung, frühe Mobilisation, Orientierungsförderung und die Einbindung von Angehörigen. In diesem Kontext rücken Familienstimmen – d. h. das Verwenden von Live- oder aufgezeichneten Stimmen nahestehender Personen – als vielversprechende Maßnahme zur Reorientierung und sensorischen Stimulation in den Fokus.
+
+> „Die vertraute Stimme einer nahestehenden Person vermittelt Sicherheit, reduziert sensorische Deprivation und kann das Neurotransmittergleichgewicht normalisieren – ein einfacher, aber potenziell wirksamer Ansatz in der Intensivpflege."
+
+### Ziel
+
+Das primäre Ziel des systematischen Reviews und der Meta-Analyse war die Erfassung der Wirkung von Familienstimmen auf die Inzidenz und Dauer von Delir bei erwachsenen ICU-Patient:innen. Sekundär wurden Delir-Schweregrad, Beatmungsdauer, ICU-Liegedauer sowie Sicherheitsereignisse untersucht.
+
+### Methodik
+
+Das Review wurde gemäß PRISMA-Leitlinien und dem Cochrane Handbuch für systematische Reviews durchgeführt und vorab in PROSPERO registriert (CRD420251046497). Es wurden PubMed, CINAHL, Embase, Cochrane Library, APA PsycNet sowie graue Literatur ohne zeitliche oder sprachliche Einschränkungen durchsucht (Suchzeitraum: Mai 2025, Update November 2025).
+
+Eingeschlossen wurden ausschließlich randomisierte kontrollierte Studien (RCTs) mit erwachsenen ICU-Patient:innen (≥ 18 Jahre), die Live- oder aufgezeichnete Familienstimmen als Einzelintervention oder im Rahmen eines Maßnahmenbündels erhielten. Die Delirdiagnose musste mit validierten Instrumenten (z. B. CAM-ICU) erfasst worden sein. Das Verzerrungsrisiko wurde mit dem Cochrane RoB-1-Tool bewertet, die Evidenzqualität nach dem GRADE-Ansatz. Die Meta-Analysen erfolgten mittels RevMan 9.5.1 mit Fixed-Effects-Modellen aufgrund geringer Heterogenität.
+
+Von 438 identifizierten Titeln wurden nach Titel- und Volltextscreening insgesamt sieben RCTs in die Analyse eingeschlossen.
+
+### Ergebnisse
+
+**Eingeschlossene Studien**
+Die sieben RCTs wurden zwischen 2017 und 2025 veröffentlicht und umfassten insgesamt 582 Patient:innen mit einem Durchschnittsalter von 55–61 Jahren. Drei Studien stammten aus China, zwei aus den USA, eine aus der Türkei und eine aus Deutschland. Alle Studien setzten die CAM-ICU zur Delirerfassung ein. Die Interventionsformate variierten erheblich: von strukturierten Orientierungsbotschaften bis hin zu unstrukturierten Gesprächen, Live-Besuchen und voraufgezeichneten Audionachrichten.
+
+**Delir-Inzidenz**
+Die Meta-Analyse der Delir-Inzidenz (fünf RCTs, n = 582) zeigte eine statistisch signifikante Reduktion durch Familienstimmen im Vergleich zur Standardversorgung (OR 0,39 [95 % KI 0,26–0,58]; p < 0,001; I² = 0 %). Die Wahrscheinlichkeit eines Delirs war in der Interventionsgruppe damit um nahezu 70 % geringer.
+
+:::{.callout-tip title="Zentraler Befund"}
+Familienstimmen reduzierten die Delir-Wahrscheinlichkeit um fast 70 % gegenüber der Standardversorgung.
+:::
+
+**Delir-Dauer**
+Die Meta-Analyse der Delir-Dauer (drei RCTs, n = 103) ergab eine signifikante Verkürzung um durchschnittlich 0,9 Tage (MD −0,90 Tage [95 % KI −1,28 bis −0,53]; I² = 0 %).
+
+**Sekundäre Outcomes**
+Ergänzende Analysen zeigten eine signifikante Reduktion des Delir-Schweregrads (−2,00 Punkte auf der CAM-ICU-Skala), eine kürzere Beatmungsdauer (−0,28 Tage) sowie eine verkürzte ICU-Liegedauer, letztere jedoch mit substanzieller Heterogenität (I² = 76 %).
+
+**Evidenzqualität**
+Die Evidenzsicherheit für die primären Endpunkte wurde nach GRADE als moderat eingestuft – aufgewertet durch konsistente Effekte und enge Konfidenzintervalle, abgewertet aufgrund von Verzerrungsrisiken in einzelnen Studien sowie der kleinen Gesamtstichprobe bei der Dauer-Analyse.
+
+:::{.callout-warning title="Wichtig"}
+Das Verzerrungsrisiko war in drei der sieben RCTs insgesamt hoch, hauptsächlich bedingt durch Limitationen in der Verblindung und Randomisierungsprozessen. Die Ergebnisse sind daher trotz der eindrücklichen Effektgrößen mit entsprechender Vorsicht zu interpretieren.
+:::
+
+### Diskussion
+
+Die Wirksamkeit von Familienstimmen lässt sich auf mehrere Mechanismen zurückführen: Reorientierung durch vertraute Personen stärkt das Sicherheitsgefühl der Patient:innen, reduziert Stress als bekannten Delir-Risikofaktor und kann möglicherweise das Neurotransmitterungleichgewicht – insbesondere bei Acetylcholin, Dopamin und Serotonin – normalisieren. Sowohl Live-Stimmen als auch voraufgezeichnete Nachrichten zeigten Wirksamkeit, wobei die optimale Dosierung, Frequenz und Dauer der Intervention bislang ungeklärt bleiben.
+
+Ein wichtiger Aspekt, den das Review explizit anspricht, ist die Ambivalenz von Familienstimmen: In belasteten oder konfliktreichen Beziehungen können vertraute Stimmen auch negative Assoziationen auslösen und damit kontraproduktiv wirken. Klare Auswahlkriterien für Sprechende, standardisierte Schulungskonzepte für Angehörige sowie ethische Leitlinien für den Umgang mit komplexen Familiensystemen sind daher für die Implementierung in die klinische Praxis unabdingbar.
+
+:::{.callout-note title="Hinweis"}
+Empathie spielt eine zentrale Rolle in der Delirversorgung. Ob und in welchem Ausmaß empathische Kommunikation in Live- versus aufgezeichneten Familienstimmen unterschiedlich wirkt, sollte in zukünftigen Studien gezielt untersucht werden.
+:::
+
+### Schlussfolgerung
+
+Familienstimmen können Delir bei kritisch kranken Erwachsenen sowohl in seiner Häufigkeit als auch in seiner Dauer signifikant reduzieren und stellen damit eine einfach umsetzbare, ressourcenschonende Ergänzung des multimodalen nicht-pharmakologischen Delirmanagements dar. Die Einbeziehung von Angehörigen fördert darüber hinaus deren psychologisches Wohlbefinden. Angesichts moderater Evidenzqualität und erheblicher Variabilität in Interventionsdesign und Dosierung sind weiterführende, methodisch robustere Studien notwendig, um optimale Umsetzungsstrategien zu definieren.
+
+### Publikation
+
+Peschel, E., Diegelmann, M., Eßl-Maurer, R., Goetze, P., Krotsetis, S., Neumann-Wagner, A., Oh, E., Schmidt-Maciejewski, B., **Schimböck**, F., Vater, V. & Nydahl, P. (2026). The effect of family voice interventions on delirium incidence and duration in adult ICU patients: A systematic review and meta-analysis. *Nursing in Critical Care*, 31, e70492. <https://doi.org/10.1111/nicc.70492>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.1111/nicc.70492"
+      data-style="large_rectangle">
+</span>
+```

@@ -79,16 +79,16 @@ Willkommen in meiner kleinen Ecke des Internets. Ich bin diplomierter Gesundheit
 [→ Zum Lebenslauf](cv.qmd){.btn .btn-outline-primary}
 
 ### Forschung
-Meine Forschungsschwerpunkte liegen an der Schnittstelle von Pflegewissenschaft und digitaler Innovation. Zentrale Themen sind dabei Delir, Demenz, (virtuelle) Simulation, E-Learning und Künstliche Intelligenz(en) in der Pflege.
+Meine Forschungsschwerpunkte liegen an der Schnittstelle von Pflegewissenschaft und digitaler Innovation. Zentrale Themen sind dabei Delir, Demenz, sprachsensible Pflegebildung, (virtuelle) Simulation, E-Learning und Künstliche Intelligenz(en) in der Pflege.
 
-[→ Zur Forschung](research.qmd){.btn .btn-outline-primary}
+[→ Zur Forschung](forschung.qmd){.btn .btn-outline-primary}
 
 ### Vorträge
 Als Referent bin ich regelmäßig auf Kongressen und Tagungen vertreten und halte auf Anfrage Vorträge, Workshops und Seminare in Gesundheitseinrichtungen. Meine Themen reichen von Delir, Demenz, simulationsbasierter Lehre, digitale Tools, KI in der Pflege bis hin zu Grundlagen der Pflegewissenschaft, evidenzbasierter Pflege und Pflegetheorien.
 
-[→ Zu Vorträgen](speaking.qmd){.btn .btn-outline-primary}
+[→ Zu Vorträgen](vorträge.qmd){.btn .btn-outline-primary}
 
 ### Ressourcen
 Ich bastle gerne an digitalen Lehr- und Lernmaterialien. Die meisten entstehen im Rahmen meiner pädagogischen Tätigkeit, darunter interaktive H5P-Inhalte, E-Learning-Module und weitere Materialien für Pflegewissenschaft und Pflegepädagogik. Viel Freude beim Sichten.
 
-[→ Zu Ressourcen](resources.qmd){.btn .btn-outline-primary}
+[→ Zu Ressourcen](ressourcen.qmd){.btn .btn-outline-primary}
