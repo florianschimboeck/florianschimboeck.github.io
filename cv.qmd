@@ -153,3 +153,29 @@ Institut für Pflegewissenschaft: <br>
 
 *Steiermärkische Krankenanstaltengesellschaft, Graz, Österreich*
 :::
+
+### {{< fa user >}} Expert*innen-Tätigkeit
+
+::: {.callout-note icon="false" collapse="false"}
+## Expertenarbeitsgruppe zum Expertenstandard Delir · Aug. 2025 - laufend
+
+- Deutsche Netzwerk für Qualitätsentwicklung in der Pflege (DNQP)
+- Projektleitung: Prof. Dr. Rebecca Palm 
+- Projekt: Expertenstandard zum Thema Delir
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Expertenbeirat zum Projekt DeliA  · Aug. 2022 - Jul. 2025
+
+- G-BA Innovationsfond
+- Projektleitung: Prof. Dr. Rebecca Palm
+- Projekt: Delir in Altenpflegeeinrichtungen (DeliA)
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Expertenbeirat zum Projekt interEdu  · Jan. 2022 - Dez. 2024
+
+- Bundesinstitut für Berufsbildung (BIBB)
+- Projektleitung: Prof. Dr. Wolfgang von Gahlen-Hoops
+- Projekt: Interprofessionelle Edukation in der beruflichen und hochschulischen Pflegeausbildung (interEdu) 
+:::

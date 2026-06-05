@@ -1,0 +1,190 @@
+---
+title: "Netzwerk"
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+---
+
+Gute Wissenschaft braucht gute Netzwerke. Seit Jahren pflege ich Kooperationen mit Institutionen in Deutschland, Finnland, Norwegen, Italien und der Schweiz — in der Forschung, in der Lehre und in der Praxis. Diese Seite gibt einen Überblick über meine wichtigsten Verbindungen und internationalen Aktivitäten.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(bslib)
+library(bsicons)
+
+layout_columns(
+  col_widths = c(3, 3, 3, 3),
+  value_box(
+    title = "Länder",
+    value = 5,
+    showcase = bs_icon("globe-europe-africa", size = "2rem"),
+    showcase_layout = "left center", 
+    theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
+    max_height = "150px"
+  ),
+  value_box(
+    title = "Institutionen",
+    value = 4,
+    showcase = bs_icon("building", size = "2rem"),
+    showcase_layout = "left center", 
+    theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
+    max_height = "150px"
+  ),
+  value_box(
+    title = "Erasmus-Aufenthalte",
+    value = 10,
+    showcase = bs_icon("airplane", size = "2rem"),
+    showcase_layout = "left center", 
+    theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
+    max_height = "150px"
+  ),
+  value_box(
+    title = "Mitgliedschaften",
+    value = 3,
+    showcase = bs_icon("people", size = "2rem"),
+    showcase_layout = "left center", 
+    theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
+    max_height = "150px"
+  )
+)
+```
+
+### {{< fa map >}} Netzwerkkarte
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(leaflet)
+
+leaflet() |>
+  addProviderTiles(providers$CartoDB.Positron) |>
+  setView(lng = 15, lat = 55, zoom = 3) |>
+  addCircleMarkers(
+    lng = 10.147, lat = 54.343,
+    color = "#546F95", fillColor = "#546F95", fillOpacity = 0.9,
+    radius = 8, stroke = TRUE, weight = 2, opacity = 1,
+    popup = "<strong>UKSH – Universitätsklinikum Schleswig-Holstein</strong><br>
+             <span style='font-size:12px;color:#666'>Delir · DIVI-Curriculum</span>"
+  ) |>
+   addCircleMarkers(
+    lng = 14.000, lat = 51.527,
+    color = "#546F95", fillColor = "#546F95", fillOpacity = 0.9,
+    radius = 8, stroke = TRUE, weight = 2, opacity = 1,
+    popup = "<strong>Sana Kliniken Niederlausitz</strong><br>
+             <span style='font-size:12px;color:#666'>Delir · DIVI-Curriculum</span>"
+   ) |>
+  addCircleMarkers(
+    lng = 9.278, lat = 47.387,
+    color = "#546F95", fillColor = "#546F95", fillOpacity = 0.9,
+    radius = 8, stroke = TRUE, weight = 2, opacity = 1,
+    popup = "<strong>Spital Herisau</strong><br>
+             <span style='font-size:12px;color:#666'>Qualitätsentwicklung · Sturz-Dashboard</span>"
+  ) |>
+  addCircleMarkers(
+    lng = 14.558, lat = 67.289,
+    color = "#2d6a4f", fillColor = "#2d6a4f", fillOpacity = 0.9,
+    radius = 8, stroke = TRUE, weight = 2, opacity = 1,
+    popup = "<strong>NORD University</strong><br>
+             <span style='font-size:12px;color:#666'>SEA-EU Seed Fund · Nurse Education Network</span>"
+  ) |>
+  addCircleMarkers(
+    lng = 14.216, lat = 40.823,
+    color = "#2d6a4f", fillColor = "#2d6a4f", fillOpacity = 0.9,
+    radius = 8, stroke = TRUE, weight = 2, opacity = 1,
+    popup = "<strong>Parthenope University</strong><br>
+             <span style='font-size:12px;color:#666'> SEA-EU Seed Fund · Nurse Education Network</span>"
+  ) |>
+  addCircleMarkers(
+    lng = 13.884, lat = 46.611,
+    color = "#2d6a4f", fillColor = "#2d6a4f", fillOpacity = 0.9,
+    radius = 8, stroke = TRUE, weight = 2, opacity = 1,
+    popup = "<strong>FH Kärnten</strong><br>
+             <span style='font-size:12px;color:#666'>Gastvorlesungen</span>"
+  ) |>
+  addCircleMarkers(
+    lng = 27.712, lat = 64.216,
+    color = "#8a4500", fillColor = "#8a4500", fillOpacity = 0.9,
+    radius = 8, stroke = TRUE, weight = 2, opacity = 1,
+    popup = "<strong>KAMK – Kajaani University of Applied Sciences</strong><br>
+             <span style='font-size:12px;color:#666'>Erasmus Teacher Exchange · Gastvorlesungen</span>"
+  ) |>
+  addCircleMarkers(
+    lng = 14.301, lat = 48.298,
+    color = "#8a4500", fillColor = "#8a4500", fillOpacity = 0.9,
+    radius = 8, stroke = TRUE, weight = 2, opacity = 1,
+    popup = "<strong>FH Gesundheitsberufe Oberösterreich</strong><br>
+             <span style='font-size:12px;color:#666'>Erasmus Teacher Exchange</span>"
+  ) |>
+  addLegend(
+    position = "bottomright",
+    colors = c("#546F95", "#2d6a4f", "#8a4500"),
+    labels = c("Forschung", "Lehre", "Erasmus"),
+    opacity = 0.9
+  )
+```
+
+### {{< fa building >}} Kooperationsinstitutionen
+
+::: {.callout-note icon=false collapse="true"}
+## 🇩🇪 · Universitätsklinikum Schleswig-Holstein (UKSH)
+
+Langjährige Zusammenarbeit im Bereich Delirforschung und klinischer Pflegepraxis. Gemeinsame Publikationen zur Delirprävalenz und zum Delirmanagement sowie Mitarbeit am DIVI-Curriculum zum Delirmanagement. Die Beteiligung am World Delirium Awareness Day 2023 erfolgte ebenfalls in enger Zusammenarbeit. Die Kooperation umfasst sowohl wissenschaftliche Publikationen als auch die direkte Übersetzung von Forschungsergebnissen in die klinische Praxis.
+:::
+
+::: {.callout-note icon=false collapse="true"}
+## 🇩🇪 · Sana Kliniken Niederlausitz
+
+Seit November 2022 besteht eine enge Zusammenarbeit mit den Sana Kliniken Niederlausitz im Bereich des klinischen Delirmanagements. Gemeinsam wurden innerbetriebliche Fortbildungen mit dem DIVI-Curriculum zum Delirmanagement durchgeführt, Praxisentwicklungsprojekte zum interprofessionellen Delirmanagement umgesetzt sowie die Beteiligung an der weltweiten Punktprävalenzstudie zum World Delirium Awareness Day 2023 koordiniert. Die Kooperation mündete in gemeinsamen Veröffentlichungen zu interprofessionellem Delirmanagement.
+:::
+
+::: {.callout-note icon=false collapse="true"}
+## 🇫🇮 · Kajaani University of Applied Sciences (KAMK)
+
+Regelmäßige Zusammenarbeit seit 2016 im Rahmen des Erasmus Teacher Exchange Programms — eine der längsten und intensivsten internationalen Kooperationen. Neben jährlichen Lehraufenthalten vor Ort werden regelmäßig Gastvorlesungen im Rahmen der *International Perspectives* für finnische Studierende zu Delir und virtuellen Simulation gehalten. Die Kooperation verbindet Lehre und Austausch und trägt zur Internationalisierung beider Hochschulen bei.
+:::
+
+::: {.callout-note icon=false collapse="true"}
+## 🇳🇴 · NORD University & 🇮🇹 · Parthenope University
+
+Laufende internationale Kooperation, entstanden aus einem SEA-EU Seed Fund Projekt. Im Rahmen des *Nurse Education Network* werden Forschung und Lehre zu pflegepädagogischen Themen vernetzt. Regelmäßige digitale Roundtables zum Austausch über aktuelle Entwicklungen in Forschung und Lehre.
+:::
+
+::: {.callout-note icon=false collapse="true"}
+## 🇨🇭 · Spital Herisau
+
+Kooperation im Bereich der Praxis- und Qualitätsentwicklung. Im Rahmen eines Qualitätsentwicklungsprojekts wurde ein Sturz-Dashboard entwickelt, das nun im Intranet des Spitals eingesetzt wird, um Mitarbeitenden die Auswertung der Sturzprotokolle interaktiv zur Verfügung zu stellen.
+:::
+
+### {{< fa plane >}} ERASMUS Kooperationen
+
+::: {.callout-note icon=false collapse="true"}
+## 🇫🇮 · Finnland · seit 2016
+**KAMK – Kajaani University of Applied Sciences · Kajaani**
+
+Bisher ca. 10 Aufenthalte im Rahmen des Erasmus Teacher Exchange Programms. Neben Lehrveranstaltungen vor Ort regelmäßige Gastvorträge für finnische Studierende zum Thema Delir im Zusammenhang mit der Veranstaltung "International Perspectives".
+:::
+
+::: {.callout-note icon=false collapse="true"}
+## 🇳🇴 · Norwegen & 🇮🇹 · Italien · seit 2025
+**NORD University · Bodø / Parthenope University · Neapel**
+
+Aufbau einer laufenden internationalen Kooperation im Rahmen des SEA-EU Seed Fund Projekts. Gründung des Nurse Education Network zur Vernetzung in Forschung und Lehre. Regelmäßige "Digital Roundtables" zu unterschiedlichen Themen aus Forschung und Lehre.
+:::
+
+::: {.callout-note icon=false collapse="true"}
+## 🇦🇹 · Österreich · seit 2022
+**FH Gesundheitsberufe OÖ · Oberösterreich**
+
+Erasmus Teacher Exchange an der FH Gesundheitsberufe Oberösterreich im Jahr 2022 mit einem Workshop zu *Journal Clubs*, um Studierenden das Lesen und Bewerten von Studien näher zu bringen.
+:::
+
+### {{< fa users >}} Mitgliedschaften
+
+- Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin e.V.
+- SimNAT Pflege e.V.
+- Delir-Netzwerk e.V.

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lebenslauf – Florian Schimböck</title>
+<title>Netzwerk – Florian Schimböck</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -72,9 +72,41 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Suchen"
   }
 }</script>
+<script src="site_libs/bslib-component-js-0.11.0/components.min.js"></script>
+
+<script src="site_libs/bslib-component-js-0.11.0/web-components.min.js" type="module"></script>
+
+<link href="site_libs/bslib-component-css-0.11.0/components.css" rel="stylesheet">
+
+<link href="site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet">
+
+<script src="site_libs/bslib-tag-require-0.11.0/tag-require.js"></script>
+
+<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+
+<link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+
+<script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
+
+<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+
+<script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
+
+<script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+
+<link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+
+<script src="site_libs/leaflet-binding-2.2.3/leaflet.js"></script>
+
+<script src="site_libs/leaflet-providers-3.0.0/leaflet-providers.js"></script>
+
+<script src="site_libs/leaflet-providers-plugin-2.2.3/leaflet-providers-plugin.js"></script>
 
 
-<meta property="og:title" content="Lebenslauf – Florian Schimböck">
+
+<meta property="og:title" content="Netzwerk – Florian Schimböck">
 <meta property="og:description" content="">
 <meta property="og:site_name" content="Florian Schimböck">
 </head>
@@ -111,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Vorträge</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./netzwerk.html"> <i class="bi bi-map" role="img">
+    <a class="nav-link active" href="./netzwerk.html" aria-current="page"> <i class="bi bi-map" role="img">
 </i> 
 <span class="menu-text">Netzwerk</span></a>
   </li>  
@@ -121,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Ressourcen</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./cv.html" aria-current="page"> <i class="bi bi-file-person" role="img">
+    <a class="nav-link" href="./cv.html"> <i class="bi bi-file-person" role="img">
 </i> 
 <span class="menu-text">Lebenslauf</span></a>
   </li>  
@@ -144,10 +176,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Inhalt</h2>
    
   <ul>
-  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-berufserfahrung" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-berufserfahrung" class="nav-link active" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-berufserfahrung"><i class="fa-solid fa-briefcase" aria-label="briefcase"></i> Berufserfahrung</a></li>
-  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206275696c64696e672d636f6c756d6e73203e7d7d-bildungsweg" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206275696c64696e672d636f6c756d6e73203e7d7d-bildungsweg" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206275696c64696e672d636f6c756d6e73203e7d7d-bildungsweg"><i class="fa-solid fa-building-columns" aria-label="building-columns"></i> Bildungsweg</a></li>
-  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206365727469666963617465203e7d7d-zertifikatskurse" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206365727469666963617465203e7d7d-zertifikatskurse" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206365727469666963617465203e7d7d-zertifikatskurse"><i class="fa-solid fa-certificate" aria-label="certificate"></i> Zertifikatskurse</a></li>
-  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612075736572203e7d7d-expertinnen-tätigkeit" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612075736572203e7d7d-expertinnen-tätigkeit" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612075736572203e7d7d-expertinnen-tätigkeit"><i class="fa-solid fa-user" aria-label="user"></i> Expert*innen-Tätigkeit</a></li>
+  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6170203e7d7d-netzwerkkarte" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6170203e7d7d-netzwerkkarte" class="nav-link active" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6170203e7d7d-netzwerkkarte"><i class="fa-solid fa-map" aria-label="map"></i> Netzwerkkarte</a></li>
+  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206275696c64696e67203e7d7d-kooperationsinstitutionen" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206275696c64696e67203e7d7d-kooperationsinstitutionen" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206275696c64696e67203e7d7d-kooperationsinstitutionen"><i class="fa-solid fa-building" aria-label="building"></i> Kooperationsinstitutionen</a></li>
+  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706c616e65203e7d7d-erasmus-kooperationen" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706c616e65203e7d7d-erasmus-kooperationen" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706c616e65203e7d7d-erasmus-kooperationen"><i class="fa-solid fa-plane" aria-label="plane"></i> ERASMUS Kooperationen</a></li>
+  <li><a href="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661207573657273203e7d7d-mitgliedschaften" id="toc-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661207573657273203e7d7d-mitgliedschaften" class="nav-link" data-scroll-target="#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661207573657273203e7d7d-mitgliedschaften"><i class="fa-solid fa-users" aria-label="users"></i> Mitgliedschaften</a></li>
   </ul>
 </nav>
     </div>
@@ -177,7 +209,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lebenslauf</h1>
+<h1 class="title">Netzwerk</h1>
 </div>
 
 
@@ -194,38 +226,110 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Mein Weg führte mich von der klinischen Pflege in die Pflegewissenschaft und Pflegepädagogik. Jetzt arbeite ich vorrangig im hochschulischen Kontext und vereine Forschung, Lehre und Praxis — ich bringe die Perspektive der Praxis in die Wissenschaft und die Erkenntnisse der Wissenschaft in die Praxis.</p>
-<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-berufserfahrung" class="level3">
-<h3 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120627269656663617365203e7d7d-berufserfahrung"><i class="fa-solid fa-briefcase" aria-label="briefcase"></i> Berufserfahrung</h3>
+<p>Gute Wissenschaft braucht gute Netzwerke. Seit Jahren pflege ich Kooperationen mit Institutionen in Deutschland, Finnland, Norwegen, Italien und der Schweiz — in der Forschung, in der Lehre und in der Praxis. Diese Seite gibt einen Überblick über meine wichtigsten Verbindungen und internationalen Aktivitäten.</p>
+<div class="cell">
+<div class="cell-output-display">
+<bslib-layout-columns class="bslib-grid grid bslib-mb-spacing html-fill-item" col-widths-sm="3,3,3,3" data-require-bs-caller="layout_columns()" data-require-bs-version="5">
+<div class="bslib-grid-item bslib-gap-spacing html-fill-container">
+<div class="card bslib-card bslib-mb-spacing html-fill-item html-fill-container bslib-value-box showcase-left-center" data-bslib-card-init="" data-require-bs-caller="card() value_box()" data-require-bs-version="5 5" style="max-height:150px; color:text-primary;background-color:#F8F9FA;--bslib-color-fg:text-primary;--bslib-color-bg:#F8F9FA;">
+<div class="card-body bslib-gap-spacing html-fill-item html-fill-container" style="margin-top:auto;margin-bottom:auto;flex:1 1 auto; padding:0;">
+<div class="value-box-grid html-fill-item" style="--bslib-grid-height:auto;--bslib-grid-height-mobile:auto;---bslib-value-box-showcase-w:30%;---bslib-value-box-showcase-w-fs:1fr;---bslib-value-box-showcase-max-h:100px;---bslib-value-box-showcase-max-h-fs:67%;">
+<div class="value-box-showcase html-fill-item html-fill-container"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" class="bi bi-globe-europe-africa " style="height:2rem;width:2rem;fill:currentColor;vertical-align:-0.125em;" aria-hidden="true" role="img"><path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0ZM3.668 2.501l-.288.646a.847.847 0 0 0 1.479.815l.245-.368a.809.809 0 0 1 1.034-.275.809.809 0 0 0 .724 0l.261-.13a1 1 0 0 1 .775-.05l.984.34c.078.028.16.044.243.054.784.093.855.377.694.801-.155.41-.616.617-1.035.487l-.01-.003C8.274 4.663 7.748 4.5 6 4.5 4.8 4.5 3.5 5.62 3.5 7c0 1.96.826 2.166 1.696 2.382.46.115.935.233 1.304.618.449.467.393 1.181.339 1.877C6.755 12.96 6.674 14 8.5 14c1.75 0 3-3.5 3-4.5 0-.262.208-.468.444-.7.396-.392.87-.86.556-1.8-.097-.291-.396-.568-.641-.756-.174-.133-.207-.396-.052-.551a.333.333 0 0 1 .42-.042l1.085.724c.11.072.255.058.348-.035.15-.15.415-.083.489.117.16.43.445 1.05.849 1.357L15 8A7 7 0 1 1 3.668 2.501Z"></path></svg></div>
+<div class="value-box-area html-fill-item html-fill-container">
+<p class="value-box-title">Länder</p>
+<p class="value-box-value">5</p>
+</div>
+</div>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script>
+</div>
+</div>
+<div class="bslib-grid-item bslib-gap-spacing html-fill-container">
+<div class="card bslib-card bslib-mb-spacing html-fill-item html-fill-container bslib-value-box showcase-left-center" data-bslib-card-init="" data-require-bs-caller="card() value_box()" data-require-bs-version="5 5" style="max-height:150px; color:text-primary;background-color:#F8F9FA;--bslib-color-fg:text-primary;--bslib-color-bg:#F8F9FA;">
+<div class="card-body bslib-gap-spacing html-fill-item html-fill-container" style="margin-top:auto;margin-bottom:auto;flex:1 1 auto; padding:0;">
+<div class="value-box-grid html-fill-item" style="--bslib-grid-height:auto;--bslib-grid-height-mobile:auto;---bslib-value-box-showcase-w:30%;---bslib-value-box-showcase-w-fs:1fr;---bslib-value-box-showcase-max-h:100px;---bslib-value-box-showcase-max-h-fs:67%;">
+<div class="value-box-showcase html-fill-item html-fill-container"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" class="bi bi-building " style="height:2rem;width:2rem;fill:currentColor;vertical-align:-0.125em;" aria-hidden="true" role="img"><path d="M4 2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1Zm3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z"></path>
+<path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V1Zm11 0H3v14h3v-2.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5V15h3V1Z"></path></svg></div>
+<div class="value-box-area html-fill-item html-fill-container">
+<p class="value-box-title">Institutionen</p>
+<p class="value-box-value">4</p>
+</div>
+</div>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script>
+</div>
+</div>
+<div class="bslib-grid-item bslib-gap-spacing html-fill-container">
+<div class="card bslib-card bslib-mb-spacing html-fill-item html-fill-container bslib-value-box showcase-left-center" data-bslib-card-init="" data-require-bs-caller="card() value_box()" data-require-bs-version="5 5" style="max-height:150px; color:text-primary;background-color:#F8F9FA;--bslib-color-fg:text-primary;--bslib-color-bg:#F8F9FA;">
+<div class="card-body bslib-gap-spacing html-fill-item html-fill-container" style="margin-top:auto;margin-bottom:auto;flex:1 1 auto; padding:0;">
+<div class="value-box-grid html-fill-item" style="--bslib-grid-height:auto;--bslib-grid-height-mobile:auto;---bslib-value-box-showcase-w:30%;---bslib-value-box-showcase-w-fs:1fr;---bslib-value-box-showcase-max-h:100px;---bslib-value-box-showcase-max-h-fs:67%;">
+<div class="value-box-showcase html-fill-item html-fill-container"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" class="bi bi-airplane " style="height:2rem;width:2rem;fill:currentColor;vertical-align:-0.125em;" aria-hidden="true" role="img"><path d="M6.428 1.151C6.708.591 7.213 0 8 0s1.292.592 1.572 1.151C9.861 1.73 10 2.431 10 3v3.691l5.17 2.585a1.5 1.5 0 0 1 .83 1.342V12a.5.5 0 0 1-.582.493l-5.507-.918-.375 2.253 1.318 1.318A.5.5 0 0 1 10.5 16h-5a.5.5 0 0 1-.354-.854l1.319-1.318-.376-2.253-5.507.918A.5.5 0 0 1 0 12v-1.382a1.5 1.5 0 0 1 .83-1.342L6 6.691V3c0-.568.14-1.271.428-1.849Zm.894.448C7.111 2.02 7 2.569 7 3v4a.5.5 0 0 1-.276.447l-5.448 2.724a.5.5 0 0 0-.276.447v.792l5.418-.903a.5.5 0 0 1 .575.41l.5 3a.5.5 0 0 1-.14.437L6.708 15h2.586l-.647-.646a.5.5 0 0 1-.14-.436l.5-3a.5.5 0 0 1 .576-.411L15 11.41v-.792a.5.5 0 0 0-.276-.447L9.276 7.447A.5.5 0 0 1 9 7V3c0-.432-.11-.979-.322-1.401C8.458 1.159 8.213 1 8 1c-.213 0-.458.158-.678.599Z"></path></svg></div>
+<div class="value-box-area html-fill-item html-fill-container">
+<p class="value-box-title">Erasmus-Aufenthalte</p>
+<p class="value-box-value">10</p>
+</div>
+</div>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script>
+</div>
+</div>
+<div class="bslib-grid-item bslib-gap-spacing html-fill-container">
+<div class="card bslib-card bslib-mb-spacing html-fill-item html-fill-container bslib-value-box showcase-left-center" data-bslib-card-init="" data-require-bs-caller="card() value_box()" data-require-bs-version="5 5" style="max-height:150px; color:text-primary;background-color:#F8F9FA;--bslib-color-fg:text-primary;--bslib-color-bg:#F8F9FA;">
+<div class="card-body bslib-gap-spacing html-fill-item html-fill-container" style="margin-top:auto;margin-bottom:auto;flex:1 1 auto; padding:0;">
+<div class="value-box-grid html-fill-item" style="--bslib-grid-height:auto;--bslib-grid-height-mobile:auto;---bslib-value-box-showcase-w:30%;---bslib-value-box-showcase-w-fs:1fr;---bslib-value-box-showcase-max-h:100px;---bslib-value-box-showcase-max-h-fs:67%;">
+<div class="value-box-showcase html-fill-item html-fill-container"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" class="bi bi-people " style="height:2rem;width:2rem;fill:currentColor;vertical-align:-0.125em;" aria-hidden="true" role="img"><path d="M15 14s1 0 1-1-1-4-5-4-5 3-5 4 1 1 1 1h8Zm-7.978-1A.261.261 0 0 1 7 12.996c.001-.264.167-1.03.76-1.72C8.312 10.629 9.282 10 11 10c1.717 0 2.687.63 3.24 1.276.593.69.758 1.457.76 1.72l-.008.002a.274.274 0 0 1-.014.002H7.022ZM11 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4Zm3-2a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM6.936 9.28a5.88 5.88 0 0 0-1.23-.247A7.35 7.35 0 0 0 5 9c-4 0-5 3-5 4 0 .667.333 1 1 1h4.216A2.238 2.238 0 0 1 5 13c0-1.01.377-2.042 1.09-2.904.243-.294.526-.569.846-.816ZM4.92 10A5.493 5.493 0 0 0 4 13H1c0-.26.164-1.03.76-1.724.545-.636 1.492-1.256 3.16-1.275ZM1.5 5.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0Zm3-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z"></path></svg></div>
+<div class="value-box-area html-fill-item html-fill-container">
+<p class="value-box-title">Mitgliedschaften</p>
+<p class="value-box-value">3</p>
+</div>
+</div>
+</div>
+<script data-bslib-card-init="">bslib.Card.initializeAllCards();</script>
+</div>
+</div>
+</bslib-layout-columns>
+</div>
+</div>
+<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6170203e7d7d-netzwerkkarte" class="level3">
+<h3 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6170203e7d7d-netzwerkkarte"><i class="fa-solid fa-map" aria-label="map"></i> Netzwerkkarte</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-1629c657fca9a881c80d" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-1629c657fca9a881c80d">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addProviderTiles","args":["CartoDB.Positron",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]},{"method":"addCircleMarkers","args":[54.343,10.147,8,null,null,{"interactive":true,"className":"","stroke":true,"color":"#546F95","weight":2,"opacity":1,"fill":true,"fillColor":"#546F95","fillOpacity":0.9},null,null,"<strong>UKSH – Universitätsklinikum Schleswig-Holstein<\/strong><br>\n             <span style='font-size:12px;color:#666'>Delir · DIVI-Curriculum<\/span>",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addCircleMarkers","args":[51.527,14,8,null,null,{"interactive":true,"className":"","stroke":true,"color":"#546F95","weight":2,"opacity":1,"fill":true,"fillColor":"#546F95","fillOpacity":0.9},null,null,"<strong>Sana Kliniken Niederlausitz<\/strong><br>\n             <span style='font-size:12px;color:#666'>Delir · DIVI-Curriculum<\/span>",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addCircleMarkers","args":[47.387,9.278,8,null,null,{"interactive":true,"className":"","stroke":true,"color":"#546F95","weight":2,"opacity":1,"fill":true,"fillColor":"#546F95","fillOpacity":0.9},null,null,"<strong>Spital Herisau<\/strong><br>\n             <span style='font-size:12px;color:#666'>Qualitätsentwicklung · Sturz-Dashboard<\/span>",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addCircleMarkers","args":[67.289,14.558,8,null,null,{"interactive":true,"className":"","stroke":true,"color":"#2d6a4f","weight":2,"opacity":1,"fill":true,"fillColor":"#2d6a4f","fillOpacity":0.9},null,null,"<strong>NORD University<\/strong><br>\n             <span style='font-size:12px;color:#666'>SEA-EU Seed Fund · Nurse Education Network<\/span>",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addCircleMarkers","args":[40.823,14.216,8,null,null,{"interactive":true,"className":"","stroke":true,"color":"#2d6a4f","weight":2,"opacity":1,"fill":true,"fillColor":"#2d6a4f","fillOpacity":0.9},null,null,"<strong>Parthenope University<\/strong><br>\n             <span style='font-size:12px;color:#666'> SEA-EU Seed Fund · Nurse Education Network<\/span>",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addCircleMarkers","args":[46.611,13.884,8,null,null,{"interactive":true,"className":"","stroke":true,"color":"#2d6a4f","weight":2,"opacity":1,"fill":true,"fillColor":"#2d6a4f","fillOpacity":0.9},null,null,"<strong>FH Kärnten<\/strong><br>\n             <span style='font-size:12px;color:#666'>Gastvorlesungen<\/span>",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addCircleMarkers","args":[64.21599999999999,27.712,8,null,null,{"interactive":true,"className":"","stroke":true,"color":"#8a4500","weight":2,"opacity":1,"fill":true,"fillColor":"#8a4500","fillOpacity":0.9},null,null,"<strong>KAMK – Kajaani University of Applied Sciences<\/strong><br>\n             <span style='font-size:12px;color:#666'>Erasmus Teacher Exchange · Gastvorlesungen<\/span>",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addCircleMarkers","args":[48.298,14.301,8,null,null,{"interactive":true,"className":"","stroke":true,"color":"#8a4500","weight":2,"opacity":1,"fill":true,"fillColor":"#8a4500","fillOpacity":0.9},null,null,"<strong>FH Gesundheitsberufe Oberösterreich<\/strong><br>\n             <span style='font-size:12px;color:#666'>Erasmus Teacher Exchange<\/span>",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addLegend","args":[{"colors":["#546F95","#2d6a4f","#8a4500"],"labels":["Forschung","Lehre","Erasmus"],"na_color":null,"na_label":"NA","opacity":0.9,"position":"bottomright","type":"unknown","title":null,"extra":null,"layerId":null,"className":"info legend","group":null}]}],"setView":[[55,15],3,[]],"limits":{"lat":[40.823,67.289],"lng":[9.278,27.712]}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
+<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206275696c64696e67203e7d7d-kooperationsinstitutionen" class="level3">
+<h3 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206275696c64696e67203e7d7d-kooperationsinstitutionen"><i class="fa-solid fa-building" aria-label="building"></i> Kooperationsinstitutionen</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Wissenschaftlicher Mitarbeiter · Apr.&nbsp;2023 – heute
+<span class="screen-reader-only">Hinweis</span>🇩🇪 · Universitätsklinikum Schleswig-Holstein (UKSH)
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse show">
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><em>Christian-Albrechts-Universität, Kiel, Deutschland</em> <br><br> Institut für Allgemeinmedizin: <br> - Arbeitsgruppe Didaktik der Pflege und Gesundheitsberufe <br> - Projekt: Sprachsensible Pflegebildung (SCENE) <br> - Projekt: Interaktive Simulation für Berufe des Gesundheitswesens (INSIDE) <br> - Projekt: Nurse Education Network - Aufgaben: Forschung, Projektkoordination <br></p>
+<p>Langjährige Zusammenarbeit im Bereich Delirforschung und klinischer Pflegepraxis. Gemeinsame Publikationen zur Delirprävalenz und zum Delirmanagement sowie Mitarbeit am DIVI-Curriculum zum Delirmanagement. Die Beteiligung am World Delirium Awareness Day 2023 erfolgte ebenfalls in enger Zusammenarbeit. Die Kooperation umfasst sowohl wissenschaftliche Publikationen als auch die direkte Übersetzung von Forschungsergebnissen in die klinische Praxis.</p>
 </div>
 </div>
 </div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Freiberufliche Tätigkeit · Jän. 2023 – heute
+<span class="screen-reader-only">Hinweis</span>🇩🇪 · Sana Kliniken Niederlausitz
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse show">
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><em>als Pflegewissenschaftler und Pflegepädagoge, Cottbus, Deutschland</em> <br><br> Autoren- und Vortragstätigkeiten: <br> - Delir und Demenz <br> - E-Learning-Tools und Künstliche Intelligenz <br> - Simulationsbasierte Lehre <br></p>
+<p>Seit November 2022 besteht eine enge Zusammenarbeit mit den Sana Kliniken Niederlausitz im Bereich des klinischen Delirmanagements. Gemeinsam wurden innerbetriebliche Fortbildungen mit dem DIVI-Curriculum zum Delirmanagement durchgeführt, Praxisentwicklungsprojekte zum interprofessionellen Delirmanagement umgesetzt sowie die Beteiligung an der weltweiten Punktprävalenzstudie zum World Delirium Awareness Day 2023 koordiniert. Die Kooperation mündete in gemeinsamen Veröffentlichungen zu interprofessionellem Delirmanagement.</p>
 </div>
 </div>
 </div>
@@ -235,13 +339,13 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Akademischer Mitarbeiter · Mär. 2015 – Mär. 2023
+<span class="screen-reader-only">Hinweis</span>🇫🇮 · Kajaani University of Applied Sciences (KAMK)
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><em>Brandenburgische Technische Universität, Cottbus-Senftenberg, Deutschland</em> <br><br> Institut für Gesundheit: <br> - Fachgebiet Pflegewissenschaft und klinische Pflege <br> - Senior Lecturer für Pflegewissenschaft und klinische Pflege <br> - Lehrumfang von 18 Semesterwochenstunden (SWS) <br> - Aufgaben: Lehre, Studienfachberatung <br></p>
+<p>Regelmäßige Zusammenarbeit seit 2016 im Rahmen des Erasmus Teacher Exchange Programms — eine der längsten und intensivsten internationalen Kooperationen. Neben jährlichen Lehraufenthalten vor Ort werden regelmäßig Gastvorlesungen im Rahmen der <em>International Perspectives</em> für finnische Studierende zu Delir und virtuellen Simulation gehalten. Die Kooperation verbindet Lehre und Austausch und trägt zur Internationalisierung beider Hochschulen bei.</p>
 </div>
 </div>
 </div>
@@ -251,13 +355,13 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Studiengangsleitung · Mär. 2019 – Sep.&nbsp;2021
+<span class="screen-reader-only">Hinweis</span>🇳🇴 · NORD University &amp; 🇮🇹 · Parthenope University
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><em>Brandenburgische Technische Universität, Cottbus-Senftenberg, Deutschland</em> <br><br> Institut für Gesundheit: <br> - Bachelorstudiengang Pflegewissenschaft <br> - Führen der Mitarbeitenden und Lehrpersonen <br> - Jahres- und Semesterplanung <br> - Finanzplanung und Budgetkontrolle <br> - Curriculumentwicklung zur hochschulischen Pflegeausbildung <br> - Verfassen einer neuen Studien- und Prüfungsordnung <br> - Vorbereitung und Begleitung aller Gremienwege <br></p>
+<p>Laufende internationale Kooperation, entstanden aus einem SEA-EU Seed Fund Projekt. Im Rahmen des <em>Nurse Education Network</em> werden Forschung und Lehre zu pflegepädagogischen Themen vernetzt. Regelmäßige digitale Roundtables zum Austausch über aktuelle Entwicklungen in Forschung und Lehre.</p>
 </div>
 </div>
 </div>
@@ -267,48 +371,50 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Lehrer für Gesundheits- und Krankenpflege · Sep.&nbsp;2014 – Feb.&nbsp;2015
+<span class="screen-reader-only">Hinweis</span>🇨🇭 · Spital Herisau
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-5" class="callout-5-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><em>Schule für Gesundheits- und Krankenpflege, Graz, Österreich</em> <br><br> Allgemeine Gesundheits- und Krankenpflege: <br> - Lehrfächer: Gesundheits- und Krankenpflege, Chirurgische Pflege, Erste Hilfe, Pflegewissenschaft, Pflegetheorien <br> - Aufgaben: Lehre, Praxisbegleitung <br></p>
+<p>Kooperation im Bereich der Praxis- und Qualitätsentwicklung. Im Rahmen eines Qualitätsentwicklungsprojekts wurde ein Sturz-Dashboard entwickelt, das nun im Intranet des Spitals eingesetzt wird, um Mitarbeitenden die Auswertung der Sturzprotokolle interaktiv zur Verfügung zu stellen.</p>
 </div>
 </div>
 </div>
+</section>
+<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706c616e65203e7d7d-erasmus-kooperationen" class="level3">
+<h3 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706c616e65203e7d7d-erasmus-kooperationen"><i class="fa-solid fa-plane" aria-label="plane"></i> ERASMUS Kooperationen</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Diplomierter Gesundheits- und Krankenpfleger · Aug.&nbsp;2010 – Aug.&nbsp;2014
+<span class="screen-reader-only">Hinweis</span>🇫🇮 · Finnland · seit 2016
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-6" class="callout-6-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><em>Steiermärkische Krankenanstaltengesellschaft, Graz, Österreich</em> <br><br> Landeskrankenhaus Graz West: <br> - Fachbereiche: Innere Medizin, Kardiologie <br> - Aufgaben: Gesundheits- und Krankenpflege, Praxisanleitung <br></p>
+<p><strong>KAMK – Kajaani University of Applied Sciences · Kajaani</strong></p>
+<p>Bisher ca. 10 Aufenthalte im Rahmen des Erasmus Teacher Exchange Programms. Neben Lehrveranstaltungen vor Ort regelmäßige Gastvorträge für finnische Studierende zum Thema Delir im Zusammenhang mit der Veranstaltung “International Perspectives”.</p>
 </div>
 </div>
 </div>
-</section>
-<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206275696c64696e672d636f6c756d6e73203e7d7d-bildungsweg" class="level3">
-<h3 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206275696c64696e672d636f6c756d6e73203e7d7d-bildungsweg"><i class="fa-solid fa-building-columns" aria-label="building-columns"></i> Bildungsweg</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Promotion · Apr.&nbsp;2023 – laufend
+<span class="screen-reader-only">Hinweis</span>🇳🇴 · Norwegen &amp; 🇮🇹 · Italien · seit 2025
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-7" class="callout-7-contents callout-collapse collapse show">
+<div id="callout-7" class="callout-7-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><em>Christian-Albrechts-Universität, Kiel, Deutschland</em> <br><br> Institut für Allgemeinmedizin: <br> - Akademischer Grad: Doctor rerum medicarum (Dr.&nbsp;rer. medic.) <br> - Erstbetreuung: Prof.&nbsp;Dr.&nbsp;Wolfgang von Gahlen-Hoops <br> - Zweitbetreuung: PD Dr.&nbsp;Peter Nydahl <br> - Thema: Interprofessionelles Delirmanagement <br> - Bewertung der Promotion: noch nicht abgeschlossen <br></p>
+<p><strong>NORD University · Bodø / Parthenope University · Neapel</strong></p>
+<p>Aufbau einer laufenden internationalen Kooperation im Rahmen des SEA-EU Seed Fund Projekts. Gründung des Nurse Education Network zur Vernetzung in Forschung und Lehre. Regelmäßige “Digital Roundtables” zu unterschiedlichen Themen aus Forschung und Lehre.</p>
 </div>
 </div>
 </div>
@@ -318,210 +424,25 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Master Gesundheits- und Pflegewissenschaft · Okt. 2012 – Jun.&nbsp;2015
+<span class="screen-reader-only">Hinweis</span>🇦🇹 · Österreich · seit 2022
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-8" class="callout-8-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><em>Medizinische Universität Graz, Graz, Österreich</em> <br><br> Institut für Pflegewissenschaft: <br> - Akademischer Grad: Master of Science (M.Sc.) <br></p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Master Berufspädagogik für Gesundheitsberufe · Sep.&nbsp;2010 – Jul.&nbsp;2012
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-9" class="callout-9-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><em>Fachhochschule Kärntnen, Feldkirchen, Österreich</em> <br><br> Fakultät Gesundheit und Soziales: <br> - Akademischer Grad: Master of Education (M.Ed.) <br> - Berufsbezeichnung: Lehrer für Gesundheits- und Krankenpflege</p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-10-contents" aria-controls="callout-10" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Diplom für Gesundheits- und Krankenpflege · Sep.&nbsp;2008 – Jun.&nbsp;2010
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-10" class="callout-10-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><em>Schule für Gesundheits- und Krankenpflege, Graz, Österreich</em> <br><br> Allgemeine Gesundheits- und Krankenpflege: <br> - Diplom: Abschluss mit Auszeichnung <br> - Berufsbezeichnung: Diplomierter Gesundheits- und Krankenpfleger</p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-11-contents" aria-controls="callout-11" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Bachelor Gesundheits- und Pflegewissenschaft · Mär. 2006 – Aug.&nbsp;2009
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-11" class="callout-11-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><em>Medizinische Universität Graz, Graz, Österreich</em> <br><br> Institut für Pflegewissenschaft: <br> - Akademischer Grad: Bachelor of Science (B.Sc.) <br></p>
+<p><strong>FH Gesundheitsberufe OÖ · Oberösterreich</strong></p>
+<p>Erasmus Teacher Exchange an der FH Gesundheitsberufe Oberösterreich im Jahr 2022 mit einem Workshop zu <em>Journal Clubs</em>, um Studierenden das Lesen und Bewerten von Studien näher zu bringen.</p>
 </div>
 </div>
 </div>
 </section>
-<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206365727469666963617465203e7d7d-zertifikatskurse" class="level3">
-<h3 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206365727469666963617465203e7d7d-zertifikatskurse"><i class="fa-solid fa-certificate" aria-label="certificate"></i> Zertifikatskurse</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-12-contents" aria-controls="callout-12" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Grundlagen der Statistik mit R · Dez. 2025
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-12" class="callout-12-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><em>Grundkurs zu R und RStudio, Köln, Deutschland</em></p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-13-contents" aria-controls="callout-13" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>CRM-Simulationsinstruktor · Dez. 2020
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-13" class="callout-13-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><em>Instructor und Facilitation Trainingskurs (InFacT), Reutlingen, Deutschland</em></p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-14-contents" aria-controls="callout-14" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>IVA-Teamer · Apr.&nbsp;2019
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-14" class="callout-14-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><em>Aufbaukurs Integrative Validation nach Richard, Tübingen, Deutschland</em></p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-15-contents" aria-controls="callout-15" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>IVA-Praktiker · Sep.&nbsp;2017
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-15" class="callout-15-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><em>Grundkurs Integrative Validation nach Richard, Berlin, Deutschland</em></p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-16-contents" aria-controls="callout-16" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Praxisanleitung · Dez. 2013
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-16" class="callout-16-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><em>Steiermärkische Krankenanstaltengesellschaft, Graz, Österreich</em></p>
-</div>
-</div>
-</div>
-</section>
-<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612075736572203e7d7d-expertinnen-tätigkeit" class="level3">
-<h3 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612075736572203e7d7d-expertinnen-tätigkeit"><i class="fa-solid fa-user" aria-label="user"></i> Expert*innen-Tätigkeit</h3>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-17-contents" aria-controls="callout-17" aria-expanded="true" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Expertenarbeitsgruppe zum Expertenstandard Delir · Aug.&nbsp;2025 - laufend
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-17" class="callout-17-contents callout-collapse collapse show">
-<div class="callout-body-container callout-body">
+<section id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661207573657273203e7d7d-mitgliedschaften" class="level3">
+<h3 class="anchored" data-anchor-id="b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661207573657273203e7d7d-mitgliedschaften"><i class="fa-solid fa-users" aria-label="users"></i> Mitgliedschaften</h3>
 <ul>
-<li>Deutsche Netzwerk für Qualitätsentwicklung in der Pflege (DNQP)</li>
-<li>Projektleitung: Prof.&nbsp;Dr.&nbsp;Rebecca Palm</li>
-<li>Projekt: Expertenstandard zum Thema Delir</li>
+<li>Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin e.V.</li>
+<li>SimNAT Pflege e.V.</li>
+<li>Delir-Netzwerk e.V.</li>
 </ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-18-contents" aria-controls="callout-18" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Expertenbeirat zum Projekt DeliA · Aug.&nbsp;2022 - Jul.&nbsp;2025
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-18" class="callout-18-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<ul>
-<li>G-BA Innovationsfond</li>
-<li>Projektleitung: Prof.&nbsp;Dr.&nbsp;Rebecca Palm</li>
-<li>Projekt: Delir in Altenpflegeeinrichtungen (DeliA)</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-19-contents" aria-controls="callout-19" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Hinweis</span>Expertenbeirat zum Projekt interEdu · Jan.&nbsp;2022 - Dez. 2024
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-19" class="callout-19-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<ul>
-<li>Bundesinstitut für Berufsbildung (BIBB)</li>
-<li>Projektleitung: Prof.&nbsp;Dr.&nbsp;Wolfgang von Gahlen-Hoops</li>
-<li>Projekt: Interprofessionelle Edukation in der beruflichen und hochschulischen Pflegeausbildung (interEdu)</li>
-</ul>
-</div>
-</div>
-</div>
 
 
 </section>

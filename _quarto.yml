@@ -22,6 +22,8 @@ website:
         icon: journal-text
       - href: vorträge.qmd
         icon: file-earmark-easel
+      - href: netzwerk.qmd
+        icon: map
       - href: ressourcen.qmd
         icon: file-zip
       - href: cv.qmd

@@ -88,6 +88,11 @@ Als Referent bin ich regelmäßig auf Kongressen und Tagungen vertreten und halt
 
 [→ Zu Vorträgen](vorträge.qmd){.btn .btn-outline-primary}
 
+### Netzwerk
+Gute Wissenschaft entsteht im Miteinander. Ich pflege seit Jahren Kooperationen mit Institutionen in Deutschland, Finnland, Norwegen, Italien und der Schweiz — in der Forschung, in der Lehre und in der Praxis.
+
+[→ Zu Netzwerk](netzwerk.qmd){.btn .btn-outline-primary}
+
 ### Ressourcen
 Ich bastle gerne an digitalen Lehr- und Lernmaterialien. Die meisten entstehen im Rahmen meiner pädagogischen Tätigkeit, darunter interaktive H5P-Inhalte, E-Learning-Module und weitere Materialien für Pflegewissenschaft und Pflegepädagogik. Viel Freude beim Sichten.
 
