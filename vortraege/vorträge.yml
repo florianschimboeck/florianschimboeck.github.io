@@ -1,3 +1,11 @@
+- title: "International Perspectives: Delirium Management"
+  date: 2026-11-27
+  description: "
+  <i class='bi bi-megaphone'></i> Kajaani University of Applied Sciences &emsp;·&emsp; 
+  <i class='bi bi-calendar-event'></i> 7. Oktober 2026 &emsp;·&emsp;
+  <i class='bi bi-geo-alt'></i> Online via MS Teams"
+  categories: [Kommend, Webinar, Delir]
+
 - title: "DIVI-Kurs zum Delirmanagement"
   date: 2026-11-19
   description: "
@@ -14,13 +22,21 @@
   <i class='bi bi-geo-alt'></i> Pörtschach am Wörthersee, Österreich"
   categories: [Kommend, Workshop, KI]
 
+- title: "Delirium in Focus: Using Virtual Reality to Transform Healthcare Education"
+  date: 2026-10-07
+  description: "
+  <i class='bi bi-megaphone'></i> Kajaani University of Applied Sciences & Edinburgh College &emsp;·&emsp; 
+  <i class='bi bi-calendar-event'></i> 7. Oktober 2026 &emsp;·&emsp;
+  <i class='bi bi-geo-alt'></i> Online via MS Teams"
+  categories: [Kommend, Webinar, Delir, Virtual Reality]
+
 - title: "KI in der Pflege"
   date: 2026-06-17
   description: "
-  <i class='bi bi-megaphone'></i> Campus der Sozialversicherungsträger &emsp;·&emsp; 
-  <i class='bi bi-calendar-event'></i> 17. Juni 2026 &emsp;·&emsp;
+  <i class='bi bi-megaphone'></i> Campus der Sozialversicherungsträger <br> 
+  <i class='bi bi-calendar-event'></i> 17. Juni 2026 <br> 
   <i class='bi bi-camera-video'></i> Online via Webex"
-  categories: [Kommend, Webinar, KI]
+  categories: [Vergangen, Webinar, KI]
   
 - title: "KI in der Pflege: Chancen, Grenzen und Anwendungsszenarien"
   date: 2026-05-22

@@ -1,0 +1,71 @@
+---
+title: "Risikofaktoren und Prävention des Delirs – Wissen schützt"
+date: 2026-03-01
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2026-risikofaktoren-delir.png"
+description: "Ein praxisorientierter Überblicksbeitrag zu prädisponierenden und präzipitierenden Risikofaktoren des Delirs sowie zu evidenzbasierten Präventionsmaßnahmen in allen Versorgungssettings – von der Akutklinik über Pflegeeinrichtungen bis zur ambulanten Versorgung."
+categories: [2026, Übersichtsbeitrag, Delir]
+---
+
+### Hintergrund
+
+Etwa ein Drittel bis die Hälfte aller Delir-Episoden können vermieden werden – wenn Risiken frühzeitig erkannt und präventive Maßnahmen konsequent umgesetzt werden. Delir ist ein akut auftretendes, fluktuierendes und meist reversibles neuropsychiatrisches Syndrom, das durch eine kombinierte Störung der Aufmerksamkeit und anderer kognitiver Funktionen gekennzeichnet ist. Die Prävalenz variiert je nach Versorgungssetting: Sie liegt bei etwa 20 % der Intensivpatient:innen, bei 7 % der Patient:innen im Akutkrankenhaus sowie bei ca. 6 % der in der Langzeitpflege versorgten Menschen.
+
+> „Wissen schützt – Bewusstsein, fundiertes Wissen und interprofessionelles Handeln sind die entscheidenden Voraussetzungen, um Betroffene vor Delir zu schützen und die Rehabilitation nachhaltig zu fördern."
+
+Trotz dieser Häufigkeit bleibt ein Delir in der Praxis häufig unerkannt. Gründe hierfür sind mangelndes Bewusstsein, unzureichendes Wissen, fehlende Schulungsmaßnahmen, der zu seltene Einsatz validierter Screening-Instrumente sowie das Fehlen standardisierter Delir-Protokolle.
+
+### Risikofaktoren
+
+**Prädisponierende Risikofaktoren**
+
+Prädisponierende Faktoren sind bereits bestehende Merkmale, die die kognitive und physiologische Reserve eines Menschen einschränken und ihn vulnerabler für ein Delir machen. Zu den wichtigsten zählen: fortgeschrittenes oder sehr junges Alter, Demenz, Depression, ZNS-Erkrankungen, schlechter Ernährungszustand, Gebrechlichkeit, sensorische Defizite (Seh- oder Hörverlust), Polypharmazie sowie die Einnahme delirogener Substanzen wie Opioide, Benzodiazepine oder Anticholinergika. Chronische Begleiterkrankungen wie Herz-, Nieren- oder Leberinsuffizienz und Stoffwechselstörungen erhöhen die Vulnerabilität zusätzlich.
+
+:::{.callout-warning title="Wichtig"}
+Bei Menschen mit kognitiven Vorbeeinträchtigungen können selbst geringfügige Veränderungen – wie unkontrollierte Schmerzen, Verstopfung, eine Infektion oder eine ungeeignete Medikation – ausreichen, um ein Delir auszulösen.
+:::
+
+**Präzipitierende Risikofaktoren**
+
+Präzipitierende Faktoren sind akute Auslöser oder Trigger: Schlaganfall, Herzinfarkt, Traumata, größere chirurgische Eingriffe, Sepsis, Elektrolyt- und Stoffwechselstörungen, Dehydratation, Sedativa- und Opioidgabe, Harnverhalt sowie prolongierte Immobilisierung. Auch plötzliche Veränderungen des Tagesablaufs, Schlafentzug durch nächtliche Unterbrechungen, künstliche Dauerbeleuchtung, Lärm, soziale Isolation sowie der unsachgemäße Einsatz freiheitsentziehender Maßnahmen spielen eine bedeutende Rolle.
+
+In Langzeitpflegeeinrichtungen treten spezifische Risikokombinationen hinzu: Multimorbidität, Langzeiteinnahme von Psychopharmaka, eingeschränkte Mobilität und reizarme Umgebungen durch Besuchsrestriktionen.
+
+### Prävention
+
+Delirprävention erfordert ein Zusammenspiel aus strukturellen, organisatorischen und individuellen Maßnahmen – und basiert in allen Versorgungssettings auf denselben Grundprinzipien: **Orientierung, Aktivierung, Autonomie und Aufklärung**.
+
+**Strukturelle und edukative Maßnahmen**
+
+Delirsensible Strukturen fördern Orientierung, Sicherheit und Selbstwirksamkeit: eine klare Tagesstruktur, orientierungsfördernde Umgebungsgestaltung (Uhren, Kalender, ausreichend Tageslicht), ausreichend Personal sowie definierte Verantwortlichkeiten – etwa durch Delirbeauftragte oder feste Ansprechpartner:innen. Regelmäßige Schulungen für Pflegefachpersonen, Ärzt:innen und Therapeut:innen fördern Früherkennung und interprofessionelles Handeln. Autonomiefördernde Technologien, mit denen Patient:innen Licht oder Lautstärke selbst steuern können, sind ein weiterer vielversprechender Ansatz.
+
+:::{.callout-tip title="Tipp"}
+Angehörige sind eine oft unterschätzte Ressource in der Delirprävention: Als primäre Beobachter:innen nehmen sie frühe Veränderungen wahr und können durch vertraute Stimmen, Berührungen und Gespräche aktiv zur Re-Orientierung beitragen. Ihre systematische Integration in Assessments und Pflegeprozesse sollte Standard sein.
+:::
+
+**Pflegerische und therapeutische Maßnahmen**
+
+Zentrale Elemente sind regelmäßige Mobilisierung, kontinuierliche Re-Orientierung (Ort, Zeit, Situation, Bezugspersonen), die Anpassung sensorischer Hilfsmittel (Sehhilfen, Hörgeräte, Gehhilfen), ausreichende Flüssigkeitszufuhr, ausgewogenes Schmerzmanagement sowie die Behandlung von Infektionen und Stoffwechselstörungen. Je nach Setting können kognitive und soziale Aktivitäten – gemeinsames Spielen, Vorlesen, Spaziergänge, Musik-, Ergo- oder Bewegungstherapie – multiprofessionell umgesetzt werden.
+
+:::{.callout-note title="Hinweis"}
+Während in Akutkliniken systematische Früherkennung und interprofessionelle Kommunikation im Vordergrund stehen, liegt der Fokus in Pflegeeinrichtungen und der ambulanten Versorgung stärker auf Kontinuität, Beziehungsarbeit und Lebensweltorientierung.
+:::
+
+### Schlussfolgerung
+
+Delirprävention ist möglich – und sie lohnt sich. Durch konsequent delirsensible Strukturen lassen sich Delir-Häufigkeit senken, Lebensqualität steigern und Versorgung humaner gestalten. Schulung, Angehörigenintegration und eine aktivierende, orientierende Umgebung sind die zentralen Schlüssel. Entscheidend ist ein bewusstes, interprofessionelles Vorgehen, das in allen Versorgungssettings strukturell verankert ist.
+
+### Publikation
+
+Caxias de Souza, C. S., Peschel, E., **Schimböck**, F. & Nydahl, P. (2026). Risikofaktoren und Prävention des Delirs. *HEILBERUFE*, 78(3), 14–16. <https://doi.org/10.1007/s00058-026-4052-3>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.1007/s00058-026-4052-3"
+      data-style="large_rectangle">
+</span>
+```

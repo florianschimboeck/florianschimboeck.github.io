@@ -7,7 +7,7 @@ toc-location: right
 toc-title: "Inhalt"
 image: "2026-family-voice.png"
 description: "Ein systematisches Review mit Meta-Analyse zur Wirkung von Familienstimmen – live oder aufgezeichnet – auf die Inzidenz und Dauer von Delir bei erwachsenen Intensivpatient:innen auf Basis von sieben randomisierten kontrollierten Studien mit 582 Patient:innen."
-categories: [2026, Systematischer Review, Meta-Analyse, Delir, Virtual Reality]
+categories: [2026, Systematischer Review, Meta-Analyse, Delir]
 ---
 
 ### Hintergrund

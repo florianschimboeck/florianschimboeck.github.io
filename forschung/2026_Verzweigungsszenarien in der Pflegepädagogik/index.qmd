@@ -1,0 +1,77 @@
+---
+title: "Virtuelle Verzweigungssimulationen in der Gesundheitsberufsbildung – Potenziale und Grenzen"
+date: 2026-08-10
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2026-vsim4future.png"
+description: "Eine qualitative Interviewstudie im Rahmen des Projekts vSim4FutureProfessionals zur doppelten Funktion virtueller Verzweigungssimulationen in der Berufsbildung für Gesundheitsberufe – als Lernmedium für Studierende und als Lerngegenstand zur Professionalisierung angehender Lehrpersonen."
+categories: [2026, Qualitativ, Simulation, Virtual Reality]
+---
+
+### Hintergrund
+
+Digitale Medien sind zu einem zentralen Bestandteil des beruflichen Handelns in den Gesundheitsberufen geworden und erfordern entsprechende Kompetenzen, die bereits in der Lehre ausgebildet werden müssen. Simulationsbasiertes Lehren und Lernen hat sich dabei als wirksame Methode zur Kompetenzentwicklung etabliert – und virtuelle Verzweigungssimulationen (VS, auch Branching Scenarios genannt) stellen eine besonders interaktive Variante dar.
+
+VS sind interaktive Fallszenarien in einer virtuellen Lernumgebung, in denen Lernende schrittweise Handlungsentscheidungen treffen, wissenschaftlich fundiertes Feedback erhalten und die Konsequenzen ihres Handelns unmittelbar erfahren. Bisherige Forschung konzentrierte sich dabei auf die Wirkung von VS auf Lernende – die Perspektive von Lehrenden und angehenden Lehrpersonen blieb weitgehend unberücksichtigt.
+
+> „VS besitzen eine doppelte Relevanz für die Berufsbildung in den Gesundheitsberufen: als innovatives Lernmedium für Lernende und als wirksamer Lerngegenstand zur Professionalisierung angehender Lehrpersonen."
+
+### Ziel
+
+Ziel dieser Studie war es, die Potenziale und Grenzen von VS in der Berufsbildung für Gesundheitsberufe zu untersuchen – und zwar sowohl als Lernmedium im Sinne des handlungsorientierten Lernens auf Seiten der Lernenden (F1) als auch als Lerngegenstand, der angehenden Lehrpersonen selbst beim Erwerb digitaler und didaktischer Kompetenzen dient (F2).
+
+### Methodik
+
+Die Studie wurde im Rahmen des von der Stiftung Innovation in der Hochschullehre geförderten Projekts „vSim4FutureProfessionals" (BTU Cottbus-Senftenberg, 2024–2026) durchgeführt. Zehn Masterstudierende des Studiengangs Berufspädagogik für Gesundheitsberufe (alle weiblich) hatten im Rahmen eines Lehrmoduls selbst VS mit der Software H5P entwickelt und erprobt; drei Hochschullehrende mit Simulationsexpertise setzten eine der entstandenen VS in ihrer Lehre ein.
+
+Für die Beantwortung der Forschungsfragen wurden leitfadengestützte Fokusgruppen-Interviews (angehende Lehrpersonen, n = 8, Februar 2025) und Expertinnen-Interviews (Hochschullehrende, n = 3, Juni 2025) durchgeführt und mittels inhaltlich-strukturierender qualitativer Inhaltsanalyse nach Kuckartz & Rädiker (2022) mit MAXQDA 2024 ausgewertet.
+
+### Ergebnisse
+
+Über beide Perspektiven hinweg ließen sich drei Hauptkategorien identifizieren: Potenziale, Grenzen und didaktische Überlegungen.
+
+**VS als Lernmedium (F1): Potenziale**
+
+Sowohl Hochschullehrende als auch angehende Lehrpersonen hoben übereinstimmend die hohe Realitätsnähe von VS hervor – insbesondere Videos in der Ich-Perspektive steigern das Gefühl des persönlichen Involviert-Seins und lassen VS zu einem Bindeglied zwischen Theorie und Praxis werden. Als pädagogische Stärken wurden psychologische Sicherheit (Fehler ohne reale Konsequenzen), Förderung von Entscheidungskompetenz, unmittelbares Feedback und die Anregung zur Selbstreflexion genannt. Praktische Vorteile sind die zeit- und ortsunabhängige Durchführbarkeit, flexible Komplexitätsanpassung und die einfache technische Zugänglichkeit.
+
+:::{.callout-tip title="Tipp"}
+Hochschullehrende empfehlen, VS analogen Simulationen vorzuschalten – um Handlungssicherheit zu aufzubauen und Ängste vor der anschließenden realen Übungssituation zu reduzieren. VS sind dabei keine Konkurrenz zur Präsenzsimulation, sondern ihre wertvolle Vorbereitung.
+:::
+
+**VS als Lernmedium (F1): Grenzen**
+
+Eine zentrale Einschränkung betrifft die begrenzte Darstellbarkeit zwischenmenschlicher Interaktionen: Empathie, Affekt, Tonfall und Wortwahl lassen sich in virtuellen Lernumgebungen nur unzureichend abbilden. Gleichzeitig wurde eine geringere emotionale Involviertheit im Vergleich zur analogen Simulation festgestellt. Technische Herausforderungen wie fehlende Endgeräte oder Internetprobleme sowie geringe Technikaffinität einzelner Lernender können den Einsatz zusätzlich erschweren.
+
+**VS als Lerngegenstand (F2): Potenziale und Grenzen**
+
+Die aktive Auseinandersetzung mit Entwicklung und Erprobung von VS erweiterte die Digitalkompetenz der angehenden Lehrpersonen nachweislich. Unterstützend wirkten theoretische Einführungen, Begleitung durch das Projektteam und gegenseitige Unterstützung in der Gruppe. Als Herausforderungen erwiesen sich Softwareabstürze, heterogene Technikkompetenzen innerhalb der Gruppen sowie der hohe Zeitaufwand der Entwicklung – der zu einer strikten Arbeitsteilung nach technischer Versiertheit führte und den individuellen Kompetenzzuwachs einzelner Studierender begrenzte.
+
+:::{.callout-warning title="Wichtig"}
+Während Hochschullehrende VS im Einsatz als ressourcensparend wahrnehmen, erleben angehende Lehrpersonen deren Entwicklung als ressourcenintensiv. Dieses Spannungsfeld zwischen Entwicklungs- und Nutzungsaufwand muss bei der Implementierung in die Hochschullehre explizit berücksichtigt werden.
+:::
+
+### Diskussion
+
+Die Befunde bestätigen die vielfältigen Potenziale von VS in der Gesundheitsberufsbildung und zeigen erstmals systematisch, dass VS nicht nur als Lernmedium, sondern auch als Lerngegenstand für angehende Lehrpersonen wirksam sind. Gleichzeitig verdeutlichen die identifizierten Grenzen – insbesondere bei der Darstellung zwischenmenschlicher Interaktionen –, dass VS als wertvolle Ergänzung zu analogen Simulationen und der praktischen Ausbildung zu verstehen sind, nicht als Ersatz. Zukünftige Studien sollten den Kompetenzerwerb durch VS mittels quantitativer Designs und objektiver Messungen erfassen und Langzeiteffekte auf den Transfer in die berufliche Praxis untersuchen.
+
+:::{.callout-note title="Hinweis"}
+Die Entwicklung und Veröffentlichung von VS als Open Educational Resources (OER) könnte die Einstiegshürden für Lehrende deutlich senken und einen breiteren Einsatz in der Gesundheitsberufsbildung ermöglichen – ein wichtiger Impuls für bildungseinrichtungsübergreifende Kooperationen.
+:::
+
+### Schlussfolgerung
+
+Virtuelle Verzweigungssimulationen sind eine vielversprechende Lehr-Lernmethode in der Gesundheitsberufsbildung, die Realitätsnähe, psychologische Sicherheit und Handlungsorientierung verbindet. Ihr volles Potenzial entfaltet sich, wenn sie didaktisch durchdacht eingebettet, technisch zuverlässig bereitgestellt und durch eine strukturierte Nachbesprechung ergänzt werden. Die Studie liefert damit eine evidenzbasierte Grundlage für den weiteren Ausbau von VS-Konzepten in der Qualifizierung von Gesundheitsfachpersonen und deren Lehrpersonen.
+
+### Publikation
+
+Marschinke, M.-M., Kühn, M., **Schimböck**, F., Kernig, M., Fischer, S. M. & Bilz, L. (2026). Virtuelle Verzweigungssimulationen in der Berufsbildung für Gesundheitsberufe: Eine Studie zu ihren Potenzialen und Grenzen aus der Perspektive Hochschullehrender und angehender Lehrpersonen. *Pädagogik der Gesundheitsberufe*. <https://doi.org/10.3936/pdg211666920_558>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.3936/pdg211666920_558"
+      data-style="large_rectangle">
+</span>
+```

@@ -1,0 +1,82 @@
+---
+title: "Psychosoziales Coping bei ICU-Delir – Perspektiven von Patient:innen und Angehörigen"
+date: 2026-08-18
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2026-coping-delirium.png"
+description: "Ein sytematischer Mixed-Methods-Review zu psychosozialen Coping-Strategien von ICU-Patient:innen und ihren An-/Zugehörigen während eines Delirs – theoretisch verankert im transaktionalen Stress- und Coping-Modell, basierend auf zehn qualitativen Studien aus sieben Ländern."
+categories: [2026, Systematischer Review, Delir]
+---
+
+### Hintergrund
+
+Delir auf der Intensivstation (ICU) stellt sowohl für betroffene Patient:innen als auch für ihre An-/Zugehörigen eine tiefgreifende psychosoziale Belastungssituation dar. In erwachsenen ICU-Populationen liegt die Delir-Inzidenz zwischen 31 % und 80 %. Die Folgen sind gravierend: Beeinträchtigungen der Kognition, erhöhte Sterblichkeit, verminderter funktioneller Status, eingeschränkte Lebensqualität und ein erhöhtes Risiko für Langzeitinstitutionalisierung.
+
+Aus psychologischer Perspektive bedeutet ein ICU-Aufenthalt für Patient:innen und ihre Familien einen massiven Stressor. Delir verschärft diese Belastung durch kognitive Fragmentierung, Halluzinationen, Desorientierung und das Erleben des Kontrollverlusts. Während die Literatur die Belastungsdimensionen – symptombezogen, emotional, situativ – zunehmend dokumentiert, fehlte bislang eine systematische Synthese der aktiven Coping-Strategien, mit denen Patient:innen und An-/Zugehörige diesem Erleben begegnen.
+
+> „Sowohl ICU-Patient:innen als auch ihre An-/Zugehörigen sind keine passiven Opfer des Delirs – sie setzen aktiv und vielfältig Coping-Strategien ein, um die Situation zu bewältigen."
+
+### Ziel
+
+Ziel dieses systematischen Mixed-Methods-Reviews war es, die verfügbare Evidenz zu psychosozialen Coping-Strategien von ICU-Patient:innen und ihren An-/Zugehörigen während eines Delirs zu identifizieren, synthetisieren und kritisch zu bewerten – theoretisch eingebettet in das transaktionale Modell von Stress und Coping nach Lazarus und Folkman.
+
+### Methodik
+
+Das Review folgte der JBI-Methodik für Mixed-Methods-Reviews und wurde vorab in PROSPERO registriert (CRD420251186487). Es wurde gemäß den PRISMA-2020-Leitlinien berichtet. Die Literatursuche umfasste MEDLINE (PubMed), CINAHL, PsycINFO und PSYNDEX ohne zeitliche Einschränkungen.
+
+Eingeschlossen wurden Studien zu erwachsenen ICU-Patient:innen (≥ 18 Jahre) mit Delir sowie deren An-/Zugehörigen. Qualitative Befunde wurden mittels JBI-Meta-Aggregation analysiert; die Qualitätsbewertung erfolgte mit dem Mixed Methods Appraisal Tool (MMAT). Obwohl das Review ursprünglich als Mixed-Methods-Design konzipiert war, konnten in der Suche keine quantitativen Studien identifiziert werden, die die Einschlusskriterien erfüllten – das Fehlen quantitativer Evidenz ist damit selbst ein zentrales Ergebnis des Reviews.
+
+:::{.callout-warning title="Wichtig"}
+Kein einziges quantitatives Studie erfüllte die Einschlusskriterien. Das Fehlen von RCTs oder anderen quantitativen Designs zu Coping-Interventionen bei ICU-Delir ist selbst ein bedeutsamer Befund – und unterstreicht den dringenden Bedarf an weiterführender Forschung.
+:::
+
+Von 1.985 Treffern erfüllten nach Deduplizierung, Screening und Volltextprüfung zehn qualitative Studien alle Einschlusskriterien.
+
+### Ergebnisse
+
+**Charakteristika der eingeschlossenen Studien**
+Die zehn qualitativen Studien wurden zwischen 1999 und 2025 publiziert und stammen aus sieben Ländern (u. a. China, USA, Schweden, Kanada, Dänemark, Taiwan, UK). Fünf Studien untersuchten sowohl Patient:innen als auch An-/Zugehörige, drei ausschließlich An-/Zugehörige und zwei ausschließlich Patient:innen. Die methodische Qualität war insgesamt hoch: 80 % der Studien wurden als higher-quality klassifiziert.
+
+**Coping-Strategien der Patient:innen**
+Über die eingeschlossenen Studien hinweg zeigten sich drei Kategorien von Coping-Strategien: problemorientiert, emotionsorientiert und bedeutungsbasiert. Die am häufigsten dokumentierte Strategie war aktives Sensemaking und Realitätsorientierung – das Suchen nach Anhaltspunkten in der Umgebung, um die eigene Lage zu verstehen. Weitere problemorientierte Strategien waren proaktive Vermeidung von Delir-Auslösern (z. B. Ablehnung von Sedativa) und das Bemühen um Kontrolle und Autonomie.
+
+Soziale Verbundenheit war die am stärksten belegte emotionsorientierte Strategie: die physische und verbale Präsenz von An-/Zugehörigen gab Patient:innen Sicherheit und Kraft. Bedeutungsbasiertes Coping umfasste positive Neubewertung, mentale Umlenkung auf angenehme Orte und Identitätsrekonstruktion – etwa durch vertraute Musik, die das Gefühl des Zurückgeholten-Werdens vermittelte.
+
+:::{.callout-tip title="Zentraler Befund"}
+Trotz der kognitiven Einschränkungen durch das Delir zeigten Patient:innen aktive Coping-Prozesse – einschließlich bedeutungsbasierter Strategien wie positiver Neubewertung und Identitätsrekonstruktion. Coping-Kapazität ist offenbar auch unter beeinträchtigtem Bewusstsein nicht vollständig aufgehoben.
+:::
+
+**Coping-Strategien der An-/Zugehörigen**
+An-/Zugehörige setzten Coping-Strategien in zwei Richtungen ein: einerseits zur Unterstützung der Patient:innen, andererseits zur Bewältigung der eigenen psychischen Belastung.
+
+Die am stärksten belegte Strategie in Richtung Patient:in war emotionale Präsenz und relationale Unterstützung: Körperkontakt, beruhigende Sprache, persönliche Erinnerungen und vertraute Objekte. Darüber hinaus initiierten Angehörige aktiv Reorientierung und kognitive Stimulation (z. B. Erklärungen zu Zeit und Ort, Mitbringen von Büchern, Kalendern, Musik) sowie Kollaboration mit dem Behandlungsteam.
+
+Zur Bewältigung der eigenen Belastung griffen An-/Zugehörige auf Informationssuche, Vermeidung, selektives Engagement und positive Neubewertung zurück. Kulturell verankerte Strategien – wie religiöse Rituale oder traditionelle chinesische Medizin – wurden in einem Teil der Studien beschrieben und weisen auf die Bedeutung kultursensibler Unterstützungsangebote hin.
+
+:::{.callout-note title="Hinweis"}
+Wenn Angehörigen ausreichende Informationen über Delir fehlten, wurde passives Vertrauen in das behandelnde Team zur dominanten Strategie – ein Hinweis darauf, dass strukturierte Deliredukation für Familien nicht nur den Patient:innen, sondern auch den An-/Zugehörigen selbst zugutekommt.
+:::
+
+### Diskussion
+
+Die Befunde sind konsistent mit dem transaktionalen Stress- und Copingmodell nach Lazarus und Folkman: Delir auf der ICU stellt eine Transaktion zwischen Person und Umwelt dar, die kontinuierliche Bewertungs- und Neubewertungsprozesse auslöst. An-/Zugehörige erwiesen sich als primäre Coping-Ressource für Patient:innen und trugen dabei gleichzeitig eine erhebliche eigene psychische Last. Übernehmen An-/Zugehörige exzessive Betreuungsrollen, riskieren sie emotionale Erschöpfung.
+
+Das transaktionale Modell stößt bei der Anwendung auf ICU-Delir an theoretische Grenzen: Die kognitiven Einschränkungen durch das Delir lassen bewusste Bewertungsprozesse, wie das Modell sie konzipiert, nur eingeschränkt zu. Dennoch wurden aktive Coping-Strategien beobachtet, was darauf hindeutet, dass zumindest ein Teil der Coping-Reaktionen reaktiv oder unterhalb der Schwelle bewusster kognitiver Verarbeitung erfolgt.
+
+### Schlussfolgerung
+
+Sowohl ICU-Patient:innen als auch ihre An-/Zugehörigen setzen ein breites Spektrum aktiver Coping-Strategien ein, die mit dem transaktionalen Stress- und Coping-Modell konsistent sind. Diese Erkenntnisse liefern eine Evidenzbasis für die Entwicklung patient:innen- und familienzentrierter, coping-informierter psychosozialer Interventionen in der ICU-Delirversorgung. Zukünftige Studien sollten insbesondere quantitative Designs entwickeln, die gezielte Coping-Interventionen messen, und dabei kulturelle Hintergründe sowie die dyadische Natur des Copings bei Patient:innen und An-/Zugehörigen berücksichtigen.
+
+### Publikation
+
+Oh, E., Marx-Rosenberg, G., **Schimböck**, F., Groth, N., Nydahl, P. & Gallinat, J. (2026). Psychosocial coping with intensive care delirium: a mixed-methods systematic review of patient and family perspectives. *Critical Care*, 30, 440. <https://doi.org/10.1186/s13054-026-06232-1>
+
+```{=html}
+
+<span class="__dimensions_badge_embed__"
+      data-doi="10.1186/s13054-026-06232-1"
+      data-style="large_rectangle">
+</span>
+```

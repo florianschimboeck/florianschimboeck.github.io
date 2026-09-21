@@ -5,7 +5,7 @@ toc-location: right
 toc-title: "Inhalt"
 ---
 
-Gute Wissenschaft braucht gute Netzwerke. Seit Jahren pflege ich Kooperationen mit Institutionen in Deutschland, Finnland, Norwegen, Italien und der Schweiz — in der Forschung, in der Lehre und in der Praxis. Diese Seite gibt einen Überblick über meine wichtigsten Verbindungen und internationalen Aktivitäten.
+Gute Wissenschaft braucht gute Netzwerke. Seit Jahren pflege ich Kooperationen mit Institutionen in Deutschland, Österreich, Schweiz, Italien, Norwegen und Finnland — in der Forschung, in der Lehre und in der Praxis. Diese Seite gibt einen Überblick über meine wichtigsten Verbindungen und internationalen Aktivitäten.
 
 ```{r}
 #| echo: false
@@ -19,7 +19,7 @@ layout_columns(
   col_widths = c(3, 3, 3, 3),
   value_box(
     title = "Länder",
-    value = 5,
+    value = 6,
     showcase = bs_icon("globe-europe-africa", size = "2rem"),
     showcase_layout = "left center", 
     theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
@@ -27,7 +27,7 @@ layout_columns(
   ),
   value_box(
     title = "Institutionen",
-    value = 4,
+    value = 5,
     showcase = bs_icon("building", size = "2rem"),
     showcase_layout = "left center", 
     theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
@@ -43,7 +43,7 @@ layout_columns(
   ),
   value_box(
     title = "Mitgliedschaften",
-    value = 3,
+    value = 4,
     showcase = bs_icon("people", size = "2rem"),
     showcase_layout = "left center", 
     theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),
@@ -186,5 +186,6 @@ Erasmus Teacher Exchange an der FH Gesundheitsberufe Oberösterreich im Jahr 202
 ### {{< fa users >}} Mitgliedschaften
 
 - Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin e.V.
-- SimNAT Pflege e.V.
+- European Delirium Association
 - Delir-Netzwerk e.V.
+- SimNAT Pflege e.V.
