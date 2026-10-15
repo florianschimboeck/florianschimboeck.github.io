@@ -6,6 +6,14 @@
   <i class='bi bi-geo-alt'></i> Online via MS Teams"
   categories: [Kommend, Webinar, Delir]
 
+- title: "Erasmus Staff Exchange Universität Istanbul"
+  date: 2026-11-23
+  description: "
+  <i class='bi bi-megaphone'></i> Christian-Albrechts-Universität zu Kiel &emsp;·&emsp; 
+  <i class='bi bi-calendar-event'></i> 23. bis 25. November 2026 &emsp;·&emsp;
+  <i class='bi bi-geo-alt'></i> Kiel, Deutschland"
+  categories: [Kommend, Erasmus Staff Exchange, Pflegepädagogik]
+
 - title: "DIVI-Kurs zum Delirmanagement"
   date: 2026-11-19
   description: "
@@ -13,6 +21,14 @@
   <i class='bi bi-calendar-event'></i> 19. bis 20. November 2026 &emsp;·&emsp;
   <i class='bi bi-geo-alt'></i> Klettwitz, Deutschland"
   categories: [Kommend, Inhouse-Schulung, Delir]
+
+- title: "360°-Patientensicherheit: der virtuelle Room of Horror als interprofessionelles Lernformat"
+  date: 2026-11-04
+  description: "
+  <i class='bi bi-megaphone'></i> 99. Kongress der Deutschen Gesellschaft für Neurologie e.V. &emsp;·&emsp; 
+  <i class='bi bi-calendar-event'></i> 04 November 2026 &emsp;·&emsp;
+  <i class='bi bi-geo-alt'></i> Berlin, Deutschland"
+  categories: [Kommend, Vortrag, Virtual Reality]
 
 - title: "Künstliche Intelligenz in der Dialyse: Chancen, Grenzen und Führungsperspektiven"
   date: 2026-10-19
@@ -25,10 +41,10 @@
 - title: "Delirium in Focus: Using Virtual Reality to Transform Healthcare Education"
   date: 2026-10-07
   description: "
-  <i class='bi bi-megaphone'></i> Kajaani University of Applied Sciences & Edinburgh College &emsp;·&emsp; 
-  <i class='bi bi-calendar-event'></i> 7. Oktober 2026 &emsp;·&emsp;
+  <i class='bi bi-megaphone'></i> Kajaani University of Applied Sciences & Edinburgh College <br> 
+  <i class='bi bi-calendar-event'></i> 7. Oktober 2026 <br>
   <i class='bi bi-geo-alt'></i> Online via MS Teams"
-  categories: [Kommend, Webinar, Delir, Virtual Reality]
+  categories: [Vergangen, Webinar, Delir, Virtual Reality]
 
 - title: "KI in der Pflege"
   date: 2026-06-17

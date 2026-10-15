@@ -154,7 +154,7 @@ Institut für Pflegewissenschaft: <br>
 *Steiermärkische Krankenanstaltengesellschaft, Graz, Österreich*
 :::
 
-### {{< fa user >}} Expert*innen-Tätigkeit
+### {{< fa user >}} Expertenrolle
 
 ::: {.callout-note icon="false" collapse="false"}
 ## Expertenarbeitsgruppe zum Expertenstandard Delir · Aug. 2025 - laufend

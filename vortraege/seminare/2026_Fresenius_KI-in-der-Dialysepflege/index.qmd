@@ -1,0 +1,122 @@
+---
+title: ""
+pagetitle: "KI in der Dialysepflege"
+format:
+  html:
+    page-layout: custom
+    toc: false
+    css: ../seminar.css
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+navbar: false
+---
+
+```{=html}
+<div class="seminar-card">
+
+  <!-- ═══ HEADER – immer gleich, nie anpassen ═══ -->
+  <div class="seminar-header">
+    <div class="logo-wrap">
+      <img src="/logo-dunkel.png" alt="Logo Florian Schimböck"
+           onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+      <div style="display:none; font-size:1.5rem; font-weight:700; color:#1A6FA0;
+                  width:68px; height:68px; align-items:center; justify-content:center;">FS</div>
+    </div>
+    <div class="seminar-name">Florian Schimböck</div>
+    <div class="seminar-role">Pflegewissenschaftler · Pflegepädagoge</div>
+  </div>
+
+  <!-- ═══ SOCIAL ICONS – immer gleich, nie anpassen ═══ -->
+  <div class="seminar-socials">
+    <a href="https://github.com/florianschimboeck" target="_blank" title="GitHub">
+      <i class="fab fa-github"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/florian-schimböck-758584212" target="_blank" title="LinkedIn">
+      <i class="fab fa-linkedin-in"></i>
+    </a>
+    <a href="https://www.researchgate.net/profile/Florian-Schimboeck?ev=hdr_xprf" target="_blank" title="ResearchGate">
+      <i class="fab fa-researchgate"></i>
+    </a>
+    <a href="https://orcid.org/my-orcid?orcid=0000-0002-4834-0114" target="_blank" title="ORCID">
+      <span class="orcid-icon">iD</span>
+    </a>
+  </div>
+
+  <div class="seminar-content">
+
+    <!-- ═══ BUTTONS – immer gleich, nie anpassen ═══ -->
+    <div class="seminar-buttons">
+      <a class="btn-seminar btn-seminar-primary"
+         href="https://florianschimboeck.com" target="_blank">
+        <i class="fas fa-globe"></i> Zur Homepage
+      </a>
+      <a class="btn-seminar btn-seminar-primary" href="../florian-schimboeck.vcf" download>
+        <i class="fas fa-address-card"></i> Kontakt speichern
+      </a>
+    </div>
+
+    <hr class="seminar-divider">
+
+    <!-- ═══ ANPASSEN: Seminartitel, Datum, Uhrzeit, Ort ═══ -->
+    <div class="section-label">Seminardetails</div>
+    <div class="info-row">
+      <i class="fas fa-hashtag"></i><span>KI in der Dialysepflege</span>
+    </div>
+    <div class="info-row">
+      <i class="fas fa-calendar"></i><span>19. Oktober 2026</span>
+    </div>
+    <div class="info-row">
+      <i class="fas fa-clock"></i><span>14:15 – 17:45 Uhr</span>
+    </div>
+    <div class="info-row">
+      <i class="fas fa-location-dot"></i><span>Pörtschach, Österreich</span>
+    </div>
+
+    <hr class="seminar-divider">
+
+    <!-- ═══ ANPASSEN: 2–3 Lernziele, oder Block weglassen ═══ -->
+    <div class="section-label">Nach diesem Seminar können Sie …</div>
+    <ul class="goals-list">
+      <li>… die grundlegenden Konzepte und Funktionsweisen von KI verstehen können.
+      <li>… die Relevanz und Bedeutung in der Pflege beschreiben können.
+      <li>… verschiedene Anwendungsszenarien von KI in der Pflege aufzeigen können.
+      <li>… ethische und rechtliche Herausforderungen im Umgang mit KI kritisch reflektieren können.
+      <li>… ein Bewusstsein für die zukünftigen Entwicklungen im Bereich KI in der Pflege entwickeln.
+    </ul>
+
+    <hr class="seminar-divider">
+
+    <!-- ═══ ANPASSEN: Links und PDFs einfügen, nicht benötigte Buttons löschen ═══ -->
+    <div class="section-label">Ressourcen</div>
+    <div class="seminar-buttons">
+      <a class="btn-seminar btn-seminar-outline" href="handout_ki-in-der-dialysepflege.pdf" download>
+        <i class="fas fa-file"></i> Handout downloaden
+      </a>
+      <a class="btn-seminar btn-seminar-outline"
+         href="https://basiswissen-ki.de" target="_blank">
+        <i class="fas fa-arrow-up-right-from-square"></i> Link zum Basiswissen KI
+      </a>
+      <a class="btn-seminar btn-seminar-outline"
+         href="https://ki-campus.org" target="_blank">
+        <i class="fas fa-arrow-up-right-from-square"></i> Link zum KI-Campus
+      </a>
+      <a class="btn-seminar btn-seminar-outline"
+         href="https://chat.ki.rtr.at" target="_blank">
+        <i class="fas fa-arrow-up-right-from-square"></i> Link zum AI Act Chatbot 
+      </a>
+      <a class="btn-seminar btn-seminar-outline"
+         href="https://teachablemachine.withgoogle.com" target="_blank">
+        <i class="fas fa-arrow-up-right-from-square"></i> Link zu Teachable Machine
+      </a>
+    </div>
+
+  </div>
+
+  <!-- ═══ FOOTER – immer gleich, nie anpassen ═══ -->
+  <div class="seminar-footer">
+    <a href="https://florianschimboeck.com">florianschimboeck.com</a>
+  </div>
+
+</div>
+```

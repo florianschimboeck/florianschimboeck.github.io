@@ -4,8 +4,16 @@
     "items": []
   },
   {
+    "listing": "/ressourcen.html",
+    "items": [
+      "/ressourcen/Coming soon/index.html",
+      "/ressourcen/Virtueller Room of Horrors/index.html"
+    ]
+  },
+  {
     "listing": "/forschung.html",
     "items": [
+      "/forschung/2027_Scoping Review Sprachsensible Pflegebildung/index.html",
       "/forschung/2026_Coping bei Delir Mixed Method Review/index.html",
       "/forschung/2026_Verzweigungsszenarien in der Pflegepädagogik/index.html",
       "/forschung/2026_Toolbox Interprofessionelle Edukation/index.html",
@@ -19,13 +27,6 @@
       "/forschung/2024_Interprofessionelles Delirmanagement/index.html",
       "/forschung/2023_Validation bei Menschen mit Demenz/index.html",
       "/forschung/2022_Praktische Prüfungen unter Simulationsbedingungen/index.html"
-    ]
-  },
-  {
-    "listing": "/ressourcen.html",
-    "items": [
-      "/ressourcen/Coming soon/index.html",
-      "/ressourcen/Virtueller Room of Horrors/index.html"
     ]
   }
 ]

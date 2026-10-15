@@ -35,7 +35,7 @@ layout_columns(
   ),
   value_box(
     title = "Artikel",
-    value = 25,
+    value = 26,
     showcase = bsicons::bs_icon("journal-text", size = "2rem"),
     showcase_layout = "left center", 
     theme = value_box_theme(bg = "#F8F9FA", fg = "text-primary"),

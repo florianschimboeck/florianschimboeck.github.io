@@ -1,0 +1,92 @@
+---
+title: "Sprachsensibles Lernen und Lehren in der Pflegebildung – ein Scoping Review"
+author: "Florian Schimböck"
+date: 2027-02-01
+reading-time: true
+toc: true
+toc-location: right
+toc-title: "Inhalt"
+image: "2027-scopingsprache.png"
+description: "Scoping Review zu Erfahrungen, Sprachbedarfen, Assessmentinstrumenten und Unterstützungsmaßnahmen für L2-Lernende in der Pflegebildung – auf Basis von 133 Quellen aus 12 Ländern (1990–2025)."
+categories: [2027, Scoping Review, Sprachsensible Pflege]
+---
+
+### Hintergrund
+
+Die sprachliche Diversität in der Pflegebildung hat in den vergangenen Jahrzehnten weltweit zugenommen – in englischsprachigen Ländern ebenso wie zunehmend in deutschsprachigen Kontexten. L2-Lernende stehen dabei vor besonderen Herausforderungen: Sie müssen parallel akademische Sprachkompetenz (CALP) und fachspezifische Kommunikation entwickeln, während sie die gleichen klinischen und prüfungsbezogenen Anforderungen erfüllen wie ihre Kommiliton:innen.
+
+> „Die Literatur hat über 35 Jahre hinweg weit mehr über das Problem dokumentiert als über seine Lösung – ein Befund, der selbst zum Befund wird."
+
+Obwohl internationale Übersichtsarbeiten zu diesem Themenfeld vorliegen, gibt es nur wenige systematische Arbeiten, die eine systematische Kartierung der verfügbaren Erkenntnisse über L2-Lernende, Lehrende/Praxisanleitende, Sprachbedarfe, Assessmentinstrumente und Unterstützungsmaßnahmen bündeln. Das vorliegende Scoping Review schließt diese Lücke und legt damit eine empirische Grundlage für die Weiterentwicklung sprachsensibler Pflegebildung.
+
+### Ziel
+
+Ziel des Scoping Reviews war die systematische Kartierung des Forschungsstandes zu fünf Forschungsfragen: (1) Erfahrungen L2-Lernende, (2) Erfahrungen von Lehrenden und Praxisanleitenden/Mentoren, (3) Sprachliche Anforderungen und Bedarfe in der Pflegebildung, (4) Sprachbezogene Assessmentinstrumente sowie (5) Unterstützungsmaßnahmen und -aktivitäten. Das Review wurde nach JBI-Methodik durchgeführt und folgt dem PRISMA-ScR-Berichtsstandard. Das Protokoll ist im Open Science Framework registriert (https://osf.io/4crbe).
+
+### Methodik
+
+**Design:** Scoping Review nach JBI-Methodik (Peters et al., 2020) mit PRISMA-ScR-Berichterstattung.
+
+**Suchstrategie:** Systematische Datenbanksuche in MEDLINE (PubMed), CINAHL (EBSCO), ERIC (EBSCO) und MLA International Bibliography (EBSCO) sowie Graue Literatur über OpenGrey und deutschsprachige Fachzeitschriften für Deutsch als Fremd- und Zweitsprache. Die Suche wurde im Juni 2023 durchgeführt und im Juni 2025 aktualisiert.
+
+**Ein- und Ausschlusskriterien:** Eingeschlossen wurden Quellen in englischer oder deutscher Sprache zu L2-Lernenden und/oder deren Lehrenden/Praxisanleitenden in Pflegeausbildungsprogrammen auf Bachelorniveau.
+
+**Analyse:** Deskriptive numerische Zusammenfassung und qualitative Inhaltsanalyse; zwei unabhängige Reviewende in Titelscreening und Volltext-Selektion.
+
+:::{.callout-note title="Hinweis"}
+Das Review umfasst 133 eingeschlossene Quellen aus 12 Ländern und deckt den Zeitraum von 1990 bis 2025. Über 80 % der Quellen stammen aus drei anglophonen Ländern (USA 45 %, Australien 30 %, Kanada 8 %). Die Übertragbarkeit auf nicht-anglophone, insbesondere deutschsprachige Kontexte ist daher begrenzt.
+:::
+
+### Ergebnisse
+
+**Erfahrungen der L2-Lernenden (RQ1)**
+
+Die psychosozialen Erfahrungen L2-Lernender sind in der Literatur dominant negativ geprägt: Angst, Isolation, Rückzug aus mündlicher Interaktion und Furcht vor negativer Bewertung. Sprachliche Herausforderungen bestehen über alle vier Fertigkeitsbereiche – Lesen, Hören, Sprechen und Schreiben – hinweg und verschärfen sich an der Schnittstelle von akademischen und klinischen Anforderungen. Die Unterscheidung zwischen alltagssprachlicher Kompetenz (BICS) und akademisch-fachsprachlicher Kompetenz (CALP) nach Cummins (2008) erweist sich als produktive analytische Linse: Studierenden, die Aufnahmeanforderungen erfüllen, fehlt häufig dennoch die CALP, die für das Studium erforderlich ist.
+
+Klinische Praktika wurden am häufigsten als Ressource beschrieben, in anderen Quellen jedoch auch als besondere Belastungsquelle. Ob ein Praktikum förderlich oder hinderlich wirkt, hängt wesentlich von den relationalen Bedingungen – insbesondere dem Verhalten von Praxisanleitenden – ab.
+
+**Erfahrungen der Lehrenden/Praxisanleitenden (RQ2)**
+
+Lehrende/Praxisanleitende berichten über Frustration und Überforderung, Schuld und emotionale Belastung sowie Unsicherheit im Umgang mit Sprachkompetenz als Bestandteil klinischer Eignung. Als konsistentester Befund über Designs, Jahrzehnte und Länderkontexte hinweg erweist sich das Gefühl unzureichender Vorbereitung: Lehrende/Praxisanleitende beschreiben sich selbst als unzureichend auf die Anforderungen sprachlich heterogener Lernendengruppen vorbereitet.
+
+:::{.callout-warning title="Kritischer Befund"}
+Das Schweigen von L2-Lernenden – ein Rückzug aus mündlicher Interaktion als Reaktion auf Angst vor Bewertung – kann von Lehrenden als Passivität oder mangelnde Eignung fehlinterpretiert werden. Diese bidirektionale Dynamik verschärft sich selbst: Lehrende reagieren mit erhöhtem Prüfungsdruck, L2-Lernende ziehen sich weiter zurück. Sie lässt sich nicht allein durch Sprachförderangebote auflösen, sondern erfordert psychologische Sicherheit als Strukturmerkmal der Lernumgebung.
+:::
+
+**Sprachliche Anforderungen und Bedarfe (RQ3)**
+
+Die formalen Sprachzulassungsanforderungen – IELTS, TOEFL, GFR-Niveaus – wurden über die eingeschlossenen Quellen hinweg konsistent als unzureichende Prädiktoren für die tatsächlich erforderliche Sprachkompetenz beschrieben. Es konnte kein pflegespezifisches, kontextuell validiertes Sprachkompetenzrahmenwerk identifiziert werden. Die Sprachbedarfe erstrecken sich auf vier Fertigkeitsbereiche (Lesen, Schreiben, Hören, Sprechen) sowie auf fachspezifische Kommunikation in klinischen Interaktionen – eine Anforderungsstruktur, die von allgemeinen akademischen Sprachtests nicht abgebildet wird.
+
+**Assessmentinstrumente (RQ4)**
+
+Es wurden 12 Instrumente identifiziert, die sprachbezogene Merkmale L2-Lernender oder ihrer Lehrenden erfassen. Diese adressieren sechs Konstrukte: selbsteingeschätzte Sprachnutzung, sprachbezogene Angst, standardisierte Sprachkompetenz, klinische Sprachleistung, Bedarfserfassung sowie Kompetenz Lehrender im Umgang mit sprachlicher Diversität. Psychometrische Kennwerte lagen für acht der zwölf Instrumente vor; für vier Instrumente fehlten entsprechende Daten. Kein Instrument wurde kontextübergreifend, d. h. unabhängig vom Entwicklungskontext, validiert.
+
+**Unterstützungsmaßnahmen (RQ5)**
+
+Unterstützungsmaßnahmen wurden auf drei Akteursebenen dokumentiert: lernende-, lehrenden- und institutionell-curricular initiierte Maßnahmen. Die von L2-Lernenden initiierten Strategien umfassen u. a. Sprachpraxis im Alltag, Vokabular-Selbstmanagement, Lerngruppen und das wiederholte Anhören aufgezeichneter Lehrveranstaltungen. Lehrend-initiierte Maßnahmen umfassen 13 Kategorien – von sprachsensibler Kommunikation und Vokabelarbeit über Simulationen und Assessmentanpassungen bis hin zu kultureller Bewusstseinsarbeit. Institutionelle Maßnahmen reichen von systematischen Sprachbedarfserhebungen und Orientierungsprogrammen bis hin zu Curriculum-Anpassungen und akademisch-klinischer Zusammenarbeit.
+
+:::{.callout-tip title="Implikation für die Praxis"}
+Curriculum-integrierte Sprachunterstützung – eingebettet in Fachlehrveranstaltungen und klinische Ausbildung – wird in den eingeschlossenen Quellen konsistent als zielführender beschrieben als parallele, additive Sprachkursangebote. Translanguaging-Ansätze, die das gesamte Sprachrepertoire der L2-Lernenden als Ressource nutzen, sind bisher kaum erprobt, zeigen aber konzeptionell großes Potenzial.
+:::
+
+### Diskussion
+
+Das Review offenbart eine grundlegende Asymmetrie: Herausforderungen sind umfangreich und konsistent dokumentiert, Lösungsansätze hingegen selten evaluiert. Die übergreifende Struktur des Problems ist eine systemische Fehlausrichtung zwischen Zulassungsstandards, akademischen und klinischen Sprachanforderungen sowie den verfügbaren Unterstützungsstrukturen.
+
+Besonders hervorzuheben ist, dass die Evidenzbasis dominiert wird von qualitativen und beschreibenden Designs aus drei anglophonen Ländern. Kein Instrument wurde über Kontexte hinweg validiert; kein pflegespezifisches Sprachkompetenzrahmenwerk existiert. Die Übertragbarkeit auf den deutschsprachigen Hochschulkontext – in dem dieses Review verankert ist – ist damit strukturell begrenzt, aber umso dringlicher als Forschungsaufgabe.
+
+### Schlussfolgerung
+
+35 Jahre internationale Forschung liefern eine detaillierte Karte des Problems – eine ebenso ausgereifte Karte der Lösungen liegt nicht vor. Prioritäten für Forschung und Praxis umfassen: die Entwicklung und Validierung pflegespezifischer Sprachkompetenzrahmenwerke, systematische Vorbereitung von Lehrenden als institutionelle Verpflichtung (nicht als individuelle Initiative), curriculumintegrierte statt additive Sprachunterstützung sowie eine konzeptionelle Verschiebung von der Defizit- zur Ressourcenperspektive. Der Befund, dass die meisten dokumentierten Unterstützungsmaßnahmen reaktiv, individuell und kaum evaluiert sind, verweist auf die dringende Notwendigkeit struktureller Investitionen in eine sprachsensible Pflegebildung.
+
+### Publikation
+
+**Schimböck**, F., Erichsen, G., Petersen, I. & von Gahlen-Hoops, W. (2027). Linguistically responsive learning and teaching for non-native speakers in undergraduate nursing education: a scoping review. *Nurse Education Today*, 169, 107464. https://doi.org/10.1016/j.nedt.2026.107464
+
+```{=html}
+<span class="__dimensions_badge_embed__"
+      data-doi="10.1016/j.nedt.2026.107464"
+      data-style="large_rectangle">
+</span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
